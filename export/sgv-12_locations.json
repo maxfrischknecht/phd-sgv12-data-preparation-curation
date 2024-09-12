@@ -1,5 +1,6 @@
 [
     {
+        "label": "Lucerne",
         "count": 2792,
         "image_ids": [
             "SGV_12N_07501",
@@ -2802,6 +2803,7 @@
         "location": "Lucerne"
     },
     {
+        "label": "B\u00fcrglen",
         "count": 16,
         "image_ids": [
             "SGV_12N_07509",
@@ -2828,6 +2830,7 @@
         "location": "B\u00fcrglen"
     },
     {
+        "label": "Kanton Uri",
         "count": 454,
         "image_ids": [
             "SGV_12N_07511",
@@ -3292,6 +3295,7 @@
         "location": "Kanton Uri"
     },
     {
+        "label": "Rotkreuz",
         "count": 19,
         "image_ids": [
             "SGV_12N_07556",
@@ -3321,6 +3325,7 @@
         "location": "Rotkreuz"
     },
     {
+        "label": "Z\u00fcrich",
         "count": 1331,
         "image_ids": [
             "SGV_12N_07561",
@@ -4662,6 +4667,7 @@
         "location": "Z\u00fcrich"
     },
     {
+        "label": "Novaggio",
         "count": 4,
         "image_ids": [
             "SGV_12N_07587",
@@ -4676,6 +4682,7 @@
         "location": "Novaggio"
     },
     {
+        "label": "Kiental",
         "count": 134,
         "image_ids": [
             "SGV_12N_07588",
@@ -4820,6 +4827,7 @@
         "location": "Kiental"
     },
     {
+        "label": "Reichenbach",
         "count": 106,
         "image_ids": [
             "SGV_12N_07608",
@@ -4936,6 +4944,7 @@
         "location": "Reichenbach"
     },
     {
+        "label": "Gurtnellen",
         "count": 83,
         "image_ids": [
             "SGV_12N_07665",
@@ -5029,6 +5038,7 @@
         "location": "Gurtnellen"
     },
     {
+        "label": "Schwarzenburg",
         "count": 53,
         "image_ids": [
             "SGV_12N_07671",
@@ -5092,6 +5102,7 @@
         "location": "Schwarzenburg"
     },
     {
+        "label": "Riffenmatt",
         "count": 103,
         "image_ids": [
             "SGV_12N_07676",
@@ -5205,6 +5216,7 @@
         "location": "Riffenmatt"
     },
     {
+        "label": "Guggisberg",
         "count": 48,
         "image_ids": [
             "SGV_12N_07684",
@@ -5263,6 +5275,7 @@
         "location": "Guggisberg"
     },
     {
+        "label": "Konolfingen",
         "count": 54,
         "image_ids": [
             "SGV_12N_07695",
@@ -5327,6 +5340,7 @@
         "location": "Konolfingen"
     },
     {
+        "label": "Wahlern",
         "count": 10,
         "image_ids": [
             "SGV_12N_07759",
@@ -5347,6 +5361,7 @@
         "location": "Wahlern"
     },
     {
+        "label": "Kanton Graub\u00fcnden",
         "count": 531,
         "image_ids": [
             "SGV_12N_07801",
@@ -5888,6 +5903,7 @@
         "location": "Kanton Graub\u00fcnden"
     },
     {
+        "label": "Sarn",
         "count": 22,
         "image_ids": [
             "SGV_12N_07820",
@@ -5920,6 +5936,7 @@
         "location": "Sarn"
     },
     {
+        "label": "Pr\u00e4z",
         "count": 17,
         "image_ids": [
             "SGV_12N_07838",
@@ -5947,6 +5964,7 @@
         "location": "Pr\u00e4z"
     },
     {
+        "label": "Safien Platz",
         "count": 75,
         "image_ids": [
             "SGV_12N_07845",
@@ -6032,6 +6050,7 @@
         "location": "Safien Platz"
     },
     {
+        "label": "Andelfingen",
         "count": 61,
         "image_ids": [
             "SGV_12N_07873",
@@ -6103,6 +6122,7 @@
         "location": "Andelfingen"
     },
     {
+        "label": "Flerden",
         "count": 3,
         "image_ids": [
             "SGV_12N_07875",
@@ -6116,6 +6136,7 @@
         "location": "Flerden"
     },
     {
+        "label": "Entlebuch",
         "count": 237,
         "image_ids": [
             "SGV_12N_07901",
@@ -6363,6 +6384,7 @@
         "location": "Entlebuch"
     },
     {
+        "label": "Escholzmatt",
         "count": 48,
         "image_ids": [
             "SGV_12N_07917",
@@ -6421,6 +6443,7 @@
         "location": "Escholzmatt"
     },
     {
+        "label": "Seelisberg",
         "count": 3,
         "image_ids": [
             "SGV_12N_07956",
@@ -6434,6 +6457,7 @@
         "location": "Seelisberg"
     },
     {
+        "label": "Bowil",
         "count": 1,
         "image_ids": [
             "SGV_12N_07964"
@@ -6445,6 +6469,7 @@
         "location": "Bowil"
     },
     {
+        "label": "Sedrun",
         "count": 119,
         "image_ids": [
             "SGV_12N_07968",
@@ -6574,6 +6599,7 @@
         "location": "Sedrun"
     },
     {
+        "label": "Bern",
         "count": 418,
         "image_ids": [
             "SGV_12N_07970",
@@ -7002,6 +7028,7 @@
         "location": "Bern"
     },
     {
+        "label": "Guarda",
         "count": 364,
         "image_ids": [
             "SGV_12N_07989",
@@ -7376,6 +7403,7 @@
         "location": "Guarda"
     },
     {
+        "label": "Koppigen",
         "count": 77,
         "image_ids": [
             "SGV_12N_08044",
@@ -7463,6 +7491,7 @@
         "location": "Koppigen"
     },
     {
+        "label": "Vella",
         "count": 11,
         "image_ids": [
             "SGV_12N_08070",
@@ -7484,6 +7513,7 @@
         "location": "Vella"
     },
     {
+        "label": "Surselva District",
         "count": 154,
         "image_ids": [
             "SGV_12N_08081",
@@ -7648,6 +7678,7 @@
         "location": "Surselva District"
     },
     {
+        "label": "R\u00fcderswil",
         "count": 12,
         "image_ids": [
             "SGV_12N_08100",
@@ -7670,6 +7701,7 @@
         "location": "R\u00fcderswil"
     },
     {
+        "label": "Vals Platz",
         "count": 275,
         "image_ids": [
             "SGV_12N_08101",
@@ -7955,6 +7987,7 @@
         "location": "Vals Platz"
     },
     {
+        "label": "Leis",
         "count": 26,
         "image_ids": [
             "SGV_12N_08109",
@@ -7991,6 +8024,7 @@
         "location": "Leis"
     },
     {
+        "label": "Surcasti",
         "count": 11,
         "image_ids": [
             "SGV_12N_08153",
@@ -8012,6 +8046,7 @@
         "location": "Surcasti"
     },
     {
+        "label": "Zervreila",
         "count": 46,
         "image_ids": [
             "SGV_12N_08184",
@@ -8068,6 +8103,7 @@
         "location": "Zervreila"
     },
     {
+        "label": "Cumbel",
         "count": 4,
         "image_ids": [
             "SGV_12N_08205",
@@ -8082,6 +8118,7 @@
         "location": "Cumbel"
     },
     {
+        "label": "Lumbrein",
         "count": 19,
         "image_ids": [
             "SGV_12N_08237",
@@ -8111,6 +8148,7 @@
         "location": "Lumbrein"
     },
     {
+        "label": "Uors",
         "count": 7,
         "image_ids": [
             "SGV_12N_08240",
@@ -8128,6 +8166,7 @@
         "location": "Uors"
     },
     {
+        "label": "Surin",
         "count": 6,
         "image_ids": [
             "SGV_12N_08247",
@@ -8144,6 +8183,7 @@
         "location": "Surin"
     },
     {
+        "label": "Vrin",
         "count": 248,
         "image_ids": [
             "SGV_12N_08268",
@@ -8402,6 +8442,7 @@
         "location": "Vrin"
     },
     {
+        "label": "Eggiwil",
         "count": 509,
         "image_ids": [
             "SGV_12N_08387",
@@ -8921,6 +8962,7 @@
         "location": "Eggiwil"
     },
     {
+        "label": "Roggliswil",
         "count": 16,
         "image_ids": [
             "SGV_12N_08394",
@@ -8947,6 +8989,7 @@
         "location": "Roggliswil"
     },
     {
+        "label": "Sankt Urban",
         "count": 7,
         "image_ids": [
             "SGV_12N_08409",
@@ -8964,6 +9007,7 @@
         "location": "Sankt Urban"
     },
     {
+        "label": "Rothenbrunnen",
         "count": 5,
         "image_ids": [
             "SGV_12N_08420",
@@ -8979,6 +9023,7 @@
         "location": "Rothenbrunnen"
     },
     {
+        "label": "Hinterrhein District",
         "count": 139,
         "image_ids": [
             "SGV_12N_08422",
@@ -9128,6 +9173,7 @@
         "location": "Hinterrhein District"
     },
     {
+        "label": "Hinterrhein",
         "count": 28,
         "image_ids": [
             "SGV_12N_08427",
@@ -9166,6 +9212,7 @@
         "location": "Hinterrhein"
     },
     {
+        "label": "Spl\u00fcgen",
         "count": 53,
         "image_ids": [
             "SGV_12N_08433",
@@ -9229,6 +9276,7 @@
         "location": "Spl\u00fcgen"
     },
     {
+        "label": "Medels im Rheinwald",
         "count": 1,
         "image_ids": [
             "SGV_12N_08438"
@@ -9240,6 +9288,7 @@
         "location": "Medels im Rheinwald"
     },
     {
+        "label": "Nufenen",
         "count": 20,
         "image_ids": [
             "SGV_12N_08446",
@@ -9270,6 +9319,7 @@
         "location": "Nufenen"
     },
     {
+        "label": "Rickenbach LU",
         "count": 10,
         "image_ids": [
             "SGV_12N_08490",
@@ -9290,6 +9340,7 @@
         "location": "Rickenbach LU"
     },
     {
+        "label": "Melchtal",
         "count": 11,
         "image_ids": [
             "SGV_12N_08501",
@@ -9311,6 +9362,7 @@
         "location": "Melchtal"
     },
     {
+        "label": "Nidwalden",
         "count": 16,
         "image_ids": [
             "SGV_12N_08508",
@@ -9337,6 +9389,7 @@
         "location": "Nidwalden"
     },
     {
+        "label": "Thusis",
         "count": 28,
         "image_ids": [
             "SGV_12N_08516",
@@ -9375,6 +9428,7 @@
         "location": "Thusis"
     },
     {
+        "label": "Saillon",
         "count": 48,
         "image_ids": [
             "SGV_12N_08543",
@@ -9433,6 +9487,7 @@
         "location": "Saillon"
     },
     {
+        "label": "Urmein",
         "count": 13,
         "image_ids": [
             "SGV_12N_08575",
@@ -9456,6 +9511,7 @@
         "location": "Urmein"
     },
     {
+        "label": "Duvin",
         "count": 1,
         "image_ids": [
             "SGV_12N_08583"
@@ -9467,6 +9523,7 @@
         "location": "Duvin"
     },
     {
+        "label": "Peiden Bad",
         "count": 23,
         "image_ids": [
             "SGV_12N_08601",
@@ -9500,6 +9557,7 @@
         "location": "Peiden Bad"
     },
     {
+        "label": "Schweiz",
         "count": 1096,
         "image_ids": [
             "SGV_12N_08703",
@@ -10606,6 +10664,7 @@
         "location": "Schweiz"
     },
     {
+        "label": "Melchsee-Frutt",
         "count": 1,
         "image_ids": [
             "SGV_12N_08704"
@@ -10617,6 +10676,7 @@
         "location": "Melchsee-Frutt"
     },
     {
+        "label": "Interlaken-Oberhasli",
         "count": 422,
         "image_ids": [
             "SGV_12N_08717",
@@ -11049,6 +11109,7 @@
         "location": "Interlaken-Oberhasli"
     },
     {
+        "label": "Tersnaus",
         "count": 6,
         "image_ids": [
             "SGV_12N_08732",
@@ -11065,6 +11126,7 @@
         "location": "Tersnaus"
     },
     {
+        "label": "Ilanz",
         "count": 61,
         "image_ids": [
             "SGV_12N_08734",
@@ -11136,6 +11198,7 @@
         "location": "Ilanz"
     },
     {
+        "label": "Pfaffnau",
         "count": 17,
         "image_ids": [
             "SGV_12N_08740",
@@ -11163,6 +11226,7 @@
         "location": "Pfaffnau"
     },
     {
+        "label": "Cudrefin",
         "count": 14,
         "image_ids": [
             "SGV_12N_08769",
@@ -11187,6 +11251,7 @@
         "location": "Cudrefin"
     },
     {
+        "label": "La Sarraz",
         "count": 19,
         "image_ids": [
             "SGV_12N_08783",
@@ -11216,6 +11281,7 @@
         "location": "La Sarraz"
     },
     {
+        "label": "Morges",
         "count": 14,
         "image_ids": [
             "SGV_12N_08796",
@@ -11240,6 +11306,7 @@
         "location": "Morges"
     },
     {
+        "label": "Yverdon-les-Bains",
         "count": 6,
         "image_ids": [
             "SGV_12N_08797",
@@ -11256,6 +11323,7 @@
         "location": "Yverdon-les-Bains"
     },
     {
+        "label": "Unterseen",
         "count": 42,
         "image_ids": [
             "SGV_12N_08901",
@@ -11308,6 +11376,7 @@
         "location": "Unterseen"
     },
     {
+        "label": "Kanton Bern",
         "count": 315,
         "image_ids": [
             "SGV_12N_08908",
@@ -11633,6 +11702,7 @@
         "location": "Kanton Bern"
     },
     {
+        "label": "Spiez",
         "count": 52,
         "image_ids": [
             "SGV_12N_08929",
@@ -11695,6 +11765,7 @@
         "location": "Spiez"
     },
     {
+        "label": "Avenches",
         "count": 66,
         "image_ids": [
             "SGV_12N_08969",
@@ -11771,6 +11842,7 @@
         "location": "Avenches"
     },
     {
+        "label": "Murten/Morat",
         "count": 82,
         "image_ids": [
             "SGV_12N_09001",
@@ -11863,6 +11935,7 @@
         "location": "Murten/Morat"
     },
     {
+        "label": "M\u00f4tier",
         "count": 31,
         "image_ids": [
             "SGV_12N_09021",
@@ -11904,6 +11977,7 @@
         "location": "M\u00f4tier"
     },
     {
+        "label": "Muntelier",
         "count": 4,
         "image_ids": [
             "SGV_12N_09023",
@@ -11918,6 +11992,7 @@
         "location": "Muntelier"
     },
     {
+        "label": "Lugnorre",
         "count": 3,
         "image_ids": [
             "SGV_12N_09027",
@@ -11931,6 +12006,7 @@
         "location": "Lugnorre"
     },
     {
+        "label": "Vallamand",
         "count": 3,
         "image_ids": [
             "SGV_12N_09030",
@@ -11944,6 +12020,7 @@
         "location": "Vallamand"
     },
     {
+        "label": "Salavaux",
         "count": 2,
         "image_ids": [
             "SGV_12N_09032",
@@ -11956,6 +12033,7 @@
         "location": "Salavaux"
     },
     {
+        "label": "Faoug",
         "count": 3,
         "image_ids": [
             "SGV_12N_09052",
@@ -11969,6 +12047,7 @@
         "location": "Faoug"
     },
     {
+        "label": "Schuders",
         "count": 177,
         "image_ids": [
             "SGV_12N_09079",
@@ -12156,6 +12235,7 @@
         "location": "Schuders"
     },
     {
+        "label": "Vinelz",
         "count": 4,
         "image_ids": [
             "SGV_12N_09101",
@@ -12170,6 +12250,7 @@
         "location": "Vinelz"
     },
     {
+        "label": "Twann",
         "count": 24,
         "image_ids": [
             "SGV_12N_09105",
@@ -12204,6 +12285,7 @@
         "location": "Twann"
     },
     {
+        "label": "Ligerz",
         "count": 17,
         "image_ids": [
             "SGV_12N_09120",
@@ -12231,6 +12313,7 @@
         "location": "Ligerz"
     },
     {
+        "label": "Le Landeron",
         "count": 38,
         "image_ids": [
             "SGV_12N_09129",
@@ -12279,6 +12362,7 @@
         "location": "Le Landeron"
     },
     {
+        "label": "Biel",
         "count": 91,
         "image_ids": [
             "SGV_12N_09149",
@@ -12380,6 +12464,7 @@
         "location": "Biel"
     },
     {
+        "label": "T\u00fcscherz",
         "count": 2,
         "image_ids": [
             "SGV_12N_09151",
@@ -12392,6 +12477,7 @@
         "location": "T\u00fcscherz"
     },
     {
+        "label": "La Neuveville",
         "count": 8,
         "image_ids": [
             "SGV_12N_09156",
@@ -12410,6 +12496,7 @@
         "location": "La Neuveville"
     },
     {
+        "label": "Erlach",
         "count": 39,
         "image_ids": [
             "SGV_12N_09158",
@@ -12459,6 +12546,7 @@
         "location": "Erlach"
     },
     {
+        "label": "Frunt",
         "count": 5,
         "image_ids": [
             "SGV_12N_09212",
@@ -12474,6 +12562,7 @@
         "location": "Frunt"
     },
     {
+        "label": "Sankt Martin",
         "count": 9,
         "image_ids": [
             "SGV_12N_09238",
@@ -12493,6 +12582,7 @@
         "location": "Sankt Martin"
     },
     {
+        "label": "Oberwil",
         "count": 3,
         "image_ids": [
             "SGV_12N_09263",
@@ -12506,6 +12596,7 @@
         "location": "Oberwil"
     },
     {
+        "label": "Kloten",
         "count": 19,
         "image_ids": [
             "SGV_12N_09264",
@@ -12535,6 +12626,7 @@
         "location": "Kloten"
     },
     {
+        "label": "Lugano District",
         "count": 122,
         "image_ids": [
             "SGV_12N_09282",
@@ -12667,6 +12759,7 @@
         "location": "Lugano District"
     },
     {
+        "label": "Appenzell",
         "count": 194,
         "image_ids": [
             "SGV_12N_09301",
@@ -12871,6 +12964,7 @@
         "location": "Appenzell"
     },
     {
+        "label": "Ferden",
         "count": 112,
         "image_ids": [
             "SGV_12N_09344",
@@ -12993,6 +13087,7 @@
         "location": "Ferden"
     },
     {
+        "label": "L\u00fctzelfl\u00fch-Goldbach",
         "count": 46,
         "image_ids": [
             "SGV_12N_09388",
@@ -13049,6 +13144,7 @@
         "location": "L\u00fctzelfl\u00fch-Goldbach"
     },
     {
+        "label": "Disentis",
         "count": 43,
         "image_ids": [
             "SGV_12N_09401",
@@ -13102,6 +13198,7 @@
         "location": "Disentis"
     },
     {
+        "label": "Sarnen",
         "count": 29,
         "image_ids": [
             "SGV_12N_09439",
@@ -13141,6 +13238,7 @@
         "location": "Sarnen"
     },
     {
+        "label": "Kanton Solothurn",
         "count": 5,
         "image_ids": [
             "SGV_12N_09446",
@@ -13156,6 +13254,7 @@
         "location": "Kanton Solothurn"
     },
     {
+        "label": "Solothurn",
         "count": 97,
         "image_ids": [
             "SGV_12N_09457",
@@ -13263,6 +13362,7 @@
         "location": "Solothurn"
     },
     {
+        "label": "Stans",
         "count": 141,
         "image_ids": [
             "SGV_12N_09462",
@@ -13414,6 +13514,7 @@
         "location": "Stans"
     },
     {
+        "label": "Iseo",
         "count": 3,
         "image_ids": [
             "SGV_12N_09486",
@@ -13427,6 +13528,7 @@
         "location": "Iseo"
     },
     {
+        "label": "H\u00fcnenberg",
         "count": 8,
         "image_ids": [
             "SGV_12N_09500",
@@ -13445,6 +13547,7 @@
         "location": "H\u00fcnenberg"
     },
     {
+        "label": "Studen",
         "count": 10,
         "image_ids": [
             "SGV_12N_09501",
@@ -13465,6 +13568,7 @@
         "location": "Studen"
     },
     {
+        "label": "Sign\u00f4ra",
         "count": 6,
         "image_ids": [
             "SGV_12N_09511",
@@ -13481,6 +13585,7 @@
         "location": "Sign\u00f4ra"
     },
     {
+        "label": "Scareglia",
         "count": 2,
         "image_ids": [
             "SGV_12N_09512",
@@ -13493,6 +13598,7 @@
         "location": "Scareglia"
     },
     {
+        "label": "Agno",
         "count": 51,
         "image_ids": [
             "SGV_12N_09522",
@@ -13554,6 +13660,7 @@
         "location": "Agno"
     },
     {
+        "label": "Cademario",
         "count": 17,
         "image_ids": [
             "SGV_12N_09524",
@@ -13581,6 +13688,7 @@
         "location": "Cademario"
     },
     {
+        "label": "Cimo",
         "count": 1,
         "image_ids": [
             "SGV_12N_09531"
@@ -13592,6 +13700,7 @@
         "location": "Cimo"
     },
     {
+        "label": "Breno",
         "count": 37,
         "image_ids": [
             "SGV_12N_09532",
@@ -13639,6 +13748,7 @@
         "location": "Breno"
     },
     {
+        "label": "Vezio",
         "count": 2,
         "image_ids": [
             "SGV_12N_09541",
@@ -13651,6 +13761,7 @@
         "location": "Vezio"
     },
     {
+        "label": "Mugena",
         "count": 3,
         "image_ids": [
             "SGV_12N_09543",
@@ -13664,6 +13775,7 @@
         "location": "Mugena"
     },
     {
+        "label": "Kanton Wallis",
         "count": 893,
         "image_ids": [
             "SGV_12N_09554",
@@ -14567,6 +14679,7 @@
         "location": "Kanton Wallis"
     },
     {
+        "label": "Vissoie",
         "count": 25,
         "image_ids": [
             "SGV_12N_09562",
@@ -14602,6 +14715,7 @@
         "location": "Vissoie"
     },
     {
+        "label": "Ayer",
         "count": 7,
         "image_ids": [
             "SGV_12N_09565",
@@ -14619,6 +14733,7 @@
         "location": "Ayer"
     },
     {
+        "label": "Chandolin",
         "count": 11,
         "image_ids": [
             "SGV_12N_09570",
@@ -14640,6 +14755,7 @@
         "location": "Chandolin"
     },
     {
+        "label": "Grimentz",
         "count": 12,
         "image_ids": [
             "SGV_12N_09576",
@@ -14662,6 +14778,7 @@
         "location": "Grimentz"
     },
     {
+        "label": "Saint-Luc",
         "count": 12,
         "image_ids": [
             "SGV_12N_09577",
@@ -14684,6 +14801,7 @@
         "location": "Saint-Luc"
     },
     {
+        "label": "Landarenca",
         "count": 57,
         "image_ids": [
             "SGV_12N_09602",
@@ -14751,6 +14869,7 @@
         "location": "Landarenca"
     },
     {
+        "label": "Santa Domenica",
         "count": 6,
         "image_ids": [
             "SGV_12N_09606",
@@ -14767,6 +14886,7 @@
         "location": "Santa Domenica"
     },
     {
+        "label": "Augio",
         "count": 3,
         "image_ids": [
             "SGV_12N_09608",
@@ -14780,6 +14900,7 @@
         "location": "Augio"
     },
     {
+        "label": "Selma",
         "count": 9,
         "image_ids": [
             "SGV_12N_09609",
@@ -14799,6 +14920,7 @@
         "location": "Selma"
     },
     {
+        "label": "Binn",
         "count": 35,
         "image_ids": [
             "SGV_12N_09622",
@@ -14844,6 +14966,7 @@
         "location": "Binn"
     },
     {
+        "label": "Ernen",
         "count": 137,
         "image_ids": [
             "SGV_12N_09670",
@@ -14991,6 +15114,7 @@
         "location": "Ernen"
     },
     {
+        "label": "Romoos",
         "count": 266,
         "image_ids": [
             "SGV_12N_09673",
@@ -15267,6 +15391,7 @@
         "location": "Romoos"
     },
     {
+        "label": "Kuessnacht",
         "count": 87,
         "image_ids": [
             "SGV_12N_09701",
@@ -15364,6 +15489,7 @@
         "location": "Kuessnacht"
     },
     {
+        "label": "Walchwil",
         "count": 28,
         "image_ids": [
             "SGV_12N_09753",
@@ -15402,6 +15528,7 @@
         "location": "Walchwil"
     },
     {
+        "label": "Samedan",
         "count": 68,
         "image_ids": [
             "SGV_12N_09769",
@@ -15480,6 +15607,7 @@
         "location": "Samedan"
     },
     {
+        "label": "Aarwangen",
         "count": 22,
         "image_ids": [
             "SGV_12N_09803",
@@ -15512,6 +15640,7 @@
         "location": "Aarwangen"
     },
     {
+        "label": "Signau",
         "count": 5,
         "image_ids": [
             "SGV_12N_09814",
@@ -15527,6 +15656,7 @@
         "location": "Signau"
     },
     {
+        "label": "Cresta",
         "count": 103,
         "image_ids": [
             "SGV_12N_09844",
@@ -15640,6 +15770,7 @@
         "location": "Cresta"
     },
     {
+        "label": "Bisisthal",
         "count": 196,
         "image_ids": [
             "SGV_12N_09879",
@@ -15846,6 +15977,7 @@
         "location": "Bisisthal"
     },
     {
+        "label": "Muotathal",
         "count": 13,
         "image_ids": [
             "SGV_12N_09880",
@@ -15869,6 +16001,7 @@
         "location": "Muotathal"
     },
     {
+        "label": "Ascona",
         "count": 163,
         "image_ids": [
             "SGV_12N_12506",
@@ -16042,6 +16175,7 @@
         "location": "Ascona"
     },
     {
+        "label": "Bern-Mittelland",
         "count": 96,
         "image_ids": [
             "SGV_12N_12519",
@@ -16148,6 +16282,7 @@
         "location": "Bern-Mittelland"
     },
     {
+        "label": "Turbenthal",
         "count": 12,
         "image_ids": [
             "SGV_12N_12537",
@@ -16170,6 +16305,7 @@
         "location": "Turbenthal"
     },
     {
+        "label": "Kanton Z\u00fcrich",
         "count": 45,
         "image_ids": [
             "SGV_12N_12547",
@@ -16225,6 +16361,7 @@
         "location": "Kanton Z\u00fcrich"
     },
     {
+        "label": "Schangnau",
         "count": 70,
         "image_ids": [
             "SGV_12N_12554",
@@ -16305,6 +16442,7 @@
         "location": "Schangnau"
     },
     {
+        "label": "Moutier",
         "count": 16,
         "image_ids": [
             "SGV_12N_12586",
@@ -16331,6 +16469,7 @@
         "location": "Moutier"
     },
     {
+        "label": "Sierre",
         "count": 25,
         "image_ids": [
             "SGV_12N_12601",
@@ -16366,6 +16505,7 @@
         "location": "Sierre"
     },
     {
+        "label": "Bre\u00edl",
         "count": 64,
         "image_ids": [
             "SGV_12N_12614",
@@ -16440,6 +16580,7 @@
         "location": "Bre\u00edl"
     },
     {
+        "label": "Schaffhausen",
         "count": 98,
         "image_ids": [
             "SGV_12N_12640",
@@ -16548,6 +16689,7 @@
         "location": "Schaffhausen"
     },
     {
+        "label": "Trun",
         "count": 68,
         "image_ids": [
             "SGV_12N_12667",
@@ -16626,6 +16768,7 @@
         "location": "Trun"
     },
     {
+        "label": "Basel",
         "count": 348,
         "image_ids": [
             "SGV_12N_12743",
@@ -16984,6 +17127,7 @@
         "location": "Basel"
     },
     {
+        "label": "Kleine Scheidegg",
         "count": 55,
         "image_ids": [
             "SGV_12N_12770",
@@ -17049,6 +17193,7 @@
         "location": "Kleine Scheidegg"
     },
     {
+        "label": "Wengen",
         "count": 109,
         "image_ids": [
             "SGV_12N_12772",
@@ -17168,6 +17313,7 @@
         "location": "Wengen"
     },
     {
+        "label": "M\u00fcrren",
         "count": 18,
         "image_ids": [
             "SGV_12N_12780",
@@ -17196,6 +17342,7 @@
         "location": "M\u00fcrren"
     },
     {
+        "label": "Engelberg",
         "count": 109,
         "image_ids": [
             "SGV_12N_12837",
@@ -17315,6 +17462,7 @@
         "location": "Engelberg"
     },
     {
+        "label": "Menzberg",
         "count": 38,
         "image_ids": [
             "SGV_12N_12853",
@@ -17363,6 +17511,7 @@
         "location": "Menzberg"
     },
     {
+        "label": "N\u00e4fels",
         "count": 35,
         "image_ids": [
             "SGV_12N_12887",
@@ -17408,6 +17557,7 @@
         "location": "N\u00e4fels"
     },
     {
+        "label": "Horgenberg",
         "count": 1,
         "image_ids": [
             "SGV_12N_12900"
@@ -17419,6 +17569,7 @@
         "location": "Horgenberg"
     },
     {
+        "label": "Rossa",
         "count": 80,
         "image_ids": [
             "SGV_12N_13008",
@@ -17509,6 +17660,7 @@
         "location": "Rossa"
     },
     {
+        "label": "Zug",
         "count": 173,
         "image_ids": [
             "SGV_12N_13014",
@@ -17692,6 +17844,7 @@
         "location": "Zug"
     },
     {
+        "label": "Wassen",
         "count": 129,
         "image_ids": [
             "SGV_12N_13043",
@@ -17831,6 +17984,7 @@
         "location": "Wassen"
     },
     {
+        "label": "Berom\u00fcnster",
         "count": 450,
         "image_ids": [
             "SGV_12N_13063",
@@ -18291,6 +18445,7 @@
         "location": "Berom\u00fcnster"
     },
     {
+        "label": "Leuk",
         "count": 98,
         "image_ids": [
             "SGV_12N_13101",
@@ -18399,6 +18554,7 @@
         "location": "Leuk"
     },
     {
+        "label": "Hitzkirch",
         "count": 45,
         "image_ids": [
             "SGV_12N_13109",
@@ -18454,6 +18610,7 @@
         "location": "Hitzkirch"
     },
     {
+        "label": "Hohenrain",
         "count": 20,
         "image_ids": [
             "SGV_12N_13110",
@@ -18484,6 +18641,7 @@
         "location": "Hohenrain"
     },
     {
+        "label": "R\u00fcegsbach",
         "count": 5,
         "image_ids": [
             "SGV_12N_13126",
@@ -18499,6 +18657,7 @@
         "location": "R\u00fcegsbach"
     },
     {
+        "label": "Dielsdorf",
         "count": 97,
         "image_ids": [
             "SGV_12N_13164",
@@ -18606,6 +18765,7 @@
         "location": "Dielsdorf"
     },
     {
+        "label": "Steinmaur",
         "count": 1,
         "image_ids": [
             "SGV_12N_13172"
@@ -18617,6 +18777,7 @@
         "location": "Steinmaur"
     },
     {
+        "label": "B\u00e4ch",
         "count": 48,
         "image_ids": [
             "SGV_12N_13238",
@@ -18675,6 +18836,7 @@
         "location": "B\u00e4ch"
     },
     {
+        "label": "Gr\u00fcningen (Stedtli)",
         "count": 20,
         "image_ids": [
             "SGV_12N_13279",
@@ -18705,6 +18867,7 @@
         "location": "Gr\u00fcningen (Stedtli)"
     },
     {
+        "label": "Giornico",
         "count": 61,
         "image_ids": [
             "SGV_12N_13303",
@@ -18776,6 +18939,7 @@
         "location": "Giornico"
     },
     {
+        "label": "Toggenburg",
         "count": 72,
         "image_ids": [
             "SGV_12N_13306",
@@ -18858,6 +19022,7 @@
         "location": "Toggenburg"
     },
     {
+        "label": "Br\u00fclisau",
         "count": 2,
         "image_ids": [
             "SGV_12N_13309",
@@ -18870,6 +19035,7 @@
         "location": "Br\u00fclisau"
     },
     {
+        "label": "Gadmen",
         "count": 26,
         "image_ids": [
             "SGV_12N_13401",
@@ -18906,6 +19072,7 @@
         "location": "Gadmen"
     },
     {
+        "label": "Thal",
         "count": 14,
         "image_ids": [
             "SGV_12N_13407",
@@ -18930,6 +19097,7 @@
         "location": "Thal"
     },
     {
+        "label": "Beinwil",
         "count": 13,
         "image_ids": [
             "SGV_12N_13409",
@@ -18953,6 +19121,7 @@
         "location": "Beinwil"
     },
     {
+        "label": "Hindelbank",
         "count": 31,
         "image_ids": [
             "SGV_12N_13421",
@@ -18994,6 +19163,7 @@
         "location": "Hindelbank"
     },
     {
+        "label": "Sisikon",
         "count": 22,
         "image_ids": [
             "SGV_12N_13429",
@@ -19026,6 +19196,7 @@
         "location": "Sisikon"
     },
     {
+        "label": "Grandson",
         "count": 17,
         "image_ids": [
             "SGV_12N_13490",
@@ -19053,6 +19224,7 @@
         "location": "Grandson"
     },
     {
+        "label": "Ruswil",
         "count": 35,
         "image_ids": [
             "SGV_12N_13511",
@@ -19098,6 +19270,7 @@
         "location": "Ruswil"
     },
     {
+        "label": "Fl\u00fcelen",
         "count": 16,
         "image_ids": [
             "SGV_12N_13518",
@@ -19124,6 +19297,7 @@
         "location": "Fl\u00fcelen"
     },
     {
+        "label": "Sumiswald",
         "count": 37,
         "image_ids": [
             "SGV_12N_13519",
@@ -19171,6 +19345,7 @@
         "location": "Sumiswald"
     },
     {
+        "label": "Trachselwald",
         "count": 6,
         "image_ids": [
             "SGV_12N_13525",
@@ -19187,6 +19362,7 @@
         "location": "Trachselwald"
     },
     {
+        "label": "Neuenegg",
         "count": 22,
         "image_ids": [
             "SGV_12N_13528",
@@ -19219,6 +19395,7 @@
         "location": "Neuenegg"
     },
     {
+        "label": "Laupen",
         "count": 69,
         "image_ids": [
             "SGV_12N_13530",
@@ -19298,6 +19475,7 @@
         "location": "Laupen"
     },
     {
+        "label": "Morgarten",
         "count": 4,
         "image_ids": [
             "SGV_12N_13545",
@@ -19312,6 +19490,7 @@
         "location": "Morgarten"
     },
     {
+        "label": "Sattel",
         "count": 2,
         "image_ids": [
             "SGV_12N_13547",
@@ -19324,6 +19503,7 @@
         "location": "Sattel"
     },
     {
+        "label": "Ober\u00e4geri",
         "count": 1,
         "image_ids": [
             "SGV_12N_13550"
@@ -19335,6 +19515,7 @@
         "location": "Ober\u00e4geri"
     },
     {
+        "label": "Sempach",
         "count": 137,
         "image_ids": [
             "SGV_12N_13553",
@@ -19482,6 +19663,7 @@
         "location": "Sempach"
     },
     {
+        "label": "Immensee",
         "count": 11,
         "image_ids": [
             "SGV_12N_13651",
@@ -19503,6 +19685,7 @@
         "location": "Immensee"
     },
     {
+        "label": "Herzogenbuchsee",
         "count": 78,
         "image_ids": [
             "SGV_12N_13661",
@@ -19591,6 +19774,7 @@
         "location": "Herzogenbuchsee"
     },
     {
+        "label": "Oschwand",
         "count": 6,
         "image_ids": [
             "SGV_12N_13669",
@@ -19607,6 +19791,7 @@
         "location": "Oschwand"
     },
     {
+        "label": "Aeschi",
         "count": 5,
         "image_ids": [
             "SGV_12N_13680",
@@ -19622,6 +19807,7 @@
         "location": "Aeschi"
     },
     {
+        "label": "Blenio District",
         "count": 77,
         "image_ids": [
             "SGV_12N_13712",
@@ -19709,6 +19895,7 @@
         "location": "Blenio District"
     },
     {
+        "label": "Eglisau",
         "count": 35,
         "image_ids": [
             "SGV_12N_13720",
@@ -19754,6 +19941,7 @@
         "location": "Eglisau"
     },
     {
+        "label": "Rafz",
         "count": 31,
         "image_ids": [
             "SGV_12N_13722",
@@ -19795,6 +19983,7 @@
         "location": "Rafz"
     },
     {
+        "label": "Wasterkingen",
         "count": 2,
         "image_ids": [
             "SGV_12N_13723",
@@ -19807,6 +19996,7 @@
         "location": "Wasterkingen"
     },
     {
+        "label": "Buchenloo",
         "count": 1,
         "image_ids": [
             "SGV_12N_13742"
@@ -19818,6 +20008,7 @@
         "location": "Buchenloo"
     },
     {
+        "label": "Wil",
         "count": 2,
         "image_ids": [
             "SGV_12N_13744",
@@ -19830,6 +20021,7 @@
         "location": "Wil"
     },
     {
+        "label": "Diepoldsau",
         "count": 20,
         "image_ids": [
             "SGV_12N_13749",
@@ -19860,6 +20052,7 @@
         "location": "Diepoldsau"
     },
     {
+        "label": "Root",
         "count": 63,
         "image_ids": [
             "SGV_12N_13763",
@@ -19933,6 +20126,7 @@
         "location": "Root"
     },
     {
+        "label": "Risch",
         "count": 2,
         "image_ids": [
             "SGV_12N_13764",
@@ -19945,6 +20139,7 @@
         "location": "Risch"
     },
     {
+        "label": "Morges District",
         "count": 25,
         "image_ids": [
             "SGV_12N_13828",
@@ -19980,6 +20175,7 @@
         "location": "Morges District"
     },
     {
+        "label": "Kanton Waadt",
         "count": 157,
         "image_ids": [
             "SGV_12N_13842",
@@ -20147,6 +20343,7 @@
         "location": "Kanton Waadt"
     },
     {
+        "label": "Vaulion",
         "count": 1,
         "image_ids": [
             "SGV_12N_13843"
@@ -20158,6 +20355,7 @@
         "location": "Vaulion"
     },
     {
+        "label": "Aubonne",
         "count": 23,
         "image_ids": [
             "SGV_12N_13845",
@@ -20191,6 +20389,7 @@
         "location": "Aubonne"
     },
     {
+        "label": "Gimel",
         "count": 5,
         "image_ids": [
             "SGV_12N_13847",
@@ -20206,6 +20405,7 @@
         "location": "Gimel"
     },
     {
+        "label": "Vallorbe",
         "count": 4,
         "image_ids": [
             "SGV_12N_13866",
@@ -20220,6 +20420,7 @@
         "location": "Vallorbe"
     },
     {
+        "label": "Le S\u00e9chey",
         "count": 1,
         "image_ids": [
             "SGV_12N_13867"
@@ -20231,6 +20432,7 @@
         "location": "Le S\u00e9chey"
     },
     {
+        "label": "Le Pont",
         "count": 2,
         "image_ids": [
             "SGV_12N_13873",
@@ -20243,6 +20445,7 @@
         "location": "Le Pont"
     },
     {
+        "label": "Le Brassus",
         "count": 8,
         "image_ids": [
             "SGV_12N_13878",
@@ -20261,6 +20464,7 @@
         "location": "Le Brassus"
     },
     {
+        "label": "Le Lieu",
         "count": 2,
         "image_ids": [
             "SGV_12N_13879",
@@ -20273,6 +20477,7 @@
         "location": "Le Lieu"
     },
     {
+        "label": "Le Sentier",
         "count": 1,
         "image_ids": [
             "SGV_12N_13881"
@@ -20284,6 +20489,7 @@
         "location": "Le Sentier"
     },
     {
+        "label": "San Bernardino",
         "count": 9,
         "image_ids": [
             "SGV_12N_13901",
@@ -20303,6 +20509,7 @@
         "location": "San Bernardino"
     },
     {
+        "label": "Langenthal",
         "count": 56,
         "image_ids": [
             "SGV_12N_13910",
@@ -20369,6 +20576,7 @@
         "location": "Langenthal"
     },
     {
+        "label": "Lotzwil",
         "count": 9,
         "image_ids": [
             "SGV_12N_13939",
@@ -20388,6 +20596,7 @@
         "location": "Lotzwil"
     },
     {
+        "label": "Gutenburg",
         "count": 2,
         "image_ids": [
             "SGV_12N_13940",
@@ -20400,6 +20609,7 @@
         "location": "Gutenburg"
     },
     {
+        "label": "Madiswil",
         "count": 1,
         "image_ids": [
             "SGV_12N_13943"
@@ -20411,6 +20621,7 @@
         "location": "Madiswil"
     },
     {
+        "label": "Thunstetten",
         "count": 11,
         "image_ids": [
             "SGV_12N_13947",
@@ -20432,6 +20643,7 @@
         "location": "Thunstetten"
     },
     {
+        "label": "Bofflens",
         "count": 1,
         "image_ids": [
             "SGV_12N_13973"
@@ -20443,6 +20655,7 @@
         "location": "Bofflens"
     },
     {
+        "label": "Romainm\u00f4tier",
         "count": 55,
         "image_ids": [
             "SGV_12N_13974",
@@ -20508,6 +20721,7 @@
         "location": "Romainm\u00f4tier"
     },
     {
+        "label": "Orbe",
         "count": 1,
         "image_ids": [
             "SGV_12N_13978"
@@ -20519,6 +20733,7 @@
         "location": "Orbe"
     },
     {
+        "label": "Chamblon",
         "count": 9,
         "image_ids": [
             "SGV_12N_13984",
@@ -20538,6 +20753,7 @@
         "location": "Chamblon"
     },
     {
+        "label": "Sursee",
         "count": 122,
         "image_ids": [
             "SGV_12N_14019",
@@ -20670,6 +20886,7 @@
         "location": "Sursee"
     },
     {
+        "label": "Saint Gallen",
         "count": 92,
         "image_ids": [
             "SGV_12N_14031",
@@ -20772,6 +20989,7 @@
         "location": "Saint Gallen"
     },
     {
+        "label": "Innertkirchen",
         "count": 66,
         "image_ids": [
             "SGV_12N_14081",
@@ -20848,6 +21066,7 @@
         "location": "Innertkirchen"
     },
     {
+        "label": "Moesa District",
         "count": 5,
         "image_ids": [
             "SGV_12N_14107",
@@ -20863,6 +21082,7 @@
         "location": "Moesa District"
     },
     {
+        "label": "Schwyz",
         "count": 136,
         "image_ids": [
             "SGV_12N_14113",
@@ -21009,6 +21229,7 @@
         "location": "Schwyz"
     },
     {
+        "label": "Zollbr\u00fcck",
         "count": 22,
         "image_ids": [
             "SGV_12N_14129",
@@ -21041,6 +21262,7 @@
         "location": "Zollbr\u00fcck"
     },
     {
+        "label": "Meien",
         "count": 1,
         "image_ids": [
             "SGV_12N_14151"
@@ -21052,6 +21274,7 @@
         "location": "Meien"
     },
     {
+        "label": "Kandersteg",
         "count": 13,
         "image_ids": [
             "SGV_12N_14225",
@@ -21075,6 +21298,7 @@
         "location": "Kandersteg"
     },
     {
+        "label": "Werthenstein",
         "count": 57,
         "image_ids": [
             "SGV_12N_14228",
@@ -21142,6 +21366,7 @@
         "location": "Werthenstein"
     },
     {
+        "label": "Lausanne",
         "count": 16,
         "image_ids": [
             "SGV_12N_14253",
@@ -21168,6 +21393,7 @@
         "location": "Lausanne"
     },
     {
+        "label": "Gerzensee",
         "count": 5,
         "image_ids": [
             "SGV_12N_14265",
@@ -21183,6 +21409,7 @@
         "location": "Gerzensee"
     },
     {
+        "label": "Kirchdorf",
         "count": 1,
         "image_ids": [
             "SGV_12N_14271"
@@ -21194,6 +21421,7 @@
         "location": "Kirchdorf"
     },
     {
+        "label": "Belp",
         "count": 5,
         "image_ids": [
             "SGV_12N_14274",
@@ -21209,6 +21437,7 @@
         "location": "Belp"
     },
     {
+        "label": "Burgistein",
         "count": 7,
         "image_ids": [
             "SGV_12N_14276",
@@ -21226,6 +21455,7 @@
         "location": "Burgistein"
     },
     {
+        "label": "Gurzelen",
         "count": 1,
         "image_ids": [
             "SGV_12N_14284"
@@ -21237,6 +21467,7 @@
         "location": "Gurzelen"
     },
     {
+        "label": "Blumenstein",
         "count": 37,
         "image_ids": [
             "SGV_12N_14293",
@@ -21284,6 +21515,7 @@
         "location": "Blumenstein"
     },
     {
+        "label": "Landquart District",
         "count": 3,
         "image_ids": [
             "SGV_12N_14301",
@@ -21297,6 +21529,7 @@
         "location": "Landquart District"
     },
     {
+        "label": "Zizers",
         "count": 2,
         "image_ids": [
             "SGV_12N_14305",
@@ -21309,6 +21542,7 @@
         "location": "Zizers"
     },
     {
+        "label": "Landquart",
         "count": 12,
         "image_ids": [
             "SGV_12N_14306",
@@ -21331,6 +21565,7 @@
         "location": "Landquart"
     },
     {
+        "label": "Igis",
         "count": 1,
         "image_ids": [
             "SGV_12N_14307"
@@ -21342,6 +21577,7 @@
         "location": "Igis"
     },
     {
+        "label": "St. Peter-Pagig",
         "count": 73,
         "image_ids": [
             "SGV_12N_14311",
@@ -21425,6 +21661,7 @@
         "location": "St. Peter-Pagig"
     },
     {
+        "label": "Ostermundigen",
         "count": 14,
         "image_ids": [
             "SGV_12N_14318",
@@ -21449,6 +21686,7 @@
         "location": "Ostermundigen"
     },
     {
+        "label": "Z\u00fcrich (Kreis 11) / Oerlikon",
         "count": 15,
         "image_ids": [
             "SGV_12N_14330",
@@ -21474,6 +21712,7 @@
         "location": "Z\u00fcrich (Kreis 11) / Oerlikon"
     },
     {
+        "label": "Fontannen b. Wolhusen",
         "count": 399,
         "image_ids": [
             "SGV_12N_14404",
@@ -21883,6 +22122,7 @@
         "location": "Fontannen b. Wolhusen"
     },
     {
+        "label": "Kanton St. Gallen",
         "count": 18,
         "image_ids": [
             "SGV_12N_14405",
@@ -21911,6 +22151,7 @@
         "location": "Kanton St. Gallen"
     },
     {
+        "label": "Goldau",
         "count": 32,
         "image_ids": [
             "SGV_12N_14415",
@@ -21953,6 +22194,7 @@
         "location": "Goldau"
     },
     {
+        "label": "Brunnen",
         "count": 47,
         "image_ids": [
             "SGV_12N_14431",
@@ -22010,6 +22252,7 @@
         "location": "Brunnen"
     },
     {
+        "label": "Rapperswil",
         "count": 62,
         "image_ids": [
             "SGV_12N_14438",
@@ -22082,6 +22325,7 @@
         "location": "Rapperswil"
     },
     {
+        "label": "Brienz",
         "count": 21,
         "image_ids": [
             "SGV_12N_14503",
@@ -22113,6 +22357,7 @@
         "location": "Brienz"
     },
     {
+        "label": "Frutigen",
         "count": 37,
         "image_ids": [
             "SGV_12N_14513",
@@ -22160,6 +22405,7 @@
         "location": "Frutigen"
     },
     {
+        "label": "Ried-M\u00f6rel",
         "count": 167,
         "image_ids": [
             "SGV_12N_14518",
@@ -22337,6 +22583,7 @@
         "location": "Ried-M\u00f6rel"
     },
     {
+        "label": "M\u00f6rel",
         "count": 12,
         "image_ids": [
             "SGV_12N_14520",
@@ -22359,6 +22606,7 @@
         "location": "M\u00f6rel"
     },
     {
+        "label": "Bezirk Affoltern",
         "count": 36,
         "image_ids": [
             "SGV_12N_14583",
@@ -22405,6 +22653,7 @@
         "location": "Bezirk Affoltern"
     },
     {
+        "label": "Leukerbad",
         "count": 56,
         "image_ids": [
             "SGV_12N_14608",
@@ -22471,6 +22720,7 @@
         "location": "Leukerbad"
     },
     {
+        "label": "Kanton Schwyz",
         "count": 80,
         "image_ids": [
             "SGV_12N_14615",
@@ -22561,6 +22811,7 @@
         "location": "Kanton Schwyz"
     },
     {
+        "label": "Dallenwil",
         "count": 17,
         "image_ids": [
             "SGV_12N_14650",
@@ -22588,6 +22839,7 @@
         "location": "Dallenwil"
     },
     {
+        "label": "Schanfigg",
         "count": 41,
         "image_ids": [
             "SGV_12N_14663",
@@ -22639,6 +22891,7 @@
         "location": "Schanfigg"
     },
     {
+        "label": "Castiel",
         "count": 9,
         "image_ids": [
             "SGV_12N_14666",
@@ -22658,6 +22911,7 @@
         "location": "Castiel"
     },
     {
+        "label": "Saxon",
         "count": 97,
         "image_ids": [
             "SGV_12N_14701",
@@ -22765,6 +23019,7 @@
         "location": "Saxon"
     },
     {
+        "label": "Ibergeregg",
         "count": 66,
         "image_ids": [
             "SGV_12N_14737",
@@ -22841,6 +23096,7 @@
         "location": "Ibergeregg"
     },
     {
+        "label": "Arosa",
         "count": 61,
         "image_ids": [
             "SGV_12N_14741",
@@ -22912,6 +23168,7 @@
         "location": "Arosa"
     },
     {
+        "label": "Albinen",
         "count": 15,
         "image_ids": [
             "SGV_12N_14802",
@@ -22937,6 +23194,7 @@
         "location": "Albinen"
     },
     {
+        "label": "Fahrwangen",
         "count": 31,
         "image_ids": [
             "SGV_12N_14841",
@@ -22978,6 +23236,7 @@
         "location": "Fahrwangen"
     },
     {
+        "label": "Salgesch",
         "count": 9,
         "image_ids": [
             "SGV_12N_14907",
@@ -22997,6 +23256,7 @@
         "location": "Salgesch"
     },
     {
+        "label": "Hauenstein",
         "count": 14,
         "image_ids": [
             "SGV_12N_14952",
@@ -23021,6 +23281,7 @@
         "location": "Hauenstein"
     },
     {
+        "label": "Olten",
         "count": 49,
         "image_ids": [
             "SGV_12N_14965",
@@ -23080,6 +23341,7 @@
         "location": "Olten"
     },
     {
+        "label": "Unterwasser",
         "count": 11,
         "image_ids": [
             "SGV_12N_14970",
@@ -23101,6 +23363,7 @@
         "location": "Unterwasser"
     },
     {
+        "label": "H\u00fcswil",
         "count": 26,
         "image_ids": [
             "SGV_12N_15014",
@@ -23137,6 +23400,7 @@
         "location": "H\u00fcswil"
     },
     {
+        "label": "Arvigo",
         "count": 8,
         "image_ids": [
             "SGV_12N_15073",
@@ -23155,6 +23419,7 @@
         "location": "Arvigo"
     },
     {
+        "label": "Hallau",
         "count": 75,
         "image_ids": [
             "SGV_12N_15169",
@@ -23240,6 +23505,7 @@
         "location": "Hallau"
     },
     {
+        "label": "Kanton Luzern",
         "count": 88,
         "image_ids": [
             "SGV_12N_15190",
@@ -23338,6 +23604,7 @@
         "location": "Kanton Luzern"
     },
     {
+        "label": "Origlio",
         "count": 27,
         "image_ids": [
             "SGV_12N_15201",
@@ -23375,6 +23642,7 @@
         "location": "Origlio"
     },
     {
+        "label": "Sala Capriasca",
         "count": 14,
         "image_ids": [
             "SGV_12N_15215",
@@ -23399,6 +23667,7 @@
         "location": "Sala Capriasca"
     },
     {
+        "label": "Einsiedeln",
         "count": 85,
         "image_ids": [
             "SGV_12N_15280",
@@ -23494,6 +23763,7 @@
         "location": "Einsiedeln"
     },
     {
+        "label": "Ins",
         "count": 78,
         "image_ids": [
             "SGV_12N_15281",
@@ -23582,6 +23852,7 @@
         "location": "Ins"
     },
     {
+        "label": "Sitten",
         "count": 209,
         "image_ids": [
             "SGV_12N_15291",
@@ -23801,6 +24072,7 @@
         "location": "Sitten"
     },
     {
+        "label": "Visperterminen",
         "count": 90,
         "image_ids": [
             "SGV_12N_15301",
@@ -23901,6 +24173,7 @@
         "location": "Visperterminen"
     },
     {
+        "label": "Wolhusen",
         "count": 86,
         "image_ids": [
             "SGV_12N_15314",
@@ -23997,6 +24270,7 @@
         "location": "Wolhusen"
     },
     {
+        "label": "Willisau District",
         "count": 13,
         "image_ids": [
             "SGV_12N_15325",
@@ -24020,6 +24294,7 @@
         "location": "Willisau District"
     },
     {
+        "label": "H\u00fctten",
         "count": 64,
         "image_ids": [
             "SGV_12N_15333",
@@ -24094,6 +24369,7 @@
         "location": "H\u00fctten"
     },
     {
+        "label": "Grossdietwil",
         "count": 19,
         "image_ids": [
             "SGV_12N_15334",
@@ -24123,6 +24399,7 @@
         "location": "Grossdietwil"
     },
     {
+        "label": "Fischbach",
         "count": 2,
         "image_ids": [
             "SGV_12N_15336",
@@ -24135,6 +24412,7 @@
         "location": "Fischbach"
     },
     {
+        "label": "Mesocco",
         "count": 56,
         "image_ids": [
             "SGV_12N_15350",
@@ -24201,6 +24479,7 @@
         "location": "Mesocco"
     },
     {
+        "label": "Menzingen",
         "count": 56,
         "image_ids": [
             "SGV_12N_15401",
@@ -24267,6 +24546,7 @@
         "location": "Menzingen"
     },
     {
+        "label": "Hirzel",
         "count": 1,
         "image_ids": [
             "SGV_12N_15429"
@@ -24278,6 +24558,7 @@
         "location": "Hirzel"
     },
     {
+        "label": "Leuk District",
         "count": 26,
         "image_ids": [
             "SGV_12N_15444",
@@ -24314,6 +24595,7 @@
         "location": "Leuk District"
     },
     {
+        "label": "Aquila",
         "count": 20,
         "image_ids": [
             "SGV_12N_15538",
@@ -24344,6 +24626,7 @@
         "location": "Aquila"
     },
     {
+        "label": "Dongio",
         "count": 1,
         "image_ids": [
             "SGV_12N_15539"
@@ -24355,6 +24638,7 @@
         "location": "Dongio"
     },
     {
+        "label": "Olivone",
         "count": 16,
         "image_ids": [
             "SGV_12N_15542",
@@ -24381,6 +24665,7 @@
         "location": "Olivone"
     },
     {
+        "label": "Gruben",
         "count": 67,
         "image_ids": [
             "SGV_12N_15544",
@@ -24458,6 +24743,7 @@
         "location": "Gruben"
     },
     {
+        "label": "Ebersecken",
         "count": 31,
         "image_ids": [
             "SGV_12N_15601",
@@ -24499,6 +24785,7 @@
         "location": "Ebersecken"
     },
     {
+        "label": "Gerliswil",
         "count": 14,
         "image_ids": [
             "SGV_12N_15604",
@@ -24523,6 +24810,7 @@
         "location": "Gerliswil"
     },
     {
+        "label": "Zell",
         "count": 20,
         "image_ids": [
             "SGV_12N_15613",
@@ -24553,6 +24841,7 @@
         "location": "Zell"
     },
     {
+        "label": "Ried (Frutigen)",
         "count": 79,
         "image_ids": [
             "SGV_12N_15643",
@@ -24642,6 +24931,7 @@
         "location": "Ried (Frutigen)"
     },
     {
+        "label": "Ergisch",
         "count": 6,
         "image_ids": [
             "SGV_12N_15824",
@@ -24658,6 +24948,7 @@
         "location": "Ergisch"
     },
     {
+        "label": "Turtig",
         "count": 2,
         "image_ids": [
             "SGV_12N_15909",
@@ -24670,6 +24961,7 @@
         "location": "Turtig"
     },
     {
+        "label": "Bos-cha",
         "count": 7,
         "image_ids": [
             "SGV_12N_15957",
@@ -24687,6 +24979,7 @@
         "location": "Bos-cha"
     },
     {
+        "label": "Ch\u00e2tenois-les-Forges",
         "count": 35,
         "image_ids": [
             "SGV_12N_16021",
@@ -24732,6 +25025,7 @@
         "location": "Ch\u00e2tenois-les-Forges"
     },
     {
+        "label": "Freienbach",
         "count": 1,
         "image_ids": [
             "SGV_12N_16071"
@@ -24743,6 +25037,7 @@
         "location": "Freienbach"
     },
     {
+        "label": "Ftan",
         "count": 24,
         "image_ids": [
             "SGV_12N_16083",
@@ -24777,6 +25072,7 @@
         "location": "Ftan"
     },
     {
+        "label": "Maienfeld",
         "count": 34,
         "image_ids": [
             "SGV_12N_16187",
@@ -24821,6 +25117,7 @@
         "location": "Maienfeld"
     },
     {
+        "label": "Fl\u00e4sch",
         "count": 17,
         "image_ids": [
             "SGV_12N_16190",
@@ -24848,6 +25145,7 @@
         "location": "Fl\u00e4sch"
     },
     {
+        "label": "Jenins",
         "count": 4,
         "image_ids": [
             "SGV_12N_16193",
@@ -24862,6 +25160,7 @@
         "location": "Jenins"
     },
     {
+        "label": "Malans",
         "count": 16,
         "image_ids": [
             "SGV_12N_16275",
@@ -24888,6 +25187,7 @@
         "location": "Malans"
     },
     {
+        "label": "Kanton Jura",
         "count": 3,
         "image_ids": [
             "SGV_12N_16340",
@@ -24901,6 +25201,7 @@
         "location": "Kanton Jura"
     },
     {
+        "label": "Liestal",
         "count": 57,
         "image_ids": [
             "SGV_12N_16391",
@@ -24968,6 +25269,7 @@
         "location": "Liestal"
     },
     {
+        "label": "Belpberg",
         "count": 1,
         "image_ids": [
             "SGV_12N_16429"
@@ -24979,6 +25281,7 @@
         "location": "Belpberg"
     },
     {
+        "label": "Gisikon",
         "count": 14,
         "image_ids": [
             "SGV_12N_16557",
@@ -25003,6 +25306,7 @@
         "location": "Gisikon"
     },
     {
+        "label": "R\u00fcdlingen",
         "count": 29,
         "image_ids": [
             "SGV_12N_16563",
@@ -25042,6 +25346,7 @@
         "location": "R\u00fcdlingen"
     },
     {
+        "label": "Bedretto",
         "count": 72,
         "image_ids": [
             "SGV_12N_16609",
@@ -25124,6 +25429,7 @@
         "location": "Bedretto"
     },
     {
+        "label": "Guttannen",
         "count": 74,
         "image_ids": [
             "SGV_12N_16623",
@@ -25208,6 +25514,7 @@
         "location": "Guttannen"
     },
     {
+        "label": "Bellinzona",
         "count": 74,
         "image_ids": [
             "SGV_12N_16705",
@@ -25292,6 +25599,7 @@
         "location": "Bellinzona"
     },
     {
+        "label": "F\u00e4llanden",
         "count": 2,
         "image_ids": [
             "SGV_12N_16857",
@@ -25304,6 +25612,7 @@
         "location": "F\u00e4llanden"
     },
     {
+        "label": "Langnau im Emmental",
         "count": 250,
         "image_ids": [
             "SGV_12N_16861",
@@ -25564,6 +25873,7 @@
         "location": "Langnau im Emmental"
     },
     {
+        "label": "Riemenstalden",
         "count": 12,
         "image_ids": [
             "SGV_12N_16956",
@@ -25586,6 +25896,7 @@
         "location": "Riemenstalden"
     },
     {
+        "label": "Raron District",
         "count": 107,
         "image_ids": [
             "SGV_12N_16973",
@@ -25703,6 +26014,7 @@
         "location": "Raron District"
     },
     {
+        "label": "Zugerberg",
         "count": 26,
         "image_ids": [
             "SGV_12N_16990",
@@ -25739,6 +26051,7 @@
         "location": "Zugerberg"
     },
     {
+        "label": "Kippel",
         "count": 46,
         "image_ids": [
             "SGV_12N_17039",
@@ -25795,6 +26108,7 @@
         "location": "Kippel"
     },
     {
+        "label": "Blatten",
         "count": 3,
         "image_ids": [
             "SGV_12N_17075",
@@ -25808,6 +26122,7 @@
         "location": "Blatten"
     },
     {
+        "label": "Wiler",
         "count": 6,
         "image_ids": [
             "SGV_12N_17077",
@@ -25824,6 +26139,7 @@
         "location": "Wiler"
     },
     {
+        "label": "Samstagern",
         "count": 1,
         "image_ids": [
             "SGV_12N_17171"
@@ -25835,6 +26151,7 @@
         "location": "Samstagern"
     },
     {
+        "label": "Sachseln",
         "count": 40,
         "image_ids": [
             "SGV_12N_17201",
@@ -25885,6 +26202,7 @@
         "location": "Sachseln"
     },
     {
+        "label": "Kanton Aargau",
         "count": 134,
         "image_ids": [
             "SGV_12N_17235",
@@ -26029,6 +26347,7 @@
         "location": "Kanton Aargau"
     },
     {
+        "label": "Ottenbach",
         "count": 18,
         "image_ids": [
             "SGV_12N_17402",
@@ -26057,6 +26376,7 @@
         "location": "Ottenbach"
     },
     {
+        "label": "Knonau",
         "count": 9,
         "image_ids": [
             "SGV_12N_17408",
@@ -26076,6 +26396,7 @@
         "location": "Knonau"
     },
     {
+        "label": "Mettmenstetten",
         "count": 143,
         "image_ids": [
             "SGV_12N_17417",
@@ -26229,6 +26550,7 @@
         "location": "Mettmenstetten"
     },
     {
+        "label": "Lavorgo",
         "count": 41,
         "image_ids": [
             "SGV_12N_17478",
@@ -26280,6 +26602,7 @@
         "location": "Lavorgo"
     },
     {
+        "label": "Cavagnago",
         "count": 116,
         "image_ids": [
             "SGV_12N_17481",
@@ -26406,6 +26729,7 @@
         "location": "Cavagnago"
     },
     {
+        "label": "Sobrio",
         "count": 242,
         "image_ids": [
             "SGV_12N_17485",
@@ -26658,6 +26982,7 @@
         "location": "Sobrio"
     },
     {
+        "label": "Anzonico",
         "count": 14,
         "image_ids": [
             "SGV_12N_17487",
@@ -26682,6 +27007,7 @@
         "location": "Anzonico"
     },
     {
+        "label": "Saignel\u00e9gier",
         "count": 23,
         "image_ids": [
             "SGV_12N_17494",
@@ -26715,6 +27041,7 @@
         "location": "Saignel\u00e9gier"
     },
     {
+        "label": "Kappel",
         "count": 26,
         "image_ids": [
             "SGV_12N_10018",
@@ -26751,6 +27078,7 @@
         "location": "Kappel"
     },
     {
+        "label": "Nottwil",
         "count": 88,
         "image_ids": [
             "SGV_12N_10040",
@@ -26849,6 +27177,7 @@
         "location": "Nottwil"
     },
     {
+        "label": "Buttisholz",
         "count": 52,
         "image_ids": [
             "SGV_12N_10043",
@@ -26911,6 +27240,7 @@
         "location": "Buttisholz"
     },
     {
+        "label": "Gampelen",
         "count": 13,
         "image_ids": [
             "SGV_12N_10052",
@@ -26934,6 +27264,7 @@
         "location": "Gampelen"
     },
     {
+        "label": "Heimisbach",
         "count": 1,
         "image_ids": [
             "SGV_12N_10141"
@@ -26945,6 +27276,7 @@
         "location": "Heimisbach"
     },
     {
+        "label": "R\u00fctli",
         "count": 19,
         "image_ids": [
             "SGV_12N_10147",
@@ -26974,6 +27306,7 @@
         "location": "R\u00fctli"
     },
     {
+        "label": "Lungern",
         "count": 23,
         "image_ids": [
             "SGV_12N_10151",
@@ -27007,6 +27340,7 @@
         "location": "Lungern"
     },
     {
+        "label": "Giswil",
         "count": 32,
         "image_ids": [
             "SGV_12N_10162",
@@ -27049,6 +27383,7 @@
         "location": "Giswil"
     },
     {
+        "label": "Bannalp",
         "count": 10,
         "image_ids": [
             "SGV_12N_10201",
@@ -27069,6 +27404,7 @@
         "location": "Bannalp"
     },
     {
+        "label": "Isenthal",
         "count": 68,
         "image_ids": [
             "SGV_12N_10202",
@@ -27147,6 +27483,7 @@
         "location": "Isenthal"
     },
     {
+        "label": "Cavardiras",
         "count": 1,
         "image_ids": [
             "SGV_12N_10245"
@@ -27158,6 +27495,7 @@
         "location": "Cavardiras"
     },
     {
+        "label": "Camischolas",
         "count": 1,
         "image_ids": [
             "SGV_12N_10252"
@@ -27169,6 +27507,7 @@
         "location": "Camischolas"
     },
     {
+        "label": "Kanton Appenzell Innerrhoden",
         "count": 5,
         "image_ids": [
             "SGV_12N_10320",
@@ -27184,6 +27523,7 @@
         "location": "Kanton Appenzell Innerrhoden"
     },
     {
+        "label": "Malters",
         "count": 55,
         "image_ids": [
             "SGV_12N_10421",
@@ -27249,6 +27589,7 @@
         "location": "Malters"
     },
     {
+        "label": "Bludenz",
         "count": 44,
         "image_ids": [
             "SGV_12N_10501",
@@ -27303,6 +27644,7 @@
         "location": "Bludenz"
     },
     {
+        "label": "Hospental",
         "count": 34,
         "image_ids": [
             "SGV_12N_10553",
@@ -27347,6 +27689,7 @@
         "location": "Hospental"
     },
     {
+        "label": "Lamone",
         "count": 10,
         "image_ids": [
             "SGV_12N_10570",
@@ -27367,6 +27710,7 @@
         "location": "Lamone"
     },
     {
+        "label": "Nidau",
         "count": 13,
         "image_ids": [
             "SGV_12N_10666",
@@ -27390,6 +27734,7 @@
         "location": "Nidau"
     },
     {
+        "label": "Filisur",
         "count": 89,
         "image_ids": [
             "SGV_12N_10679",
@@ -27489,6 +27834,7 @@
         "location": "Filisur"
     },
     {
+        "label": "Davos Wiesen",
         "count": 6,
         "image_ids": [
             "SGV_12N_10690",
@@ -27505,6 +27851,7 @@
         "location": "Davos Wiesen"
     },
     {
+        "label": "Furna",
         "count": 63,
         "image_ids": [
             "SGV_12N_10701",
@@ -27578,6 +27925,7 @@
         "location": "Furna"
     },
     {
+        "label": "Saas im Pr\u00e4ttigau",
         "count": 17,
         "image_ids": [
             "SGV_12N_10746",
@@ -27605,6 +27953,7 @@
         "location": "Saas im Pr\u00e4ttigau"
     },
     {
+        "label": "K\u00fcblis",
         "count": 7,
         "image_ids": [
             "SGV_12N_10763",
@@ -27622,6 +27971,7 @@
         "location": "K\u00fcblis"
     },
     {
+        "label": "Conters",
         "count": 15,
         "image_ids": [
             "SGV_12N_10770",
@@ -27647,6 +27997,7 @@
         "location": "Conters"
     },
     {
+        "label": "Sankt Ant\u00f6nien",
         "count": 100,
         "image_ids": [
             "SGV_12N_10771",
@@ -27757,6 +28108,7 @@
         "location": "Sankt Ant\u00f6nien"
     },
     {
+        "label": "Luzein",
         "count": 4,
         "image_ids": [
             "SGV_12N_10817",
@@ -27771,6 +28123,7 @@
         "location": "Luzein"
     },
     {
+        "label": "Cureglia",
         "count": 1,
         "image_ids": [
             "SGV_12N_10834"
@@ -27782,6 +28135,7 @@
         "location": "Cureglia"
     },
     {
+        "label": "Br\u00fcnigen",
         "count": 35,
         "image_ids": [
             "SGV_12N_10861",
@@ -27827,6 +28181,7 @@
         "location": "Br\u00fcnigen"
     },
     {
+        "label": "Utzenstorf",
         "count": 33,
         "image_ids": [
             "SGV_12N_10910",
@@ -27870,6 +28225,7 @@
         "location": "Utzenstorf"
     },
     {
+        "label": "B\u00e4tterkinden",
         "count": 1,
         "image_ids": [
             "SGV_12N_10929"
@@ -27881,6 +28237,7 @@
         "location": "B\u00e4tterkinden"
     },
     {
+        "label": "Aefligen",
         "count": 1,
         "image_ids": [
             "SGV_12N_10930"
@@ -27892,6 +28249,7 @@
         "location": "Aefligen"
     },
     {
+        "label": "Fraubrunnen",
         "count": 17,
         "image_ids": [
             "SGV_12N_10931",
@@ -27919,6 +28277,7 @@
         "location": "Fraubrunnen"
     },
     {
+        "label": "Aetingen",
         "count": 4,
         "image_ids": [
             "SGV_12N_10940",
@@ -27933,6 +28292,7 @@
         "location": "Aetingen"
     },
     {
+        "label": "B\u00fcren an der Aare",
         "count": 31,
         "image_ids": [
             "SGV_12N_10943",
@@ -27974,6 +28334,7 @@
         "location": "B\u00fcren an der Aare"
     },
     {
+        "label": "Willisau",
         "count": 103,
         "image_ids": [
             "SGV_12N_10956",
@@ -28087,6 +28448,7 @@
         "location": "Willisau"
     },
     {
+        "label": "Hergiswil",
         "count": 96,
         "image_ids": [
             "SGV_12N_10958",
@@ -28193,6 +28555,7 @@
         "location": "Hergiswil"
     },
     {
+        "label": "B\u00e4riswil",
         "count": 2,
         "image_ids": [
             "SGV_12N_11007",
@@ -28205,6 +28568,7 @@
         "location": "B\u00e4riswil"
     },
     {
+        "label": "Urtenen",
         "count": 20,
         "image_ids": [
             "SGV_12N_11012",
@@ -28235,6 +28599,7 @@
         "location": "Urtenen"
     },
     {
+        "label": "Oberwil b. B\u00fcren",
         "count": 23,
         "image_ids": [
             "SGV_12N_11014",
@@ -28268,6 +28633,7 @@
         "location": "Oberwil b. B\u00fcren"
     },
     {
+        "label": "Iffwil",
         "count": 4,
         "image_ids": [
             "SGV_12N_11015",
@@ -28282,6 +28648,7 @@
         "location": "Iffwil"
     },
     {
+        "label": "M\u00fcnchringen",
         "count": 3,
         "image_ids": [
             "SGV_12N_11019",
@@ -28295,6 +28662,7 @@
         "location": "M\u00fcnchringen"
     },
     {
+        "label": "Handegg",
         "count": 12,
         "image_ids": [
             "SGV_12N_11057",
@@ -28317,6 +28685,7 @@
         "location": "Handegg"
     },
     {
+        "label": "Grafenried",
         "count": 8,
         "image_ids": [
             "SGV_12N_11101",
@@ -28335,6 +28704,7 @@
         "location": "Grafenried"
     },
     {
+        "label": "L\u00fcsslingen",
         "count": 2,
         "image_ids": [
             "SGV_12N_11114",
@@ -28347,6 +28717,7 @@
         "location": "L\u00fcsslingen"
     },
     {
+        "label": "Jegenstorf",
         "count": 19,
         "image_ids": [
             "SGV_12N_11132",
@@ -28376,6 +28747,7 @@
         "location": "Jegenstorf"
     },
     {
+        "label": "Lengnau",
         "count": 3,
         "image_ids": [
             "SGV_12N_11201",
@@ -28389,6 +28761,7 @@
         "location": "Lengnau"
     },
     {
+        "label": "Gossliwil",
         "count": 1,
         "image_ids": [
             "SGV_12N_11204"
@@ -28400,6 +28773,7 @@
         "location": "Gossliwil"
     },
     {
+        "label": "Orpund",
         "count": 4,
         "image_ids": [
             "SGV_12N_11220",
@@ -28414,6 +28788,7 @@
         "location": "Orpund"
     },
     {
+        "label": "Limpach",
         "count": 1,
         "image_ids": [
             "SGV_12N_11243"
@@ -28425,6 +28800,7 @@
         "location": "Limpach"
     },
     {
+        "label": "Rifferswil",
         "count": 2,
         "image_ids": [
             "SGV_12N_11250",
@@ -28437,6 +28813,7 @@
         "location": "Rifferswil"
     },
     {
+        "label": "Pontirone",
         "count": 37,
         "image_ids": [
             "SGV_12N_11306",
@@ -28484,6 +28861,7 @@
         "location": "Pontirone"
     },
     {
+        "label": "Aarberg",
         "count": 44,
         "image_ids": [
             "SGV_12N_11320",
@@ -28538,6 +28916,7 @@
         "location": "Aarberg"
     },
     {
+        "label": "Adelboden",
         "count": 73,
         "image_ids": [
             "SGV_12N_11359",
@@ -28621,6 +29000,7 @@
         "location": "Adelboden"
     },
     {
+        "label": "Naters",
         "count": 11,
         "image_ids": [
             "SGV_12N_11433",
@@ -28642,6 +29022,7 @@
         "location": "Naters"
     },
     {
+        "label": "Grengiols",
         "count": 1,
         "image_ids": [
             "SGV_12N_11435"
@@ -28653,6 +29034,7 @@
         "location": "Grengiols"
     },
     {
+        "label": "Oberwald",
         "count": 38,
         "image_ids": [
             "SGV_12N_11436",
@@ -28701,6 +29083,7 @@
         "location": "Oberwald"
     },
     {
+        "label": "Brig",
         "count": 8,
         "image_ids": [
             "SGV_12N_11437",
@@ -28719,6 +29102,7 @@
         "location": "Brig"
     },
     {
+        "label": "Bister",
         "count": 6,
         "image_ids": [
             "SGV_12N_11440",
@@ -28735,6 +29119,7 @@
         "location": "Bister"
     },
     {
+        "label": "Bodio",
         "count": 2,
         "image_ids": [
             "SGV_12N_11501",
@@ -28747,6 +29132,7 @@
         "location": "Bodio"
     },
     {
+        "label": "Buseno",
         "count": 10,
         "image_ids": [
             "SGV_12N_11503",
@@ -28767,6 +29153,7 @@
         "location": "Buseno"
     },
     {
+        "label": "Grono",
         "count": 2,
         "image_ids": [
             "SGV_12N_11545",
@@ -28779,6 +29166,7 @@
         "location": "Grono"
     },
     {
+        "label": "Airolo",
         "count": 50,
         "image_ids": [
             "SGV_12N_11548",
@@ -28839,6 +29227,7 @@
         "location": "Airolo"
     },
     {
+        "label": "Leventina District",
         "count": 544,
         "image_ids": [
             "SGV_12N_11549",
@@ -29393,6 +29782,7 @@
         "location": "Leventina District"
     },
     {
+        "label": "Cauco",
         "count": 3,
         "image_ids": [
             "SGV_12N_11601",
@@ -29406,6 +29796,7 @@
         "location": "Cauco"
     },
     {
+        "label": "Walde",
         "count": 10,
         "image_ids": [
             "SGV_12N_11710",
@@ -29426,6 +29817,7 @@
         "location": "Walde"
     },
     {
+        "label": "Winikon",
         "count": 31,
         "image_ids": [
             "SGV_12N_11716",
@@ -29467,6 +29859,7 @@
         "location": "Winikon"
     },
     {
+        "label": "Dornach",
         "count": 10,
         "image_ids": [
             "SGV_12N_11725",
@@ -29487,6 +29880,7 @@
         "location": "Dornach"
     },
     {
+        "label": "G\u00f6scheneralp",
         "count": 137,
         "image_ids": [
             "SGV_12N_11755",
@@ -29634,6 +30028,7 @@
         "location": "G\u00f6scheneralp"
     },
     {
+        "label": "Kanton Obwalden",
         "count": 114,
         "image_ids": [
             "SGV_12N_11764",
@@ -29758,6 +30153,7 @@
         "location": "Kanton Obwalden"
     },
     {
+        "label": "Ardez",
         "count": 15,
         "image_ids": [
             "SGV_12N_11978",
@@ -29783,6 +30179,7 @@
         "location": "Ardez"
     },
     {
+        "label": "Tarasp",
         "count": 5,
         "image_ids": [
             "SGV_12N_11979",
@@ -29798,6 +30195,7 @@
         "location": "Tarasp"
     },
     {
+        "label": "G\u00f6schenen",
         "count": 50,
         "image_ids": [
             "SGV_12N_12120",
@@ -29858,6 +30256,7 @@
         "location": "G\u00f6schenen"
     },
     {
+        "label": "Obersimmental-Saanen",
         "count": 152,
         "image_ids": [
             "SGV_12N_12170",
@@ -30020,6 +30419,7 @@
         "location": "Obersimmental-Saanen"
     },
     {
+        "label": "Ried",
         "count": 9,
         "image_ids": [
             "SGV_12N_12173",
@@ -30039,6 +30439,7 @@
         "location": "Ried"
     },
     {
+        "label": "Andeer",
         "count": 62,
         "image_ids": [
             "SGV_12N_12242",
@@ -30111,6 +30512,7 @@
         "location": "Andeer"
     },
     {
+        "label": "Eschenbach",
         "count": 137,
         "image_ids": [
             "SGV_12N_12269",
@@ -30258,6 +30660,7 @@
         "location": "Eschenbach"
     },
     {
+        "label": "Freiburg",
         "count": 32,
         "image_ids": [
             "SGV_12N_12301",
@@ -30300,6 +30703,7 @@
         "location": "Freiburg"
     },
     {
+        "label": "Horgen",
         "count": 15,
         "image_ids": [
             "SGV_12N_12406",
@@ -30325,6 +30729,7 @@
         "location": "Horgen"
     },
     {
+        "label": "Neuch\u00e2tel",
         "count": 65,
         "image_ids": [
             "SGV_12N_12436",
@@ -30400,6 +30805,7 @@
         "location": "Neuch\u00e2tel"
     },
     {
+        "label": "Miglieglia",
         "count": 29,
         "image_ids": [
             "SGV_12N_02502",
@@ -30439,6 +30845,7 @@
         "location": "Miglieglia"
     },
     {
+        "label": "Pura",
         "count": 3,
         "image_ids": [
             "SGV_12N_02550",
@@ -30452,6 +30859,7 @@
         "location": "Pura"
     },
     {
+        "label": "Curio",
         "count": 5,
         "image_ids": [
             "SGV_12N_02569",
@@ -30467,6 +30875,7 @@
         "location": "Curio"
     },
     {
+        "label": "Aranno",
         "count": 2,
         "image_ids": [
             "SGV_12N_02640",
@@ -30479,6 +30888,7 @@
         "location": "Aranno"
     },
     {
+        "label": "D\u00fcbendorf",
         "count": 30,
         "image_ids": [
             "SGV_12N_02710",
@@ -30519,6 +30929,7 @@
         "location": "D\u00fcbendorf"
     },
     {
+        "label": "Valchava",
         "count": 10,
         "image_ids": [
             "SGV_12N_02783",
@@ -30539,6 +30950,7 @@
         "location": "Valchava"
     },
     {
+        "label": "Arosio",
         "count": 6,
         "image_ids": [
             "SGV_12N_03439",
@@ -30555,6 +30967,7 @@
         "location": "Arosio"
     },
     {
+        "label": "Hellb\u00fchl",
         "count": 74,
         "image_ids": [
             "SGV_12N_03633",
@@ -30639,6 +31052,7 @@
         "location": "Hellb\u00fchl"
     },
     {
+        "label": "Geneva",
         "count": 2,
         "image_ids": [
             "SGV_12N_03789",
@@ -30651,6 +31065,7 @@
         "location": "Geneva"
     },
     {
+        "label": "Emmen",
         "count": 46,
         "image_ids": [
             "SGV_12N_03803",
@@ -30707,6 +31122,7 @@
         "location": "Emmen"
     },
     {
+        "label": "Juf",
         "count": 8,
         "image_ids": [
             "SGV_12N_03919",
@@ -30725,6 +31141,7 @@
         "location": "Juf"
     },
     {
+        "label": "Lauenen",
         "count": 106,
         "image_ids": [
             "SGV_12N_04145",
@@ -30841,6 +31258,7 @@
         "location": "Lauenen"
     },
     {
+        "label": "Sigigen",
         "count": 3,
         "image_ids": [
             "SGV_12N_04199",
@@ -30854,6 +31272,7 @@
         "location": "Sigigen"
     },
     {
+        "label": "Estavayer-le-Lac",
         "count": 7,
         "image_ids": [
             "SGV_12N_04694",
@@ -30871,6 +31290,7 @@
         "location": "Estavayer-le-Lac"
     },
     {
+        "label": "St. Stephan",
         "count": 5,
         "image_ids": [
             "SGV_12N_04716",
@@ -30886,6 +31306,7 @@
         "location": "St. Stephan"
     },
     {
+        "label": "Savi\u00e8se",
         "count": 50,
         "image_ids": [
             "SGV_12N_04732",
@@ -30946,6 +31367,7 @@
         "location": "Savi\u00e8se"
     },
     {
+        "label": "Inwil",
         "count": 4,
         "image_ids": [
             "SGV_12N_04775",
@@ -30960,6 +31382,7 @@
         "location": "Inwil"
     },
     {
+        "label": "Visp",
         "count": 6,
         "image_ids": [
             "SGV_12N_04901",
@@ -30976,6 +31399,7 @@
         "location": "Visp"
     },
     {
+        "label": "Tschappina",
         "count": 15,
         "image_ids": [
             "SGV_12N_35001",
@@ -31001,6 +31425,7 @@
         "location": "Tschappina"
     },
     {
+        "label": "Tartar",
         "count": 1,
         "image_ids": [
             "SGV_12N_35024"
@@ -31012,6 +31437,7 @@
         "location": "Tartar"
     },
     {
+        "label": "Dalin",
         "count": 5,
         "image_ids": [
             "SGV_12N_35032",
@@ -31027,6 +31453,7 @@
         "location": "Dalin"
     },
     {
+        "label": "Lohn",
         "count": 17,
         "image_ids": [
             "SGV_12N_35069",
@@ -31054,6 +31481,7 @@
         "location": "Lohn"
     },
     {
+        "label": "Mathon",
         "count": 22,
         "image_ids": [
             "SGV_12N_35077",
@@ -31086,6 +31514,7 @@
         "location": "Mathon"
     },
     {
+        "label": "Region Viamala",
         "count": 2,
         "image_ids": [
             "SGV_12N_35078",
@@ -31098,6 +31527,7 @@
         "location": "Region Viamala"
     },
     {
+        "label": "Riggisberg",
         "count": 3,
         "image_ids": [
             "SGV_12N_35089",
@@ -31111,6 +31541,7 @@
         "location": "Riggisberg"
     },
     {
+        "label": "Imboden District",
         "count": 7,
         "image_ids": [
             "SGV_12N_35092",
@@ -31128,6 +31559,7 @@
         "location": "Imboden District"
     },
     {
+        "label": "R\u00fcschegg",
         "count": 107,
         "image_ids": [
             "SGV_12N_35153",
@@ -31245,6 +31677,7 @@
         "location": "R\u00fcschegg"
     },
     {
+        "label": "Chur",
         "count": 150,
         "image_ids": [
             "SGV_12N_35195",
@@ -31405,6 +31838,7 @@
         "location": "Chur"
     },
     {
+        "label": "Stabio",
         "count": 14,
         "image_ids": [
             "SGV_12N_35197",
@@ -31429,6 +31863,7 @@
         "location": "Stabio"
     },
     {
+        "label": "Bivio",
         "count": 81,
         "image_ids": [
             "SGV_12N_35301",
@@ -31520,6 +31955,7 @@
         "location": "Bivio"
     },
     {
+        "label": "Maloja District",
         "count": 73,
         "image_ids": [
             "SGV_12N_35312",
@@ -31603,6 +32039,7 @@
         "location": "Maloja District"
     },
     {
+        "label": "Silvaplana",
         "count": 8,
         "image_ids": [
             "SGV_12N_35382",
@@ -31621,6 +32058,7 @@
         "location": "Silvaplana"
     },
     {
+        "label": "Schongau",
         "count": 35,
         "image_ids": [
             "SGV_12N_35390",
@@ -31666,6 +32104,7 @@
         "location": "Schongau"
     },
     {
+        "label": "Burgdorf",
         "count": 48,
         "image_ids": [
             "SGV_12N_35401",
@@ -31724,6 +32163,7 @@
         "location": "Burgdorf"
     },
     {
+        "label": "Brissago",
         "count": 27,
         "image_ids": [
             "SGV_12N_35567",
@@ -31761,6 +32201,7 @@
         "location": "Brissago"
     },
     {
+        "label": "Frauenfeld",
         "count": 59,
         "image_ids": [
             "SGV_12N_35601",
@@ -31830,6 +32271,7 @@
         "location": "Frauenfeld"
     },
     {
+        "label": "Triengen",
         "count": 37,
         "image_ids": [
             "SGV_12N_35626",
@@ -31877,6 +32319,7 @@
         "location": "Triengen"
     },
     {
+        "label": "Vergeletto",
         "count": 29,
         "image_ids": [
             "SGV_12N_35660",
@@ -31916,6 +32359,7 @@
         "location": "Vergeletto"
     },
     {
+        "label": "Regensberg",
         "count": 32,
         "image_ids": [
             "SGV_12N_35747",
@@ -31958,6 +32402,7 @@
         "location": "Regensberg"
     },
     {
+        "label": "Habsburg",
         "count": 17,
         "image_ids": [
             "SGV_12N_35777",
@@ -31985,6 +32430,7 @@
         "location": "Habsburg"
     },
     {
+        "label": "Trimmis",
         "count": 24,
         "image_ids": [
             "SGV_12N_35801",
@@ -32019,6 +32465,7 @@
         "location": "Trimmis"
     },
     {
+        "label": "Sambuco di Fuori",
         "count": 18,
         "image_ids": [
             "SGV_12N_35825",
@@ -32047,6 +32494,7 @@
         "location": "Sambuco di Fuori"
     },
     {
+        "label": "Aesch",
         "count": 25,
         "image_ids": [
             "SGV_12N_35827",
@@ -32082,6 +32530,7 @@
         "location": "Aesch"
     },
     {
+        "label": "Oberkirch",
         "count": 5,
         "image_ids": [
             "SGV_12N_35840",
@@ -32097,6 +32546,7 @@
         "location": "Oberkirch"
     },
     {
+        "label": "Peccia",
         "count": 133,
         "image_ids": [
             "SGV_12N_35856",
@@ -32240,6 +32690,7 @@
         "location": "Peccia"
     },
     {
+        "label": "Kanton Tessin",
         "count": 459,
         "image_ids": [
             "SGV_12N_35862",
@@ -32709,6 +33160,7 @@
         "location": "Kanton Tessin"
     },
     {
+        "label": "Rothenburg",
         "count": 38,
         "image_ids": [
             "SGV_12N_35897",
@@ -32757,6 +33209,7 @@
         "location": "Rothenburg"
     },
     {
+        "label": "Diessenhofen",
         "count": 41,
         "image_ids": [
             "SGV_12N_35901",
@@ -32808,6 +33261,7 @@
         "location": "Diessenhofen"
     },
     {
+        "label": "Bischofszell",
         "count": 34,
         "image_ids": [
             "SGV_12N_35942",
@@ -32852,6 +33306,7 @@
         "location": "Bischofszell"
     },
     {
+        "label": "Schwarzenbach",
         "count": 15,
         "image_ids": [
             "SGV_12N_35978",
@@ -32877,6 +33332,7 @@
         "location": "Schwarzenbach"
     },
     {
+        "label": "Corg\u00e9mont",
         "count": 6,
         "image_ids": [
             "SGV_12N_36001",
@@ -32893,6 +33349,7 @@
         "location": "Corg\u00e9mont"
     },
     {
+        "label": "Cort\u00e9bert",
         "count": 3,
         "image_ids": [
             "SGV_12N_36007",
@@ -32906,6 +33363,7 @@
         "location": "Cort\u00e9bert"
     },
     {
+        "label": "Cormoret",
         "count": 2,
         "image_ids": [
             "SGV_12N_36010",
@@ -32918,6 +33376,7 @@
         "location": "Cormoret"
     },
     {
+        "label": "Sankt Immer",
         "count": 3,
         "image_ids": [
             "SGV_12N_36012",
@@ -32931,6 +33390,7 @@
         "location": "Sankt Immer"
     },
     {
+        "label": "Les Bois",
         "count": 9,
         "image_ids": [
             "SGV_12N_36015",
@@ -32950,6 +33410,7 @@
         "location": "Les Bois"
     },
     {
+        "label": "La Ferri\u00e8re",
         "count": 10,
         "image_ids": [
             "SGV_12N_36025",
@@ -32970,6 +33431,7 @@
         "location": "La Ferri\u00e8re"
     },
     {
+        "label": "Le Cerneux-Veusil",
         "count": 7,
         "image_ids": [
             "SGV_12N_36034",
@@ -32987,6 +33449,7 @@
         "location": "Le Cerneux-Veusil"
     },
     {
+        "label": "Montfaucon",
         "count": 11,
         "image_ids": [
             "SGV_12N_36044",
@@ -33008,6 +33471,7 @@
         "location": "Montfaucon"
     },
     {
+        "label": "Saint-Brais",
         "count": 17,
         "image_ids": [
             "SGV_12N_36055",
@@ -33035,6 +33499,7 @@
         "location": "Saint-Brais"
     },
     {
+        "label": "Soubey",
         "count": 12,
         "image_ids": [
             "SGV_12N_36072",
@@ -33057,6 +33522,7 @@
         "location": "Soubey"
     },
     {
+        "label": "Del\u00e9mont",
         "count": 15,
         "image_ids": [
             "SGV_12N_36084",
@@ -33082,6 +33548,7 @@
         "location": "Del\u00e9mont"
     },
     {
+        "label": "Courgenay",
         "count": 7,
         "image_ids": [
             "SGV_12N_36098",
@@ -33099,6 +33566,7 @@
         "location": "Courgenay"
     },
     {
+        "label": "Porrentruy",
         "count": 5,
         "image_ids": [
             "SGV_12N_36101",
@@ -33114,6 +33582,7 @@
         "location": "Porrentruy"
     },
     {
+        "label": "Bure",
         "count": 4,
         "image_ids": [
             "SGV_12N_36106",
@@ -33128,6 +33597,7 @@
         "location": "Bure"
     },
     {
+        "label": "Fahy",
         "count": 21,
         "image_ids": [
             "SGV_12N_36110",
@@ -33159,6 +33629,7 @@
         "location": "Fahy"
     },
     {
+        "label": "Grandfontaine",
         "count": 4,
         "image_ids": [
             "SGV_12N_36131",
@@ -33173,6 +33644,7 @@
         "location": "Grandfontaine"
     },
     {
+        "label": "Rocourt",
         "count": 5,
         "image_ids": [
             "SGV_12N_36135",
@@ -33188,6 +33660,7 @@
         "location": "Rocourt"
     },
     {
+        "label": "R\u00e9cl\u00e8re",
         "count": 5,
         "image_ids": [
             "SGV_12N_36140",
@@ -33203,6 +33676,7 @@
         "location": "R\u00e9cl\u00e8re"
     },
     {
+        "label": "Damvant",
         "count": 6,
         "image_ids": [
             "SGV_12N_36145",
@@ -33219,6 +33693,7 @@
         "location": "Damvant"
     },
     {
+        "label": "Saint-Ursanne",
         "count": 37,
         "image_ids": [
             "SGV_12N_36150",
@@ -33266,6 +33741,7 @@
         "location": "Saint-Ursanne"
     },
     {
+        "label": "Neuenkirch",
         "count": 59,
         "image_ids": [
             "SGV_12N_36440",
@@ -33335,6 +33811,7 @@
         "location": "Neuenkirch"
     },
     {
+        "label": "Berneck",
         "count": 3,
         "image_ids": [
             "SGV_12N_36455",
@@ -33348,6 +33825,7 @@
         "location": "Berneck"
     },
     {
+        "label": "Eigenthal",
         "count": 7,
         "image_ids": [
             "SGV_12N_36584",
@@ -33365,6 +33843,7 @@
         "location": "Eigenthal"
     },
     {
+        "label": "Richterswil",
         "count": 21,
         "image_ids": [
             "SGV_12N_36595",
@@ -33396,6 +33875,7 @@
         "location": "Richterswil"
     },
     {
+        "label": "Wohlen",
         "count": 5,
         "image_ids": [
             "SGV_12N_36700",
@@ -33411,6 +33891,7 @@
         "location": "Wohlen"
     },
     {
+        "label": "Schleitheim",
         "count": 31,
         "image_ids": [
             "SGV_12N_36951",
@@ -33452,6 +33933,7 @@
         "location": "Schleitheim"
     },
     {
+        "label": "Beggingen",
         "count": 7,
         "image_ids": [
             "SGV_12N_36982",
@@ -33469,6 +33951,7 @@
         "location": "Beggingen"
     },
     {
+        "label": "Bargen",
         "count": 6,
         "image_ids": [
             "SGV_12N_36989",
@@ -33485,6 +33968,7 @@
         "location": "Bargen"
     },
     {
+        "label": "Kanton Schaffhausen",
         "count": 18,
         "image_ids": [
             "SGV_12N_36995",
@@ -33513,6 +33997,7 @@
         "location": "Kanton Schaffhausen"
     },
     {
+        "label": "Kriens",
         "count": 85,
         "image_ids": [
             "SGV_12N_37065",
@@ -33608,6 +34093,7 @@
         "location": "Kriens"
     },
     {
+        "label": "Andermatt",
         "count": 122,
         "image_ids": [
             "SGV_12N_37101",
@@ -33740,6 +34226,7 @@
         "location": "Andermatt"
     },
     {
+        "label": "Acquarossa",
         "count": 10,
         "image_ids": [
             "SGV_12N_37276",
@@ -33760,6 +34247,7 @@
         "location": "Acquarossa"
     },
     {
+        "label": "Piotta",
         "count": 1,
         "image_ids": [
             "SGV_12N_37284"
@@ -33771,6 +34259,7 @@
         "location": "Piotta"
     },
     {
+        "label": "Ramlinsburg",
         "count": 1,
         "image_ids": [
             "SGV_12N_37403"
@@ -33782,6 +34271,7 @@
         "location": "Ramlinsburg"
     },
     {
+        "label": "Kanton Basel-Landschaft",
         "count": 6,
         "image_ids": [
             "SGV_12N_37404",
@@ -33798,6 +34288,7 @@
         "location": "Kanton Basel-Landschaft"
     },
     {
+        "label": "Niederdorf",
         "count": 4,
         "image_ids": [
             "SGV_12N_37422",
@@ -33812,6 +34303,7 @@
         "location": "Niederdorf"
     },
     {
+        "label": "Oberdorf",
         "count": 8,
         "image_ids": [
             "SGV_12N_37425",
@@ -33830,6 +34322,7 @@
         "location": "Oberdorf"
     },
     {
+        "label": "H\u00f6lstein",
         "count": 17,
         "image_ids": [
             "SGV_12N_37430",
@@ -33857,6 +34350,7 @@
         "location": "H\u00f6lstein"
     },
     {
+        "label": "Meienberg",
         "count": 20,
         "image_ids": [
             "SGV_12N_37486",
@@ -33887,6 +34381,7 @@
         "location": "Meienberg"
     },
     {
+        "label": "Corticiasca",
         "count": 9,
         "image_ids": [
             "SGV_12N_00010",
@@ -33906,6 +34401,7 @@
         "location": "Corticiasca"
     },
     {
+        "label": "Holzh\u00e4usern",
         "count": 1,
         "image_ids": [
             "SGV_12N_00014"
@@ -33917,6 +34413,7 @@
         "location": "Holzh\u00e4usern"
     },
     {
+        "label": "Niederglatt",
         "count": 2,
         "image_ids": [
             "SGV_12N_00018",
@@ -33929,6 +34426,7 @@
         "location": "Niederglatt"
     },
     {
+        "label": "Altdorf",
         "count": 17,
         "image_ids": [
             "SGV_12N_00022",
@@ -33956,6 +34454,7 @@
         "location": "Altdorf"
     },
     {
+        "label": "Gr\u00fcsch",
         "count": 2,
         "image_ids": [
             "SGV_12N_00032",
@@ -33968,6 +34467,7 @@
         "location": "Gr\u00fcsch"
     },
     {
+        "label": "Flaach",
         "count": 10,
         "image_ids": [
             "SGV_12N_00054",
@@ -33988,6 +34488,7 @@
         "location": "Flaach"
     },
     {
+        "label": "Bidogno",
         "count": 2,
         "image_ids": [
             "SGV_12N_00059",
@@ -34000,6 +34501,7 @@
         "location": "Bidogno"
     },
     {
+        "label": "Jenaz",
         "count": 2,
         "image_ids": [
             "SGV_12N_00078",
@@ -34012,6 +34514,7 @@
         "location": "Jenaz"
     },
     {
+        "label": "Pratteln",
         "count": 4,
         "image_ids": [
             "SGV_12N_00126",
@@ -34026,6 +34529,7 @@
         "location": "Pratteln"
     },
     {
+        "label": "Pfaffensprung",
         "count": 9,
         "image_ids": [
             "SGV_12N_00173",
@@ -34045,6 +34549,7 @@
         "location": "Pfaffensprung"
     },
     {
+        "label": "Tesserete",
         "count": 18,
         "image_ids": [
             "SGV_12N_00254",
@@ -34073,6 +34578,7 @@
         "location": "Tesserete"
     },
     {
+        "label": "Cagiallo",
         "count": 7,
         "image_ids": [
             "SGV_12N_00256",
@@ -34090,6 +34596,7 @@
         "location": "Cagiallo"
     },
     {
+        "label": "Sins",
         "count": 2,
         "image_ids": [
             "SGV_12N_00264",
@@ -34102,6 +34609,7 @@
         "location": "Sins"
     },
     {
+        "label": "Sch\u00fcpfheim",
         "count": 60,
         "image_ids": [
             "SGV_12N_00266",
@@ -34172,6 +34680,7 @@
         "location": "Sch\u00fcpfheim"
     },
     {
+        "label": "Alpnach",
         "count": 1,
         "image_ids": [
             "SGV_12N_00295"
@@ -34183,6 +34692,7 @@
         "location": "Alpnach"
     },
     {
+        "label": "Kerns",
         "count": 26,
         "image_ids": [
             "SGV_12N_00297",
@@ -34219,6 +34729,7 @@
         "location": "Kerns"
     },
     {
+        "label": "Bigorio",
         "count": 2,
         "image_ids": [
             "SGV_12N_00356",
@@ -34231,6 +34742,7 @@
         "location": "Bigorio"
     },
     {
+        "label": "Sonvico",
         "count": 5,
         "image_ids": [
             "SGV_12N_00361",
@@ -34246,6 +34758,7 @@
         "location": "Sonvico"
     },
     {
+        "label": "Dino",
         "count": 2,
         "image_ids": [
             "SGV_12N_00372",
@@ -34258,6 +34771,7 @@
         "location": "Dino"
     },
     {
+        "label": "Biasca",
         "count": 31,
         "image_ids": [
             "SGV_12N_00439",
@@ -34299,6 +34813,7 @@
         "location": "Biasca"
     },
     {
+        "label": "Esslingen",
         "count": 1,
         "image_ids": [
             "SGV_12N_00463"
@@ -34310,6 +34825,7 @@
         "location": "Esslingen"
     },
     {
+        "label": "Binzikon",
         "count": 1,
         "image_ids": [
             "SGV_12N_00467"
@@ -34321,6 +34837,7 @@
         "location": "Binzikon"
     },
     {
+        "label": "Cressier",
         "count": 5,
         "image_ids": [
             "SGV_12N_00572",
@@ -34336,6 +34853,7 @@
         "location": "Cressier"
     },
     {
+        "label": "Laufen",
         "count": 26,
         "image_ids": [
             "SGV_12N_00601",
@@ -34372,6 +34890,7 @@
         "location": "Laufen"
     },
     {
+        "label": "Jura-Nord vaudois District",
         "count": 3,
         "image_ids": [
             "SGV_12N_00616",
@@ -34385,6 +34904,7 @@
         "location": "Jura-Nord vaudois District"
     },
     {
+        "label": "Stallikon",
         "count": 16,
         "image_ids": [
             "SGV_12N_00699",
@@ -34411,6 +34931,7 @@
         "location": "Stallikon"
     },
     {
+        "label": "Gersau",
         "count": 10,
         "image_ids": [
             "SGV_12N_00701",
@@ -34431,6 +34952,7 @@
         "location": "Gersau"
     },
     {
+        "label": "Iseltwald",
         "count": 104,
         "image_ids": [
             "SGV_12N_00733",
@@ -34545,6 +35067,7 @@
         "location": "Iseltwald"
     },
     {
+        "label": "Meierskappel",
         "count": 9,
         "image_ids": [
             "SGV_12N_00798",
@@ -34564,6 +35087,7 @@
         "location": "Meierskappel"
     },
     {
+        "label": "Aeschi bei Spiez",
         "count": 1,
         "image_ids": [
             "SGV_12N_00844"
@@ -34575,6 +35099,7 @@
         "location": "Aeschi bei Spiez"
     },
     {
+        "label": "Gemmipass",
         "count": 29,
         "image_ids": [
             "SGV_12N_00890",
@@ -34614,6 +35139,7 @@
         "location": "Gemmipass"
     },
     {
+        "label": "Hallwil",
         "count": 1,
         "image_ids": [
             "SGV_12N_00901"
@@ -34625,6 +35151,7 @@
         "location": "Hallwil"
     },
     {
+        "label": "Bruggen",
         "count": 37,
         "image_ids": [
             "SGV_12N_00956",
@@ -34672,6 +35199,7 @@
         "location": "Bruggen"
     },
     {
+        "label": "Roggwil",
         "count": 2,
         "image_ids": [
             "SGV_12N_01156",
@@ -34684,6 +35212,7 @@
         "location": "Roggwil"
     },
     {
+        "label": "Zermatt",
         "count": 126,
         "image_ids": [
             "SGV_12N_01416",
@@ -34820,6 +35349,7 @@
         "location": "Zermatt"
     },
     {
+        "label": "Le Chenit",
         "count": 1,
         "image_ids": [
             "SGV_12N_01485"
@@ -34831,6 +35361,7 @@
         "location": "Le Chenit"
     },
     {
+        "label": "B\u00fcsingen",
         "count": 29,
         "image_ids": [
             "SGV_12N_01520",
@@ -34870,6 +35401,7 @@
         "location": "B\u00fcsingen"
     },
     {
+        "label": "Wattenwil",
         "count": 1,
         "image_ids": [
             "SGV_12N_01659"
@@ -34881,6 +35413,7 @@
         "location": "Wattenwil"
     },
     {
+        "label": "Buchthalen",
         "count": 1,
         "image_ids": [
             "SGV_12N_01905"
@@ -34892,6 +35425,7 @@
         "location": "Buchthalen"
     },
     {
+        "label": "Huttwil",
         "count": 75,
         "image_ids": [
             "SGV_12N_01948",
@@ -34977,6 +35511,7 @@
         "location": "Huttwil"
     },
     {
+        "label": "Fiesch",
         "count": 9,
         "image_ids": [
             "SGV_12N_01954",
@@ -34996,6 +35531,7 @@
         "location": "Fiesch"
     },
     {
+        "label": "Benzenschwil",
         "count": 1,
         "image_ids": [
             "SGV_12N_02132"
@@ -35007,6 +35543,7 @@
         "location": "Benzenschwil"
     },
     {
+        "label": "Feld",
         "count": 15,
         "image_ids": [
             "SGV_12N_02339",
@@ -35032,6 +35569,7 @@
         "location": "Feld"
     },
     {
+        "label": "Losone",
         "count": 32,
         "image_ids": [
             "SGV_12N_02496",
@@ -35074,6 +35612,7 @@
         "location": "Losone"
     },
     {
+        "label": "Arcegno",
         "count": 1,
         "image_ids": [
             "SGV_12N_02498"
@@ -35085,6 +35624,7 @@
         "location": "Arcegno"
     },
     {
+        "label": "Iserables",
         "count": 48,
         "image_ids": [
             "SGV_12N_30300",
@@ -35143,6 +35683,7 @@
         "location": "Iserables"
     },
     {
+        "label": "Bignasco",
         "count": 58,
         "image_ids": [
             "SGV_12N_30394",
@@ -35211,6 +35752,7 @@
         "location": "Bignasco"
     },
     {
+        "label": "Wauwil",
         "count": 51,
         "image_ids": [
             "SGV_12N_30411",
@@ -35272,6 +35814,7 @@
         "location": "Wauwil"
     },
     {
+        "label": "Lugano",
         "count": 53,
         "image_ids": [
             "SGV_12N_30467",
@@ -35335,6 +35878,7 @@
         "location": "Lugano"
     },
     {
+        "label": "Gsteig",
         "count": 13,
         "image_ids": [
             "SGV_12N_30469",
@@ -35358,6 +35902,7 @@
         "location": "Gsteig"
     },
     {
+        "label": "Interlaken",
         "count": 185,
         "image_ids": [
             "SGV_12N_30476",
@@ -35553,6 +36098,7 @@
         "location": "Interlaken"
     },
     {
+        "label": "Oberrickenbach",
         "count": 70,
         "image_ids": [
             "SGV_12N_30477",
@@ -35633,6 +36179,7 @@
         "location": "Oberrickenbach"
     },
     {
+        "label": "Soglio",
         "count": 140,
         "image_ids": [
             "SGV_12N_30496",
@@ -35783,6 +36330,7 @@
         "location": "Soglio"
     },
     {
+        "label": "Madrano",
         "count": 24,
         "image_ids": [
             "SGV_12N_30501",
@@ -35817,6 +36365,7 @@
         "location": "Madrano"
     },
     {
+        "label": "Calonico",
         "count": 34,
         "image_ids": [
             "SGV_12N_30524",
@@ -35861,6 +36410,7 @@
         "location": "Calonico"
     },
     {
+        "label": "Spiringen",
         "count": 4,
         "image_ids": [
             "SGV_12N_30567",
@@ -35875,6 +36425,7 @@
         "location": "Spiringen"
     },
     {
+        "label": "Schinznach Dorf",
         "count": 41,
         "image_ids": [
             "SGV_12N_30580",
@@ -35926,6 +36477,7 @@
         "location": "Schinznach Dorf"
     },
     {
+        "label": "Teufen AR",
         "count": 28,
         "image_ids": [
             "SGV_12N_30589",
@@ -35964,6 +36516,7 @@
         "location": "Teufen AR"
     },
     {
+        "label": "Brontallo",
         "count": 16,
         "image_ids": [
             "SGV_12N_30625",
@@ -35990,6 +36543,7 @@
         "location": "Brontallo"
     },
     {
+        "label": "Mogno",
         "count": 12,
         "image_ids": [
             "SGV_12N_30641",
@@ -36012,6 +36566,7 @@
         "location": "Mogno"
     },
     {
+        "label": "Maggia",
         "count": 6,
         "image_ids": [
             "SGV_12N_30651",
@@ -36028,6 +36583,7 @@
         "location": "Maggia"
     },
     {
+        "label": "Sornico",
         "count": 1,
         "image_ids": [
             "SGV_12N_30656"
@@ -36039,6 +36595,7 @@
         "location": "Sornico"
     },
     {
+        "label": "Broglio",
         "count": 2,
         "image_ids": [
             "SGV_12N_30657",
@@ -36051,6 +36608,7 @@
         "location": "Broglio"
     },
     {
+        "label": "Vallemaggia District",
         "count": 61,
         "image_ids": [
             "SGV_12N_30658",
@@ -36122,6 +36680,7 @@
         "location": "Vallemaggia District"
     },
     {
+        "label": "Fusio",
         "count": 21,
         "image_ids": [
             "SGV_12N_30662",
@@ -36153,6 +36712,7 @@
         "location": "Fusio"
     },
     {
+        "label": "Inn District",
         "count": 58,
         "image_ids": [
             "SGV_12N_30701",
@@ -36221,6 +36781,7 @@
         "location": "Inn District"
     },
     {
+        "label": "Tschierv",
         "count": 7,
         "image_ids": [
             "SGV_12N_30742",
@@ -36238,6 +36799,7 @@
         "location": "Tschierv"
     },
     {
+        "label": "L\u00fc",
         "count": 8,
         "image_ids": [
             "SGV_12N_30748",
@@ -36256,6 +36818,7 @@
         "location": "L\u00fc"
     },
     {
+        "label": "Santa Maria",
         "count": 39,
         "image_ids": [
             "SGV_12N_30754",
@@ -36305,6 +36868,7 @@
         "location": "Santa Maria"
     },
     {
+        "label": "Fuldera",
         "count": 7,
         "image_ids": [
             "SGV_12N_30757",
@@ -36322,6 +36886,7 @@
         "location": "Fuldera"
     },
     {
+        "label": "M\u00fcstair",
         "count": 27,
         "image_ids": [
             "SGV_12N_30788",
@@ -36359,6 +36924,7 @@
         "location": "M\u00fcstair"
     },
     {
+        "label": "Wenslingen",
         "count": 4,
         "image_ids": [
             "SGV_12N_30871",
@@ -36373,6 +36939,7 @@
         "location": "Wenslingen"
     },
     {
+        "label": "B\u00f6ckten",
         "count": 2,
         "image_ids": [
             "SGV_12N_30931",
@@ -36385,6 +36952,7 @@
         "location": "B\u00f6ckten"
     },
     {
+        "label": "Sissach",
         "count": 3,
         "image_ids": [
             "SGV_12N_30933",
@@ -36398,6 +36966,7 @@
         "location": "Sissach"
     },
     {
+        "label": "Tenniken",
         "count": 2,
         "image_ids": [
             "SGV_12N_30936",
@@ -36410,6 +36979,7 @@
         "location": "Tenniken"
     },
     {
+        "label": "Diegten",
         "count": 15,
         "image_ids": [
             "SGV_12N_30938",
@@ -36435,6 +37005,7 @@
         "location": "Diegten"
     },
     {
+        "label": "Waldenburg",
         "count": 4,
         "image_ids": [
             "SGV_12N_30968",
@@ -36449,6 +37020,7 @@
         "location": "Waldenburg"
     },
     {
+        "label": "Oltingen",
         "count": 15,
         "image_ids": [
             "SGV_12N_30973",
@@ -36474,6 +37046,7 @@
         "location": "Oltingen"
     },
     {
+        "label": "Riddes",
         "count": 9,
         "image_ids": [
             "SGV_12N_31280",
@@ -36493,6 +37066,7 @@
         "location": "Riddes"
     },
     {
+        "label": "D\u00fcrrenroth",
         "count": 43,
         "image_ids": [
             "SGV_12N_31301",
@@ -36546,6 +37120,7 @@
         "location": "D\u00fcrrenroth"
     },
     {
+        "label": "Wyssachen",
         "count": 9,
         "image_ids": [
             "SGV_12N_31312",
@@ -36565,6 +37140,7 @@
         "location": "Wyssachen"
     },
     {
+        "label": "R\u00fceggisberg",
         "count": 44,
         "image_ids": [
             "SGV_12N_31401",
@@ -36619,6 +37195,7 @@
         "location": "R\u00fceggisberg"
     },
     {
+        "label": "M\u00fcnchenwiler",
         "count": 49,
         "image_ids": [
             "SGV_12N_31490",
@@ -36678,6 +37255,7 @@
         "location": "M\u00fcnchenwiler"
     },
     {
+        "label": "Courgevaux",
         "count": 16,
         "image_ids": [
             "SGV_12N_31545",
@@ -36704,6 +37282,7 @@
         "location": "Courgevaux"
     },
     {
+        "label": "Palagnedra",
         "count": 3,
         "image_ids": [
             "SGV_12N_31601",
@@ -36717,6 +37296,7 @@
         "location": "Palagnedra"
     },
     {
+        "label": "Locarno District",
         "count": 85,
         "image_ids": [
             "SGV_12N_31604",
@@ -36812,6 +37392,7 @@
         "location": "Locarno District"
     },
     {
+        "label": "Bordei",
         "count": 15,
         "image_ids": [
             "SGV_12N_31610",
@@ -36837,6 +37418,7 @@
         "location": "Bordei"
     },
     {
+        "label": "Rasa",
         "count": 29,
         "image_ids": [
             "SGV_12N_31625",
@@ -36876,6 +37458,7 @@
         "location": "Rasa"
     },
     {
+        "label": "Sion District",
         "count": 5,
         "image_ids": [
             "SGV_12N_31687",
@@ -36891,6 +37474,7 @@
         "location": "Sion District"
     },
     {
+        "label": "Chiasso",
         "count": 25,
         "image_ids": [
             "SGV_12N_31701",
@@ -36926,6 +37510,7 @@
         "location": "Chiasso"
     },
     {
+        "label": "Vacallo",
         "count": 7,
         "image_ids": [
             "SGV_12N_31705",
@@ -36943,6 +37528,7 @@
         "location": "Vacallo"
     },
     {
+        "label": "Balerna",
         "count": 2,
         "image_ids": [
             "SGV_12N_31712",
@@ -36955,6 +37541,7 @@
         "location": "Balerna"
     },
     {
+        "label": "Morbio Inferiore",
         "count": 28,
         "image_ids": [
             "SGV_12N_31714",
@@ -36993,6 +37580,7 @@
         "location": "Morbio Inferiore"
     },
     {
+        "label": "Castel San Pietro",
         "count": 2,
         "image_ids": [
             "SGV_12N_31739",
@@ -37005,6 +37593,7 @@
         "location": "Castel San Pietro"
     },
     {
+        "label": "Caneggio",
         "count": 6,
         "image_ids": [
             "SGV_12N_31740",
@@ -37021,6 +37610,7 @@
         "location": "Caneggio"
     },
     {
+        "label": "Muggio",
         "count": 23,
         "image_ids": [
             "SGV_12N_31746",
@@ -37054,6 +37644,7 @@
         "location": "Muggio"
     },
     {
+        "label": "Scudellate",
         "count": 15,
         "image_ids": [
             "SGV_12N_31769",
@@ -37079,6 +37670,7 @@
         "location": "Scudellate"
     },
     {
+        "label": "Bruzella",
         "count": 3,
         "image_ids": [
             "SGV_12N_31784",
@@ -37092,6 +37684,7 @@
         "location": "Bruzella"
     },
     {
+        "label": "Sennwald",
         "count": 10,
         "image_ids": [
             "SGV_12N_31791",
@@ -37112,6 +37705,7 @@
         "location": "Sennwald"
     },
     {
+        "label": "Turbach",
         "count": 101,
         "image_ids": [
             "SGV_12N_31801",
@@ -37223,6 +37817,7 @@
         "location": "Turbach"
     },
     {
+        "label": "Saanen",
         "count": 11,
         "image_ids": [
             "SGV_12N_31901",
@@ -37244,6 +37839,7 @@
         "location": "Saanen"
     },
     {
+        "label": "Saanenm\u00f6ser",
         "count": 1,
         "image_ids": [
             "SGV_12N_31921"
@@ -37255,6 +37851,7 @@
         "location": "Saanenm\u00f6ser"
     },
     {
+        "label": "Falera",
         "count": 71,
         "image_ids": [
             "SGV_12N_32054",
@@ -37336,6 +37933,7 @@
         "location": "Falera"
     },
     {
+        "label": "Versam",
         "count": 138,
         "image_ids": [
             "SGV_12N_32101",
@@ -37484,6 +38082,7 @@
         "location": "Versam"
     },
     {
+        "label": "Sagogn",
         "count": 16,
         "image_ids": [
             "SGV_12N_32234",
@@ -37510,6 +38109,7 @@
         "location": "Sagogn"
     },
     {
+        "label": "Laax",
         "count": 23,
         "image_ids": [
             "SGV_12N_32252",
@@ -37543,6 +38143,7 @@
         "location": "Laax"
     },
     {
+        "label": "Trin",
         "count": 1,
         "image_ids": [
             "SGV_12N_32259"
@@ -37554,6 +38155,7 @@
         "location": "Trin"
     },
     {
+        "label": "Castrisch",
         "count": 132,
         "image_ids": [
             "SGV_12N_32264",
@@ -37696,6 +38298,7 @@
         "location": "Castrisch"
     },
     {
+        "label": "Seewis",
         "count": 3,
         "image_ids": [
             "SGV_12N_32270",
@@ -37709,6 +38312,7 @@
         "location": "Seewis"
     },
     {
+        "label": "Les Diablerets",
         "count": 3,
         "image_ids": [
             "SGV_12N_32281",
@@ -37722,6 +38326,7 @@
         "location": "Les Diablerets"
     },
     {
+        "label": "Langwies",
         "count": 8,
         "image_ids": [
             "SGV_12N_32284",
@@ -37740,6 +38345,7 @@
         "location": "Langwies"
     },
     {
+        "label": "Peist",
         "count": 9,
         "image_ids": [
             "SGV_12N_32298",
@@ -37759,6 +38365,7 @@
         "location": "Peist"
     },
     {
+        "label": "Braunwald",
         "count": 53,
         "image_ids": [
             "SGV_12N_32301",
@@ -37822,6 +38429,7 @@
         "location": "Braunwald"
     },
     {
+        "label": "Ligornetto",
         "count": 21,
         "image_ids": [
             "SGV_12N_32401",
@@ -37853,6 +38461,7 @@
         "location": "Ligornetto"
     },
     {
+        "label": "Rancate",
         "count": 8,
         "image_ids": [
             "SGV_12N_32419",
@@ -37871,6 +38480,7 @@
         "location": "Rancate"
     },
     {
+        "label": "Litzir\u00fcti",
         "count": 2,
         "image_ids": [
             "SGV_12N_32447",
@@ -37883,6 +38493,7 @@
         "location": "Litzir\u00fcti"
     },
     {
+        "label": "Trubschachen",
         "count": 135,
         "image_ids": [
             "SGV_12N_20066",
@@ -38028,6 +38639,7 @@
         "location": "Trubschachen"
     },
     {
+        "label": "Sch\u00e4rligbad",
         "count": 50,
         "image_ids": [
             "SGV_12N_20069",
@@ -38088,6 +38700,7 @@
         "location": "Sch\u00e4rligbad"
     },
     {
+        "label": "Marbach",
         "count": 24,
         "image_ids": [
             "SGV_12N_20083",
@@ -38122,6 +38735,7 @@
         "location": "Marbach"
     },
     {
+        "label": "Entlebuch District",
         "count": 97,
         "image_ids": [
             "SGV_12N_20095",
@@ -38229,6 +38843,7 @@
         "location": "Entlebuch District"
     },
     {
+        "label": "Eischoll",
         "count": 22,
         "image_ids": [
             "SGV_12N_20150",
@@ -38261,6 +38876,7 @@
         "location": "Eischoll"
     },
     {
+        "label": "Turtmann",
         "count": 18,
         "image_ids": [
             "SGV_12N_20175",
@@ -38289,6 +38905,7 @@
         "location": "Turtmann"
     },
     {
+        "label": "Unterb\u00e4ch",
         "count": 3,
         "image_ids": [
             "SGV_12N_20197",
@@ -38302,6 +38919,7 @@
         "location": "Unterb\u00e4ch"
     },
     {
+        "label": "Morens",
         "count": 114,
         "image_ids": [
             "SGV_12N_20227",
@@ -38426,6 +39044,7 @@
         "location": "Morens"
     },
     {
+        "label": "Grosswangen",
         "count": 17,
         "image_ids": [
             "SGV_12N_20325",
@@ -38453,6 +39072,7 @@
         "location": "Grosswangen"
     },
     {
+        "label": "Brig District",
         "count": 35,
         "image_ids": [
             "SGV_12N_20331",
@@ -38498,6 +39118,7 @@
         "location": "Brig District"
     },
     {
+        "label": "Gampel",
         "count": 3,
         "image_ids": [
             "SGV_12N_20394",
@@ -38511,6 +39132,7 @@
         "location": "Gampel"
     },
     {
+        "label": "Stalden",
         "count": 32,
         "image_ids": [
             "SGV_12N_20397",
@@ -38553,6 +39175,7 @@
         "location": "Stalden"
     },
     {
+        "label": "Zeneggen",
         "count": 2,
         "image_ids": [
             "SGV_12N_20400",
@@ -38565,6 +39188,7 @@
         "location": "Zeneggen"
     },
     {
+        "label": "T\u00f6rbel",
         "count": 2,
         "image_ids": [
             "SGV_12N_20401",
@@ -38577,6 +39201,7 @@
         "location": "T\u00f6rbel"
     },
     {
+        "label": "Raron",
         "count": 19,
         "image_ids": [
             "SGV_12N_20406",
@@ -38606,6 +39231,7 @@
         "location": "Raron"
     },
     {
+        "label": "Goms District",
         "count": 61,
         "image_ids": [
             "SGV_12N_20421",
@@ -38677,6 +39303,7 @@
         "location": "Goms District"
     },
     {
+        "label": "Niederwald",
         "count": 3,
         "image_ids": [
             "SGV_12N_20447",
@@ -38690,6 +39317,7 @@
         "location": "Niederwald"
     },
     {
+        "label": "Ritzingen",
         "count": 4,
         "image_ids": [
             "SGV_12N_20466",
@@ -38704,6 +39332,7 @@
         "location": "Ritzingen"
     },
     {
+        "label": "Ulrichen",
         "count": 3,
         "image_ids": [
             "SGV_12N_20475",
@@ -38717,6 +39346,7 @@
         "location": "Ulrichen"
     },
     {
+        "label": "Blitzingen",
         "count": 1,
         "image_ids": [
             "SGV_12N_20489"
@@ -38728,6 +39358,7 @@
         "location": "Blitzingen"
     },
     {
+        "label": "Uri",
         "count": 40,
         "image_ids": [
             "SGV_12N_20497",
@@ -38778,6 +39409,7 @@
         "location": "Uri"
     },
     {
+        "label": "B\u00e4retswil",
         "count": 2,
         "image_ids": [
             "SGV_12N_20514",
@@ -38790,6 +39422,7 @@
         "location": "B\u00e4retswil"
     },
     {
+        "label": "Grindelwald",
         "count": 5,
         "image_ids": [
             "SGV_12N_20590",
@@ -38805,6 +39438,7 @@
         "location": "Grindelwald"
     },
     {
+        "label": "Mauensee",
         "count": 30,
         "image_ids": [
             "SGV_12N_20597",
@@ -38845,6 +39479,7 @@
         "location": "Mauensee"
     },
     {
+        "label": "Kottwil",
         "count": 7,
         "image_ids": [
             "SGV_12N_20598",
@@ -38862,6 +39497,7 @@
         "location": "Kottwil"
     },
     {
+        "label": "Geuensee",
         "count": 11,
         "image_ids": [
             "SGV_12N_20600",
@@ -38883,6 +39519,7 @@
         "location": "Geuensee"
     },
     {
+        "label": "Boncourt",
         "count": 27,
         "image_ids": [
             "SGV_12N_20642",
@@ -38920,6 +39557,7 @@
         "location": "Boncourt"
     },
     {
+        "label": "Baar",
         "count": 11,
         "image_ids": [
             "SGV_12N_20682",
@@ -38941,6 +39579,7 @@
         "location": "Baar"
     },
     {
+        "label": "Tuggen",
         "count": 4,
         "image_ids": [
             "SGV_12N_20700",
@@ -38955,6 +39594,7 @@
         "location": "Tuggen"
     },
     {
+        "label": "Poschiavo",
         "count": 96,
         "image_ids": [
             "SGV_12N_20820",
@@ -39061,6 +39701,7 @@
         "location": "Poschiavo"
     },
     {
+        "label": "Muri",
         "count": 1,
         "image_ids": [
             "SGV_12N_20843"
@@ -39072,6 +39713,7 @@
         "location": "Muri"
     },
     {
+        "label": "Hildisrieden",
         "count": 9,
         "image_ids": [
             "SGV_12N_20844",
@@ -39091,6 +39733,7 @@
         "location": "Hildisrieden"
     },
     {
+        "label": "Bernina District",
         "count": 84,
         "image_ids": [
             "SGV_12N_20845",
@@ -39185,6 +39828,7 @@
         "location": "Bernina District"
     },
     {
+        "label": "San Carlo",
         "count": 5,
         "image_ids": [
             "SGV_12N_20966",
@@ -39200,6 +39844,7 @@
         "location": "San Carlo"
     },
     {
+        "label": "Prada",
         "count": 1,
         "image_ids": [
             "SGV_12N_20985"
@@ -39211,6 +39856,7 @@
         "location": "Prada"
     },
     {
+        "label": "Zernez",
         "count": 7,
         "image_ids": [
             "SGV_12N_21100",
@@ -39228,6 +39874,7 @@
         "location": "Zernez"
     },
     {
+        "label": "Netstal",
         "count": 31,
         "image_ids": [
             "SGV_12N_21121",
@@ -39269,6 +39916,7 @@
         "location": "Netstal"
     },
     {
+        "label": "Albula District",
         "count": 5,
         "image_ids": [
             "SGV_12N_21183",
@@ -39284,6 +39932,7 @@
         "location": "Albula District"
     },
     {
+        "label": "Kanton Zug",
         "count": 66,
         "image_ids": [
             "SGV_12N_21200",
@@ -39360,6 +40009,7 @@
         "location": "Kanton Zug"
     },
     {
+        "label": "Weesen",
         "count": 37,
         "image_ids": [
             "SGV_12N_21201",
@@ -39407,6 +40057,7 @@
         "location": "Weesen"
     },
     {
+        "label": "Murg",
         "count": 2,
         "image_ids": [
             "SGV_12N_21203",
@@ -39419,6 +40070,7 @@
         "location": "Murg"
     },
     {
+        "label": "M\u00fchlehorn",
         "count": 3,
         "image_ids": [
             "SGV_12N_21204",
@@ -39432,6 +40084,7 @@
         "location": "M\u00fchlehorn"
     },
     {
+        "label": "Quinten",
         "count": 4,
         "image_ids": [
             "SGV_12N_21209",
@@ -39446,6 +40099,7 @@
         "location": "Quinten"
     },
     {
+        "label": "Walenstadt",
         "count": 3,
         "image_ids": [
             "SGV_12N_21215",
@@ -39459,6 +40113,7 @@
         "location": "Walenstadt"
     },
     {
+        "label": "Ziegelbr\u00fccke",
         "count": 1,
         "image_ids": [
             "SGV_12N_21217"
@@ -39470,6 +40125,7 @@
         "location": "Ziegelbr\u00fccke"
     },
     {
+        "label": "Amden",
         "count": 1,
         "image_ids": [
             "SGV_12N_21249"
@@ -39481,6 +40137,7 @@
         "location": "Amden"
     },
     {
+        "label": "Zurzach",
         "count": 2,
         "image_ids": [
             "SGV_12N_21253",
@@ -39493,6 +40150,7 @@
         "location": "Zurzach"
     },
     {
+        "label": "Rekingen",
         "count": 22,
         "image_ids": [
             "SGV_12N_21254",
@@ -39525,6 +40183,7 @@
         "location": "Rekingen"
     },
     {
+        "label": "Sch\u00e4nis",
         "count": 26,
         "image_ids": [
             "SGV_12N_21359",
@@ -39561,6 +40220,7 @@
         "location": "Sch\u00e4nis"
     },
     {
+        "label": "Bioggio",
         "count": 6,
         "image_ids": [
             "SGV_12N_21465",
@@ -39577,6 +40237,7 @@
         "location": "Bioggio"
     },
     {
+        "label": "Genestrerio",
         "count": 4,
         "image_ids": [
             "SGV_12N_21471",
@@ -39591,6 +40252,7 @@
         "location": "Genestrerio"
     },
     {
+        "label": "Riva San Vitale",
         "count": 10,
         "image_ids": [
             "SGV_12N_21478",
@@ -39611,6 +40273,7 @@
         "location": "Riva San Vitale"
     },
     {
+        "label": "Capolago",
         "count": 1,
         "image_ids": [
             "SGV_12N_21479"
@@ -39622,6 +40285,7 @@
         "location": "Capolago"
     },
     {
+        "label": "Agnuzzo",
         "count": 2,
         "image_ids": [
             "SGV_12N_21491",
@@ -39634,6 +40298,7 @@
         "location": "Agnuzzo"
     },
     {
+        "label": "Sorengo",
         "count": 3,
         "image_ids": [
             "SGV_12N_21496",
@@ -39647,6 +40312,7 @@
         "location": "Sorengo"
     },
     {
+        "label": "Mendrisio",
         "count": 58,
         "image_ids": [
             "SGV_12N_21510",
@@ -39715,6 +40381,7 @@
         "location": "Mendrisio"
     },
     {
+        "label": "Saubraz",
         "count": 46,
         "image_ids": [
             "SGV_12N_21537",
@@ -39771,6 +40438,7 @@
         "location": "Saubraz"
     },
     {
+        "label": "Nyon",
         "count": 2,
         "image_ids": [
             "SGV_12N_21581",
@@ -39783,6 +40451,7 @@
         "location": "Nyon"
     },
     {
+        "label": "See-Gaster",
         "count": 11,
         "image_ids": [
             "SGV_12N_21590",
@@ -39804,6 +40473,7 @@
         "location": "See-Gaster"
     },
     {
+        "label": "Kanton Appenzell Ausserrhoden",
         "count": 16,
         "image_ids": [
             "SGV_12N_21826",
@@ -39830,6 +40500,7 @@
         "location": "Kanton Appenzell Ausserrhoden"
     },
     {
+        "label": "Vevey",
         "count": 26,
         "image_ids": [
             "SGV_12N_21874",
@@ -39866,6 +40537,7 @@
         "location": "Vevey"
     },
     {
+        "label": "Oberhofen",
         "count": 24,
         "image_ids": [
             "SGV_12N_21899",
@@ -39900,6 +40572,7 @@
         "location": "Oberhofen"
     },
     {
+        "label": "Fankhaus",
         "count": 133,
         "image_ids": [
             "SGV_12N_22023",
@@ -40043,6 +40716,7 @@
         "location": "Fankhaus"
     },
     {
+        "label": "Bucheggberg",
         "count": 74,
         "image_ids": [
             "SGV_12N_22082",
@@ -40127,6 +40801,7 @@
         "location": "Bucheggberg"
     },
     {
+        "label": "Heimberg",
         "count": 100,
         "image_ids": [
             "SGV_12N_22088",
@@ -40237,6 +40912,7 @@
         "location": "Heimberg"
     },
     {
+        "label": "Ringoldswil",
         "count": 66,
         "image_ids": [
             "SGV_12N_22201",
@@ -40313,6 +40989,7 @@
         "location": "Ringoldswil"
     },
     {
+        "label": "Kilchberg",
         "count": 20,
         "image_ids": [
             "SGV_12N_22210",
@@ -40343,6 +41020,7 @@
         "location": "Kilchberg"
     },
     {
+        "label": "Urn\u00e4sch",
         "count": 11,
         "image_ids": [
             "SGV_12N_22285",
@@ -40364,6 +41042,7 @@
         "location": "Urn\u00e4sch"
     },
     {
+        "label": "Diemtigen",
         "count": 20,
         "image_ids": [
             "SGV_12N_22316",
@@ -40394,6 +41073,7 @@
         "location": "Diemtigen"
     },
     {
+        "label": "Emmental",
         "count": 27,
         "image_ids": [
             "SGV_12N_22355",
@@ -40431,6 +41111,7 @@
         "location": "Emmental"
     },
     {
+        "label": "Trub",
         "count": 163,
         "image_ids": [
             "SGV_12N_22363",
@@ -40604,6 +41285,7 @@
         "location": "Trub"
     },
     {
+        "label": "Menznau",
         "count": 28,
         "image_ids": [
             "SGV_12N_22451",
@@ -40642,6 +41324,7 @@
         "location": "Menznau"
     },
     {
+        "label": "Meggen",
         "count": 26,
         "image_ids": [
             "SGV_12N_22457",
@@ -40678,6 +41361,7 @@
         "location": "Meggen"
     },
     {
+        "label": "Auvernier",
         "count": 28,
         "image_ids": [
             "SGV_12N_17575",
@@ -40716,6 +41400,7 @@
         "location": "Auvernier"
     },
     {
+        "label": "Colombier",
         "count": 11,
         "image_ids": [
             "SGV_12N_17604",
@@ -40737,6 +41422,7 @@
         "location": "Colombier"
     },
     {
+        "label": "Areuse",
         "count": 13,
         "image_ids": [
             "SGV_12N_17615",
@@ -40760,6 +41446,7 @@
         "location": "Areuse"
     },
     {
+        "label": "Franches-Montagnes District",
         "count": 83,
         "image_ids": [
             "SGV_12N_17711",
@@ -40853,6 +41540,7 @@
         "location": "Franches-Montagnes District"
     },
     {
+        "label": "Goumois",
         "count": 1,
         "image_ids": [
             "SGV_12N_17719"
@@ -40864,6 +41552,7 @@
         "location": "Goumois"
     },
     {
+        "label": "Le B\u00e9mont",
         "count": 22,
         "image_ids": [
             "SGV_12N_17722",
@@ -40896,6 +41585,7 @@
         "location": "Le B\u00e9mont"
     },
     {
+        "label": "Le Noirmont",
         "count": 16,
         "image_ids": [
             "SGV_12N_17742",
@@ -40922,6 +41612,7 @@
         "location": "Le Noirmont"
     },
     {
+        "label": "Dorf",
         "count": 1,
         "image_ids": [
             "SGV_12N_17761"
@@ -40933,6 +41624,7 @@
         "location": "Dorf"
     },
     {
+        "label": "Volken",
         "count": 4,
         "image_ids": [
             "SGV_12N_17762",
@@ -40947,6 +41639,7 @@
         "location": "Volken"
     },
     {
+        "label": "Buchberg",
         "count": 2,
         "image_ids": [
             "SGV_12N_17782",
@@ -40959,6 +41652,7 @@
         "location": "Buchberg"
     },
     {
+        "label": "Rheinfelden",
         "count": 32,
         "image_ids": [
             "SGV_12N_17790",
@@ -41001,6 +41695,7 @@
         "location": "Rheinfelden"
     },
     {
+        "label": "Oberglatt",
         "count": 3,
         "image_ids": [
             "SGV_12N_17794",
@@ -41014,6 +41709,7 @@
         "location": "Oberglatt"
     },
     {
+        "label": "Somvix",
         "count": 4,
         "image_ids": [
             "SGV_12N_17801",
@@ -41028,6 +41724,7 @@
         "location": "Somvix"
     },
     {
+        "label": "Pontresina",
         "count": 5,
         "image_ids": [
             "SGV_12N_17831",
@@ -41043,6 +41740,7 @@
         "location": "Pontresina"
     },
     {
+        "label": "Vitznau",
         "count": 18,
         "image_ids": [
             "SGV_12N_17964",
@@ -41071,6 +41769,7 @@
         "location": "Vitznau"
     },
     {
+        "label": "Gstaad",
         "count": 2,
         "image_ids": [
             "SGV_12N_17970",
@@ -41083,6 +41782,7 @@
         "location": "Gstaad"
     },
     {
+        "label": "Saint-Blaise",
         "count": 28,
         "image_ids": [
             "SGV_12N_18001",
@@ -41121,6 +41821,7 @@
         "location": "Saint-Blaise"
     },
     {
+        "label": "Untersch\u00e4chen",
         "count": 2,
         "image_ids": [
             "SGV_12N_18035",
@@ -41133,6 +41834,7 @@
         "location": "Untersch\u00e4chen"
     },
     {
+        "label": "Urnerboden",
         "count": 20,
         "image_ids": [
             "SGV_12N_18050",
@@ -41163,6 +41865,7 @@
         "location": "Urnerboden"
     },
     {
+        "label": "Mosogno",
         "count": 51,
         "image_ids": [
             "SGV_12N_18119",
@@ -41224,6 +41927,7 @@
         "location": "Mosogno"
     },
     {
+        "label": "Campo",
         "count": 51,
         "image_ids": [
             "SGV_12N_18307",
@@ -41285,6 +41989,7 @@
         "location": "Campo"
     },
     {
+        "label": "Linescio",
         "count": 2,
         "image_ids": [
             "SGV_12N_18308",
@@ -41297,6 +42002,7 @@
         "location": "Linescio"
     },
     {
+        "label": "Glattbrugg",
         "count": 3,
         "image_ids": [
             "SGV_12N_18333",
@@ -41310,6 +42016,7 @@
         "location": "Glattbrugg"
     },
     {
+        "label": "Cortaillod",
         "count": 3,
         "image_ids": [
             "SGV_12N_18413",
@@ -41323,6 +42030,7 @@
         "location": "Cortaillod"
     },
     {
+        "label": "Kaltbach",
         "count": 7,
         "image_ids": [
             "SGV_12N_18414",
@@ -41340,6 +42048,7 @@
         "location": "Kaltbach"
     },
     {
+        "label": "Dagmersellen",
         "count": 39,
         "image_ids": [
             "SGV_12N_18433",
@@ -41389,6 +42098,7 @@
         "location": "Dagmersellen"
     },
     {
+        "label": "Buchs",
         "count": 3,
         "image_ids": [
             "SGV_12N_18517",
@@ -41402,6 +42112,7 @@
         "location": "Buchs"
     },
     {
+        "label": "Thalheim",
         "count": 4,
         "image_ids": [
             "SGV_12N_18521",
@@ -41416,6 +42127,7 @@
         "location": "Thalheim"
     },
     {
+        "label": "Niederrohrdorf",
         "count": 6,
         "image_ids": [
             "SGV_12N_18536",
@@ -41432,6 +42144,7 @@
         "location": "Niederrohrdorf"
     },
     {
+        "label": "Klosters Serneus",
         "count": 7,
         "image_ids": [
             "SGV_12N_18542",
@@ -41449,6 +42162,7 @@
         "location": "Klosters Serneus"
     },
     {
+        "label": "Montlingen",
         "count": 6,
         "image_ids": [
             "SGV_12N_18565",
@@ -41465,6 +42179,7 @@
         "location": "Montlingen"
     },
     {
+        "label": "Neuhausen",
         "count": 9,
         "image_ids": [
             "SGV_12N_18571",
@@ -41484,6 +42199,7 @@
         "location": "Neuhausen"
     },
     {
+        "label": "Bristen",
         "count": 2,
         "image_ids": [
             "SGV_12N_18907",
@@ -41496,6 +42212,7 @@
         "location": "Bristen"
     },
     {
+        "label": "Beckenried",
         "count": 2,
         "image_ids": [
             "SGV_12N_18915",
@@ -41508,6 +42225,7 @@
         "location": "Beckenried"
     },
     {
+        "label": "Arth",
         "count": 5,
         "image_ids": [
             "SGV_12N_18921",
@@ -41523,6 +42241,7 @@
         "location": "Arth"
     },
     {
+        "label": "Amsteg",
         "count": 5,
         "image_ids": [
             "SGV_12N_18923",
@@ -41538,6 +42257,7 @@
         "location": "Amsteg"
     },
     {
+        "label": "Steinen",
         "count": 6,
         "image_ids": [
             "SGV_12N_18925",
@@ -41554,6 +42274,7 @@
         "location": "Steinen"
     },
     {
+        "label": "Stansstad",
         "count": 1,
         "image_ids": [
             "SGV_12N_19088"
@@ -41565,6 +42286,7 @@
         "location": "Stansstad"
     },
     {
+        "label": "Someo",
         "count": 28,
         "image_ids": [
             "SGV_12N_19501",
@@ -41603,6 +42325,7 @@
         "location": "Someo"
     },
     {
+        "label": "Cevio",
         "count": 12,
         "image_ids": [
             "SGV_12N_19618",
@@ -41625,6 +42348,7 @@
         "location": "Cevio"
     },
     {
+        "label": "Cavigliano",
         "count": 2,
         "image_ids": [
             "SGV_12N_19628",
@@ -41637,6 +42361,7 @@
         "location": "Cavigliano"
     },
     {
+        "label": "Bosco Gurin",
         "count": 13,
         "image_ids": [
             "SGV_12N_19639",
@@ -41660,6 +42385,7 @@
         "location": "Bosco Gurin"
     },
     {
+        "label": "Cerentino",
         "count": 4,
         "image_ids": [
             "SGV_12N_19646",
@@ -41674,6 +42400,7 @@
         "location": "Cerentino"
     },
     {
+        "label": "Ufhusen",
         "count": 11,
         "image_ids": [
             "SGV_12N_19739",
@@ -41695,6 +42422,7 @@
         "location": "Ufhusen"
     },
     {
+        "label": "Lottigna",
         "count": 5,
         "image_ids": [
             "SGV_12N_37747",
@@ -41710,6 +42438,7 @@
         "location": "Lottigna"
     },
     {
+        "label": "Gelfingen",
         "count": 25,
         "image_ids": [
             "SGV_12N_37752",
@@ -41745,6 +42474,7 @@
         "location": "Gelfingen"
     },
     {
+        "label": "Lieli",
         "count": 9,
         "image_ids": [
             "SGV_12N_37771",
@@ -41764,6 +42494,7 @@
         "location": "Lieli"
     },
     {
+        "label": "Bertiswil",
         "count": 15,
         "image_ids": [
             "SGV_12N_37783",
@@ -41789,6 +42520,7 @@
         "location": "Bertiswil"
     },
     {
+        "label": "Nuolen",
         "count": 1,
         "image_ids": [
             "SGV_12N_37796"
@@ -41800,6 +42532,7 @@
         "location": "Nuolen"
     },
     {
+        "label": "Eschenz",
         "count": 4,
         "image_ids": [
             "SGV_12N_37798",
@@ -41814,6 +42547,7 @@
         "location": "Eschenz"
     },
     {
+        "label": "R\u00f6merswil",
         "count": 8,
         "image_ids": [
             "SGV_12N_37871",
@@ -41832,6 +42566,7 @@
         "location": "R\u00f6merswil"
     },
     {
+        "label": "Neudorf",
         "count": 8,
         "image_ids": [
             "SGV_12N_37873",
@@ -41850,6 +42585,7 @@
         "location": "Neudorf"
     },
     {
+        "label": "Pompaples",
         "count": 1,
         "image_ids": [
             "SGV_12N_37931"
@@ -41861,6 +42597,7 @@
         "location": "Pompaples"
     },
     {
+        "label": "Hochdorf District",
         "count": 10,
         "image_ids": [
             "SGV_12N_37965",
@@ -41881,6 +42618,7 @@
         "location": "Hochdorf District"
     },
     {
+        "label": "Wahligen",
         "count": 2,
         "image_ids": [
             "SGV_12N_37994",
@@ -41893,6 +42631,7 @@
         "location": "Wahligen"
     },
     {
+        "label": "Realp",
         "count": 10,
         "image_ids": [
             "SGV_12N_37995",
@@ -41913,6 +42652,7 @@
         "location": "Realp"
     },
     {
+        "label": "Bassersdorf",
         "count": 17,
         "image_ids": [
             "SGV_12N_37998",
@@ -41940,6 +42680,7 @@
         "location": "Bassersdorf"
     },
     {
+        "label": "Stein am Rhein",
         "count": 10,
         "image_ids": [
             "SGV_12N_38001",
@@ -41960,6 +42701,7 @@
         "location": "Stein am Rhein"
     },
     {
+        "label": "Steckborn",
         "count": 19,
         "image_ids": [
             "SGV_12N_38011",
@@ -41989,6 +42731,7 @@
         "location": "Steckborn"
     },
     {
+        "label": "Berlingen",
         "count": 3,
         "image_ids": [
             "SGV_12N_38030",
@@ -42002,6 +42745,7 @@
         "location": "Berlingen"
     },
     {
+        "label": "Ermatingen",
         "count": 33,
         "image_ids": [
             "SGV_12N_38033",
@@ -42045,6 +42789,7 @@
         "location": "Ermatingen"
     },
     {
+        "label": "G\u00fcndelhart",
         "count": 11,
         "image_ids": [
             "SGV_12N_38041",
@@ -42066,6 +42811,7 @@
         "location": "G\u00fcndelhart"
     },
     {
+        "label": "Homburg",
         "count": 2,
         "image_ids": [
             "SGV_12N_38052",
@@ -42078,6 +42824,7 @@
         "location": "Homburg"
     },
     {
+        "label": "Salenstein",
         "count": 8,
         "image_ids": [
             "SGV_12N_38057",
@@ -42096,6 +42843,7 @@
         "location": "Salenstein"
     },
     {
+        "label": "Bellwald",
         "count": 3,
         "image_ids": [
             "SGV_12N_38100",
@@ -42109,6 +42857,7 @@
         "location": "Bellwald"
     },
     {
+        "label": "Riederalp",
         "count": 54,
         "image_ids": [
             "SGV_12N_38101",
@@ -42173,6 +42922,7 @@
         "location": "Riederalp"
     },
     {
+        "label": "D\u00e4rstetten",
         "count": 1,
         "image_ids": [
             "SGV_12N_38238"
@@ -42184,6 +42934,7 @@
         "location": "D\u00e4rstetten"
     },
     {
+        "label": "Niedersimmental",
         "count": 50,
         "image_ids": [
             "SGV_12N_38245",
@@ -42244,6 +42995,7 @@
         "location": "Niedersimmental"
     },
     {
+        "label": "Rigi Kulm",
         "count": 72,
         "image_ids": [
             "SGV_12N_38301",
@@ -42326,6 +43078,7 @@
         "location": "Rigi Kulm"
     },
     {
+        "label": "Buchrain",
         "count": 3,
         "image_ids": [
             "SGV_12N_38374",
@@ -42339,6 +43092,7 @@
         "location": "Buchrain"
     },
     {
+        "label": "Altishofen",
         "count": 10,
         "image_ids": [
             "SGV_12N_38376",
@@ -42359,6 +43113,7 @@
         "location": "Altishofen"
     },
     {
+        "label": "Cossonay",
         "count": 1,
         "image_ids": [
             "SGV_12N_38400"
@@ -42370,6 +43125,7 @@
         "location": "Cossonay"
     },
     {
+        "label": "Rikon / Rikon (Dorfkern)",
         "count": 2,
         "image_ids": [
             "SGV_12N_38460",
@@ -42382,6 +43138,7 @@
         "location": "Rikon / Rikon (Dorfkern)"
     },
     {
+        "label": "R\u00e4mism\u00fchle",
         "count": 3,
         "image_ids": [
             "SGV_12N_38462",
@@ -42395,6 +43152,7 @@
         "location": "R\u00e4mism\u00fchle"
     },
     {
+        "label": "Bauma",
         "count": 18,
         "image_ids": [
             "SGV_12N_38474",
@@ -42423,6 +43181,7 @@
         "location": "Bauma"
     },
     {
+        "label": "Fischenthal",
         "count": 1,
         "image_ids": [
             "SGV_12N_38486"
@@ -42434,6 +43193,7 @@
         "location": "Fischenthal"
     },
     {
+        "label": "Arolla",
         "count": 89,
         "image_ids": [
             "SGV_12N_38501",
@@ -42533,6 +43293,7 @@
         "location": "Arolla"
     },
     {
+        "label": "Evol\u00e8ne",
         "count": 16,
         "image_ids": [
             "SGV_12N_38519",
@@ -42559,6 +43320,7 @@
         "location": "Evol\u00e8ne"
     },
     {
+        "label": "Weggis",
         "count": 28,
         "image_ids": [
             "SGV_12N_38591",
@@ -42597,6 +43359,7 @@
         "location": "Weggis"
     },
     {
+        "label": "Wangen an der Aare",
         "count": 59,
         "image_ids": [
             "SGV_12N_38655",
@@ -42666,6 +43429,7 @@
         "location": "Wangen an der Aare"
     },
     {
+        "label": "R\u00fcti",
         "count": 13,
         "image_ids": [
             "SGV_12N_38668",
@@ -42689,6 +43453,7 @@
         "location": "R\u00fcti"
     },
     {
+        "label": "Wildegg",
         "count": 76,
         "image_ids": [
             "SGV_12N_38698",
@@ -42775,6 +43540,7 @@
         "location": "Wildegg"
     },
     {
+        "label": "Rothenthurm",
         "count": 50,
         "image_ids": [
             "SGV_12N_38744",
@@ -42835,6 +43601,7 @@
         "location": "Rothenthurm"
     },
     {
+        "label": "[Untitled]",
         "count": 2069,
         "image_ids": [
             "SGV_12N_38818",
@@ -44914,6 +45681,7 @@
         "location": "[Untitled]"
     },
     {
+        "label": "Wolfenschiessen",
         "count": 20,
         "image_ids": [
             "SGV_12N_39171",
@@ -44944,6 +45712,7 @@
         "location": "Wolfenschiessen"
     },
     {
+        "label": "Silenen",
         "count": 13,
         "image_ids": [
             "SGV_12N_39179",
@@ -44967,6 +45736,7 @@
         "location": "Silenen"
     },
     {
+        "label": "Erstfeld",
         "count": 8,
         "image_ids": [
             "SGV_12N_39201",
@@ -44985,6 +45755,7 @@
         "location": "Erstfeld"
     },
     {
+        "label": "Ibach",
         "count": 12,
         "image_ids": [
             "SGV_12N_39217",
@@ -45007,6 +45778,7 @@
         "location": "Ibach"
     },
     {
+        "label": "Doppleschwand",
         "count": 23,
         "image_ids": [
             "SGV_12N_39288",
@@ -45040,6 +45812,7 @@
         "location": "Doppleschwand"
     },
     {
+        "label": "Sant'Abbondio",
         "count": 25,
         "image_ids": [
             "SGV_12N_39401",
@@ -45075,6 +45848,7 @@
         "location": "Sant'Abbondio"
     },
     {
+        "label": "Gerra",
         "count": 13,
         "image_ids": [
             "SGV_12N_39486",
@@ -45098,6 +45872,7 @@
         "location": "Gerra"
     },
     {
+        "label": "Kaiserstuhl",
         "count": 22,
         "image_ids": [
             "SGV_12N_39571",
@@ -45130,6 +45905,7 @@
         "location": "Kaiserstuhl"
     },
     {
+        "label": "Ballwil",
         "count": 5,
         "image_ids": [
             "SGV_12N_39759",
@@ -45145,6 +45921,7 @@
         "location": "Ballwil"
     },
     {
+        "label": "Verbier",
         "count": 107,
         "image_ids": [
             "SGV_12N_39895",
@@ -45262,6 +46039,7 @@
         "location": "Verbier"
     },
     {
+        "label": "Adligenswil",
         "count": 6,
         "image_ids": [
             "SGV_12N_25073",
@@ -45278,6 +46056,7 @@
         "location": "Adligenswil"
     },
     {
+        "label": "Steg",
         "count": 49,
         "image_ids": [
             "SGV_12N_25076",
@@ -45337,6 +46116,7 @@
         "location": "Steg"
     },
     {
+        "label": "Les Breuleux",
         "count": 8,
         "image_ids": [
             "SGV_12N_25131",
@@ -45355,6 +46135,7 @@
         "location": "Les Breuleux"
     },
     {
+        "label": "Berner Jura",
         "count": 34,
         "image_ids": [
             "SGV_12N_25139",
@@ -45399,6 +46180,7 @@
         "location": "Berner Jura"
     },
     {
+        "label": "Tramelan",
         "count": 11,
         "image_ids": [
             "SGV_12N_25173",
@@ -45420,6 +46202,7 @@
         "location": "Tramelan"
     },
     {
+        "label": "Les Haud\u00e8res",
         "count": 12,
         "image_ids": [
             "SGV_12N_25196",
@@ -45442,6 +46225,7 @@
         "location": "Les Haud\u00e8res"
     },
     {
+        "label": "Lannaz",
         "count": 13,
         "image_ids": [
             "SGV_12N_25198",
@@ -45465,6 +46249,7 @@
         "location": "Lannaz"
     },
     {
+        "label": "La Tour",
         "count": 6,
         "image_ids": [
             "SGV_12N_25302",
@@ -45481,6 +46266,7 @@
         "location": "La Tour"
     },
     {
+        "label": "La Sage",
         "count": 18,
         "image_ids": [
             "SGV_12N_25327",
@@ -45509,6 +46295,7 @@
         "location": "La Sage"
     },
     {
+        "label": "Alvaschein",
         "count": 20,
         "image_ids": [
             "SGV_12N_25422",
@@ -45539,6 +46326,7 @@
         "location": "Alvaschein"
     },
     {
+        "label": "Stierva",
         "count": 13,
         "image_ids": [
             "SGV_12N_25441",
@@ -45562,6 +46350,7 @@
         "location": "Stierva"
     },
     {
+        "label": "Mon",
         "count": 29,
         "image_ids": [
             "SGV_12N_25450",
@@ -45601,6 +46390,7 @@
         "location": "Mon"
     },
     {
+        "label": "Tiefencastel",
         "count": 23,
         "image_ids": [
             "SGV_12N_25477",
@@ -45634,6 +46424,7 @@
         "location": "Tiefencastel"
     },
     {
+        "label": "Salux",
         "count": 10,
         "image_ids": [
             "SGV_12N_25491",
@@ -45654,6 +46445,7 @@
         "location": "Salux"
     },
     {
+        "label": "Rona",
         "count": 1,
         "image_ids": [
             "SGV_12N_25498"
@@ -45665,6 +46457,7 @@
         "location": "Rona"
     },
     {
+        "label": "Tinzen",
         "count": 6,
         "image_ids": [
             "SGV_12N_25501",
@@ -45681,6 +46474,7 @@
         "location": "Tinzen"
     },
     {
+        "label": "Savognin",
         "count": 10,
         "image_ids": [
             "SGV_12N_25504",
@@ -45701,6 +46495,7 @@
         "location": "Savognin"
     },
     {
+        "label": "Cunter",
         "count": 17,
         "image_ids": [
             "SGV_12N_25513",
@@ -45728,6 +46523,7 @@
         "location": "Cunter"
     },
     {
+        "label": "Reams",
         "count": 1,
         "image_ids": [
             "SGV_12N_25517"
@@ -45739,6 +46535,7 @@
         "location": "Reams"
     },
     {
+        "label": "Boltigen",
         "count": 4,
         "image_ids": [
             "SGV_12N_25544",
@@ -45753,6 +46550,7 @@
         "location": "Boltigen"
     },
     {
+        "label": "Altanca",
         "count": 12,
         "image_ids": [
             "SGV_12N_25570",
@@ -45775,6 +46573,7 @@
         "location": "Altanca"
     },
     {
+        "label": "Zollikerberg",
         "count": 46,
         "image_ids": [
             "SGV_12N_25593",
@@ -45831,6 +46630,7 @@
         "location": "Zollikerberg"
     },
     {
+        "label": "Solduno",
         "count": 11,
         "image_ids": [
             "SGV_12N_25601",
@@ -45852,6 +46652,7 @@
         "location": "Solduno"
     },
     {
+        "label": "Tegna",
         "count": 35,
         "image_ids": [
             "SGV_12N_25607",
@@ -45897,6 +46698,7 @@
         "location": "Tegna"
     },
     {
+        "label": "Ponte Brolla",
         "count": 4,
         "image_ids": [
             "SGV_12N_25610",
@@ -45911,6 +46713,7 @@
         "location": "Ponte Brolla"
     },
     {
+        "label": "Verscio",
         "count": 16,
         "image_ids": [
             "SGV_12N_25618",
@@ -45937,6 +46740,7 @@
         "location": "Verscio"
     },
     {
+        "label": "Intragna",
         "count": 31,
         "image_ids": [
             "SGV_12N_25634",
@@ -45978,6 +46782,7 @@
         "location": "Intragna"
     },
     {
+        "label": "Golino",
         "count": 21,
         "image_ids": [
             "SGV_12N_25664",
@@ -46009,6 +46814,7 @@
         "location": "Golino"
     },
     {
+        "label": "Pedemonte",
         "count": 3,
         "image_ids": [
             "SGV_12N_25695",
@@ -46022,6 +46828,7 @@
         "location": "Pedemonte"
     },
     {
+        "label": "Quinto",
         "count": 4,
         "image_ids": [
             "SGV_12N_25706",
@@ -46036,6 +46843,7 @@
         "location": "Quinto"
     },
     {
+        "label": "Deggio",
         "count": 13,
         "image_ids": [
             "SGV_12N_25708",
@@ -46059,6 +46867,7 @@
         "location": "Deggio"
     },
     {
+        "label": "Rodi",
         "count": 1,
         "image_ids": [
             "SGV_12N_25722"
@@ -46070,6 +46879,7 @@
         "location": "Rodi"
     },
     {
+        "label": "Lurengo",
         "count": 3,
         "image_ids": [
             "SGV_12N_25723",
@@ -46083,6 +46893,7 @@
         "location": "Lurengo"
     },
     {
+        "label": "Catto",
         "count": 23,
         "image_ids": [
             "SGV_12N_25728",
@@ -46116,6 +46927,7 @@
         "location": "Catto"
     },
     {
+        "label": "Prato",
         "count": 7,
         "image_ids": [
             "SGV_12N_25747",
@@ -46133,6 +46945,7 @@
         "location": "Prato"
     },
     {
+        "label": "Faido",
         "count": 15,
         "image_ids": [
             "SGV_12N_25755",
@@ -46158,6 +46971,7 @@
         "location": "Faido"
     },
     {
+        "label": "Osco",
         "count": 7,
         "image_ids": [
             "SGV_12N_25757",
@@ -46175,6 +46989,7 @@
         "location": "Osco"
     },
     {
+        "label": "Molare",
         "count": 9,
         "image_ids": [
             "SGV_12N_25762",
@@ -46194,6 +47009,7 @@
         "location": "Molare"
     },
     {
+        "label": "Rossura",
         "count": 44,
         "image_ids": [
             "SGV_12N_25765",
@@ -46248,6 +47064,7 @@
         "location": "Rossura"
     },
     {
+        "label": "Tengia",
         "count": 2,
         "image_ids": [
             "SGV_12N_25783",
@@ -46260,6 +47077,7 @@
         "location": "Tengia"
     },
     {
+        "label": "Farvagny-le-Grand",
         "count": 2,
         "image_ids": [
             "SGV_12N_25835",
@@ -46272,6 +47090,7 @@
         "location": "Farvagny-le-Grand"
     },
     {
+        "label": "Ramsen",
         "count": 11,
         "image_ids": [
             "SGV_12N_25850",
@@ -46293,6 +47112,7 @@
         "location": "Ramsen"
     },
     {
+        "label": "Wangs",
         "count": 6,
         "image_ids": [
             "SGV_12N_25912",
@@ -46309,6 +47129,7 @@
         "location": "Wangs"
     },
     {
+        "label": "Rossens",
         "count": 80,
         "image_ids": [
             "SGV_12N_26001",
@@ -46399,6 +47220,7 @@
         "location": "Rossens"
     },
     {
+        "label": "Wergenstein",
         "count": 7,
         "image_ids": [
             "SGV_12N_26085",
@@ -46416,6 +47238,7 @@
         "location": "Wergenstein"
     },
     {
+        "label": "Zillis",
         "count": 22,
         "image_ids": [
             "SGV_12N_26146",
@@ -46448,6 +47271,7 @@
         "location": "Zillis"
     },
     {
+        "label": "Clugin",
         "count": 1,
         "image_ids": [
             "SGV_12N_26159"
@@ -46459,6 +47283,7 @@
         "location": "Clugin"
     },
     {
+        "label": "Farden",
         "count": 3,
         "image_ids": [
             "SGV_12N_26195",
@@ -46472,6 +47297,7 @@
         "location": "Farden"
     },
     {
+        "label": "Sense District",
         "count": 18,
         "image_ids": [
             "SGV_12N_26258",
@@ -46500,6 +47326,7 @@
         "location": "Sense District"
     },
     {
+        "label": "Plaffeien",
         "count": 1,
         "image_ids": [
             "SGV_12N_26262"
@@ -46511,6 +47338,7 @@
         "location": "Plaffeien"
     },
     {
+        "label": "Cerniat",
         "count": 9,
         "image_ids": [
             "SGV_12N_26277",
@@ -46530,6 +47358,7 @@
         "location": "Cerniat"
     },
     {
+        "label": "Charmey",
         "count": 10,
         "image_ids": [
             "SGV_12N_26286",
@@ -46550,6 +47379,7 @@
         "location": "Charmey"
     },
     {
+        "label": "Sargans",
         "count": 20,
         "image_ids": [
             "SGV_12N_26304",
@@ -46580,6 +47410,7 @@
         "location": "Sargans"
     },
     {
+        "label": "Jaun",
         "count": 7,
         "image_ids": [
             "SGV_12N_26310",
@@ -46597,6 +47428,7 @@
         "location": "Jaun"
     },
     {
+        "label": "Messen",
         "count": 36,
         "image_ids": [
             "SGV_12N_26380",
@@ -46643,6 +47475,7 @@
         "location": "Messen"
     },
     {
+        "label": "Pollegio",
         "count": 4,
         "image_ids": [
             "SGV_12N_26384",
@@ -46657,6 +47490,7 @@
         "location": "Pollegio"
     },
     {
+        "label": "Scuol",
         "count": 18,
         "image_ids": [
             "SGV_12N_26389",
@@ -46685,6 +47519,7 @@
         "location": "Scuol"
     },
     {
+        "label": "Ramosch",
         "count": 1,
         "image_ids": [
             "SGV_12N_26491"
@@ -46696,6 +47531,7 @@
         "location": "Ramosch"
     },
     {
+        "label": "Balm bei Messen",
         "count": 1,
         "image_ids": [
             "SGV_12N_26497"
@@ -46707,6 +47543,7 @@
         "location": "Balm bei Messen"
     },
     {
+        "label": "Biezwil",
         "count": 1,
         "image_ids": [
             "SGV_12N_26498"
@@ -46718,6 +47555,7 @@
         "location": "Biezwil"
     },
     {
+        "label": "Madra",
         "count": 3,
         "image_ids": [
             "SGV_12N_26601",
@@ -46731,6 +47569,7 @@
         "location": "Madra"
     },
     {
+        "label": "Malvaglia",
         "count": 46,
         "image_ids": [
             "SGV_12N_26604",
@@ -46787,6 +47626,7 @@
         "location": "Malvaglia"
     },
     {
+        "label": "Dandrio",
         "count": 4,
         "image_ids": [
             "SGV_12N_26611",
@@ -46801,6 +47641,7 @@
         "location": "Dandrio"
     },
     {
+        "label": "M\u00fchlethurnen",
         "count": 18,
         "image_ids": [
             "SGV_12N_26767",
@@ -46829,6 +47670,7 @@
         "location": "M\u00fchlethurnen"
     },
     {
+        "label": "Wiggen",
         "count": 1,
         "image_ids": [
             "SGV_12N_26793"
@@ -46840,6 +47682,7 @@
         "location": "Wiggen"
     },
     {
+        "label": "Kr\u00f6schenbrunnen",
         "count": 18,
         "image_ids": [
             "SGV_12N_26794",
@@ -46868,6 +47711,7 @@
         "location": "Kr\u00f6schenbrunnen"
     },
     {
+        "label": "Celerina",
         "count": 3,
         "image_ids": [
             "SGV_12N_26895",
@@ -46881,6 +47725,7 @@
         "location": "Celerina"
     },
     {
+        "label": "S-charl",
         "count": 11,
         "image_ids": [
             "SGV_12N_26990",
@@ -46902,6 +47747,7 @@
         "location": "S-charl"
     },
     {
+        "label": "Il Fuorn",
         "count": 3,
         "image_ids": [
             "SGV_12N_27055",
@@ -46915,6 +47761,7 @@
         "location": "Il Fuorn"
     },
     {
+        "label": "Merligen",
         "count": 50,
         "image_ids": [
             "SGV_12N_27116",
@@ -46975,6 +47822,7 @@
         "location": "Merligen"
     },
     {
+        "label": "Sigriswil",
         "count": 73,
         "image_ids": [
             "SGV_12N_27148",
@@ -47058,6 +47906,7 @@
         "location": "Sigriswil"
     },
     {
+        "label": "Province of Sondrio",
         "count": 13,
         "image_ids": [
             "SGV_12N_27425",
@@ -47081,6 +47930,7 @@
         "location": "Province of Sondrio"
     },
     {
+        "label": "Saint Moritz",
         "count": 59,
         "image_ids": [
             "SGV_12N_27438",
@@ -47150,6 +48000,7 @@
         "location": "Saint Moritz"
     },
     {
+        "label": "Schwarzenberg",
         "count": 46,
         "image_ids": [
             "SGV_12N_42601",
@@ -47206,6 +48057,7 @@
         "location": "Schwarzenberg"
     },
     {
+        "label": "Maschwanden",
         "count": 18,
         "image_ids": [
             "SGV_12N_42608",
@@ -47234,6 +48086,7 @@
         "location": "Maschwanden"
     },
     {
+        "label": "Chironico",
         "count": 15,
         "image_ids": [
             "SGV_12N_42929",
@@ -47259,6 +48112,7 @@
         "location": "Chironico"
     },
     {
+        "label": "Padua",
         "count": 18,
         "image_ids": [
             "SGV_12N_43042",
@@ -47287,6 +48141,7 @@
         "location": "Padua"
     },
     {
+        "label": "Saas-Fee",
         "count": 55,
         "image_ids": [
             "SGV_12N_43268",
@@ -47352,6 +48207,7 @@
         "location": "Saas-Fee"
     },
     {
+        "label": "Gr\u00e4chen",
         "count": 9,
         "image_ids": [
             "SGV_12N_43324",
@@ -47371,6 +48227,7 @@
         "location": "Gr\u00e4chen"
     },
     {
+        "label": "Wilchingen",
         "count": 22,
         "image_ids": [
             "SGV_12N_43357",
@@ -47403,6 +48260,7 @@
         "location": "Wilchingen"
     },
     {
+        "label": "Trasadingen",
         "count": 7,
         "image_ids": [
             "SGV_12N_43379",
@@ -47420,6 +48278,7 @@
         "location": "Trasadingen"
     },
     {
+        "label": "Zuoz",
         "count": 14,
         "image_ids": [
             "SGV_12N_43473",
@@ -47444,6 +48303,7 @@
         "location": "Zuoz"
     },
     {
+        "label": "Ebikon",
         "count": 16,
         "image_ids": [
             "SGV_12N_43672",
@@ -47470,6 +48330,7 @@
         "location": "Ebikon"
     },
     {
+        "label": "Tremona",
         "count": 2,
         "image_ids": [
             "SGV_12N_43817",
@@ -47482,6 +48343,7 @@
         "location": "Tremona"
     },
     {
+        "label": "Morcote",
         "count": 14,
         "image_ids": [
             "SGV_12N_43819",
@@ -47506,6 +48368,7 @@
         "location": "Morcote"
     },
     {
+        "label": "Isone",
         "count": 65,
         "image_ids": [
             "SGV_12N_43844",
@@ -47581,6 +48444,7 @@
         "location": "Isone"
     },
     {
+        "label": "Astano",
         "count": 4,
         "image_ids": [
             "SGV_12N_43874",
@@ -47595,6 +48459,7 @@
         "location": "Astano"
     },
     {
+        "label": "Gunzwil",
         "count": 18,
         "image_ids": [
             "SGV_12N_43950",
@@ -47623,6 +48488,7 @@
         "location": "Gunzwil"
     },
     {
+        "label": "Bottmingen",
         "count": 4,
         "image_ids": [
             "SGV_12N_44385",
@@ -47637,6 +48503,7 @@
         "location": "Bottmingen"
     },
     {
+        "label": "Rodersdorf",
         "count": 3,
         "image_ids": [
             "SGV_12N_44389",
@@ -47650,6 +48517,7 @@
         "location": "Rodersdorf"
     },
     {
+        "label": "Witterswil",
         "count": 4,
         "image_ids": [
             "SGV_12N_44392",
@@ -47664,6 +48532,7 @@
         "location": "Witterswil"
     },
     {
+        "label": "Bondo",
         "count": 45,
         "image_ids": [
             "SGV_12N_44490",
@@ -47719,6 +48588,7 @@
         "location": "Bondo"
     },
     {
+        "label": "Hasliberg",
         "count": 19,
         "image_ids": [
             "SGV_12N_44521",
@@ -47748,6 +48618,7 @@
         "location": "Hasliberg"
     },
     {
+        "label": "Casaccia",
         "count": 20,
         "image_ids": [
             "SGV_12N_44701",
@@ -47778,6 +48649,7 @@
         "location": "Casaccia"
     },
     {
+        "label": "Castasegna",
         "count": 16,
         "image_ids": [
             "SGV_12N_44710",
@@ -47804,6 +48676,7 @@
         "location": "Castasegna"
     },
     {
+        "label": "Bex",
         "count": 42,
         "image_ids": [
             "SGV_12N_44740",
@@ -47856,6 +48729,7 @@
         "location": "Bex"
     },
     {
+        "label": "Baden-W\u00fcrttemberg",
         "count": 32,
         "image_ids": [
             "SGV_12N_44945",
@@ -47898,6 +48772,7 @@
         "location": "Baden-W\u00fcrttemberg"
     },
     {
+        "label": "Witzwil",
         "count": 1,
         "image_ids": [
             "SGV_12N_05159"
@@ -47909,6 +48784,7 @@
         "location": "Witzwil"
     },
     {
+        "label": "Gravesano",
         "count": 5,
         "image_ids": [
             "SGV_12N_05509",
@@ -47924,6 +48800,7 @@
         "location": "Gravesano"
     },
     {
+        "label": "Torricella",
         "count": 7,
         "image_ids": [
             "SGV_12N_05809",
@@ -47941,6 +48818,7 @@
         "location": "Torricella"
     },
     {
+        "label": "Bedano",
         "count": 1,
         "image_ids": [
             "SGV_12N_05891"
@@ -47952,6 +48830,7 @@
         "location": "Bedano"
     },
     {
+        "label": "Faldum Alp",
         "count": 3,
         "image_ids": [
             "SGV_12N_06001",
@@ -47965,6 +48844,7 @@
         "location": "Faldum Alp"
     },
     {
+        "label": "Eriswil",
         "count": 4,
         "image_ids": [
             "SGV_12N_06270",
@@ -47979,6 +48859,7 @@
         "location": "Eriswil"
     },
     {
+        "label": "Mergoscia",
         "count": 73,
         "image_ids": [
             "SGV_12N_06307",
@@ -48062,6 +48943,7 @@
         "location": "Mergoscia"
     },
     {
+        "label": "Brione",
         "count": 14,
         "image_ids": [
             "SGV_12N_06367",
@@ -48086,6 +48968,7 @@
         "location": "Brione"
     },
     {
+        "label": "Mezzovico",
         "count": 2,
         "image_ids": [
             "SGV_12N_06448",
@@ -48098,6 +48981,7 @@
         "location": "Mezzovico"
     },
     {
+        "label": "Rohrbach",
         "count": 1,
         "image_ids": [
             "SGV_12N_06658"
@@ -48109,6 +48993,7 @@
         "location": "Rohrbach"
     },
     {
+        "label": "Ingenbohl",
         "count": 3,
         "image_ids": [
             "SGV_12N_06690",
@@ -48122,6 +49007,7 @@
         "location": "Ingenbohl"
     },
     {
+        "label": "Walkringen",
         "count": 29,
         "image_ids": [
             "SGV_12N_06801",
@@ -48161,6 +49047,7 @@
         "location": "Walkringen"
     },
     {
+        "label": "Finsterwald",
         "count": 5,
         "image_ids": [
             "SGV_12N_06918",
@@ -48176,6 +49063,7 @@
         "location": "Finsterwald"
     },
     {
+        "label": "La Br\u00e9vine",
         "count": 22,
         "image_ids": [
             "SGV_12N_06922",
@@ -48208,6 +49096,7 @@
         "location": "La Br\u00e9vine"
     },
     {
+        "label": "Rueras",
         "count": 5,
         "image_ids": [
             "SGV_12N_07075",
@@ -48223,6 +49112,7 @@
         "location": "Rueras"
     },
     {
+        "label": "Embrach",
         "count": 25,
         "image_ids": [
             "SGV_12N_07101",
@@ -48258,6 +49148,7 @@
         "location": "Embrach"
     },
     {
+        "label": "Oberr\u00fcti",
         "count": 6,
         "image_ids": [
             "SGV_12N_07329",
@@ -48274,6 +49165,7 @@
         "location": "Oberr\u00fcti"
     },
     {
+        "label": "Abtwil",
         "count": 10,
         "image_ids": [
             "SGV_12N_07368",
@@ -48294,6 +49186,7 @@
         "location": "Abtwil"
     },
     {
+        "label": "Liebewil",
         "count": 41,
         "image_ids": [
             "SGV_12N_07437",
@@ -48345,6 +49238,7 @@
         "location": "Liebewil"
     },
     {
+        "label": "Herzwil",
         "count": 2,
         "image_ids": [
             "SGV_12N_07450",
@@ -48357,6 +49251,7 @@
         "location": "Herzwil"
     },
     {
+        "label": "K\u00f6niz",
         "count": 1,
         "image_ids": [
             "SGV_12N_07457"
@@ -48368,6 +49263,7 @@
         "location": "K\u00f6niz"
     },
     {
+        "label": "Neggio",
         "count": 20,
         "image_ids": [
             "SGV_12N_07460",
@@ -48398,6 +49294,7 @@
         "location": "Neggio"
     },
     {
+        "label": "Vicosoprano",
         "count": 30,
         "image_ids": [
             "SGV_12N_32671",
@@ -48438,6 +49335,7 @@
         "location": "Vicosoprano"
     },
     {
+        "label": "Roticcio",
         "count": 9,
         "image_ids": [
             "SGV_12N_32712",
@@ -48457,6 +49355,7 @@
         "location": "Roticcio"
     },
     {
+        "label": "Thielle-Wavre",
         "count": 7,
         "image_ids": [
             "SGV_12N_32751",
@@ -48474,6 +49373,7 @@
         "location": "Thielle-Wavre"
     },
     {
+        "label": "La Chaux-de-Fonds",
         "count": 73,
         "image_ids": [
             "SGV_12N_32836",
@@ -48557,6 +49457,7 @@
         "location": "La Chaux-de-Fonds"
     },
     {
+        "label": "La Cibourg",
         "count": 4,
         "image_ids": [
             "SGV_12N_32871",
@@ -48571,6 +49472,7 @@
         "location": "La Cibourg"
     },
     {
+        "label": "Obergesteln",
         "count": 2,
         "image_ids": [
             "SGV_12N_32884",
@@ -48583,6 +49485,7 @@
         "location": "Obergesteln"
     },
     {
+        "label": "Ladir",
         "count": 8,
         "image_ids": [
             "SGV_12N_33001",
@@ -48601,6 +49504,7 @@
         "location": "Ladir"
     },
     {
+        "label": "Ruschein",
         "count": 2,
         "image_ids": [
             "SGV_12N_33009",
@@ -48613,6 +49517,7 @@
         "location": "Ruschein"
     },
     {
+        "label": "Siat",
         "count": 6,
         "image_ids": [
             "SGV_12N_33013",
@@ -48629,6 +49534,7 @@
         "location": "Siat"
     },
     {
+        "label": "Waltensburg",
         "count": 4,
         "image_ids": [
             "SGV_12N_33034",
@@ -48643,6 +49549,7 @@
         "location": "Waltensburg"
     },
     {
+        "label": "Wettingen",
         "count": 26,
         "image_ids": [
             "SGV_12N_33122",
@@ -48679,6 +49586,7 @@
         "location": "Wettingen"
     },
     {
+        "label": "Simplon Dorf",
         "count": 11,
         "image_ids": [
             "SGV_12N_33226",
@@ -48700,6 +49608,7 @@
         "location": "Simplon Dorf"
     },
     {
+        "label": "Gabi (Simplon)",
         "count": 2,
         "image_ids": [
             "SGV_12N_33243",
@@ -48712,6 +49621,7 @@
         "location": "Gabi (Simplon)"
     },
     {
+        "label": "Schachen",
         "count": 41,
         "image_ids": [
             "SGV_12N_33245",
@@ -48763,6 +49673,7 @@
         "location": "Schachen"
     },
     {
+        "label": "M\u00fcnster",
         "count": 30,
         "image_ids": [
             "SGV_12N_33307",
@@ -48803,6 +49714,7 @@
         "location": "M\u00fcnster"
     },
     {
+        "label": "Reckingen-Gluringen",
         "count": 12,
         "image_ids": [
             "SGV_12N_33337",
@@ -48825,6 +49737,7 @@
         "location": "Reckingen-Gluringen"
     },
     {
+        "label": "M\u00fchlebach",
         "count": 1,
         "image_ids": [
             "SGV_12N_33352"
@@ -48836,6 +49749,7 @@
         "location": "M\u00fchlebach"
     },
     {
+        "label": "Elgg",
         "count": 35,
         "image_ids": [
             "SGV_12N_33366",
@@ -48881,6 +49795,7 @@
         "location": "Elgg"
     },
     {
+        "label": "Sant'Antonio",
         "count": 35,
         "image_ids": [
             "SGV_12N_33401",
@@ -48926,6 +49841,7 @@
         "location": "Sant'Antonio"
     },
     {
+        "label": "Giubiasco",
         "count": 1,
         "image_ids": [
             "SGV_12N_33404"
@@ -48937,6 +49853,7 @@
         "location": "Giubiasco"
     },
     {
+        "label": "Carena",
         "count": 27,
         "image_ids": [
             "SGV_12N_33427",
@@ -48974,6 +49891,7 @@
         "location": "Carena"
     },
     {
+        "label": "R\u00fcti bei Riggisberg",
         "count": 38,
         "image_ids": [
             "SGV_12N_33634",
@@ -49022,6 +49940,7 @@
         "location": "R\u00fcti bei Riggisberg"
     },
     {
+        "label": "Haldenstein",
         "count": 8,
         "image_ids": [
             "SGV_12N_33697",
@@ -49040,6 +49959,7 @@
         "location": "Haldenstein"
     },
     {
+        "label": "Thun",
         "count": 49,
         "image_ids": [
             "SGV_12N_33901",
@@ -49099,6 +50019,7 @@
         "location": "Thun"
     },
     {
+        "label": "Weissenstein",
         "count": 66,
         "image_ids": [
             "SGV_12N_33935",
@@ -49175,6 +50096,7 @@
         "location": "Weissenstein"
     },
     {
+        "label": "Pohlern",
         "count": 24,
         "image_ids": [
             "SGV_12N_34029",
@@ -49209,6 +50131,7 @@
         "location": "Pohlern"
     },
     {
+        "label": "Oberstocken",
         "count": 10,
         "image_ids": [
             "SGV_12N_34053",
@@ -49229,6 +50152,7 @@
         "location": "Oberstocken"
     },
     {
+        "label": "Amsoldingen",
         "count": 20,
         "image_ids": [
             "SGV_12N_34063",
@@ -49259,6 +50183,7 @@
         "location": "Amsoldingen"
     },
     {
+        "label": "Reutigen",
         "count": 19,
         "image_ids": [
             "SGV_12N_34079",
@@ -49288,6 +50213,7 @@
         "location": "Reutigen"
     },
     {
+        "label": "Wiedlisbach",
         "count": 9,
         "image_ids": [
             "SGV_12N_34095",
@@ -49307,6 +50233,7 @@
         "location": "Wiedlisbach"
     },
     {
+        "label": "Bauen",
         "count": 2,
         "image_ids": [
             "SGV_12N_34101",
@@ -49319,6 +50246,7 @@
         "location": "Bauen"
     },
     {
+        "label": "Basse-Nendaz",
         "count": 35,
         "image_ids": [
             "SGV_12N_34201",
@@ -49364,6 +50292,7 @@
         "location": "Basse-Nendaz"
     },
     {
+        "label": "Mels",
         "count": 5,
         "image_ids": [
             "SGV_12N_34238",
@@ -49379,6 +50308,7 @@
         "location": "Mels"
     },
     {
+        "label": "Bissone",
         "count": 20,
         "image_ids": [
             "SGV_12N_34243",
@@ -49409,6 +50339,7 @@
         "location": "Bissone"
     },
     {
+        "label": "Melide",
         "count": 7,
         "image_ids": [
             "SGV_12N_34254",
@@ -49426,6 +50357,7 @@
         "location": "Melide"
     },
     {
+        "label": "Weisstannen",
         "count": 28,
         "image_ids": [
             "SGV_12N_34271",
@@ -49464,6 +50396,7 @@
         "location": "Weisstannen"
     },
     {
+        "label": "Cimalmotto",
         "count": 25,
         "image_ids": [
             "SGV_12N_34316",
@@ -49499,6 +50432,7 @@
         "location": "Cimalmotto"
     },
     {
+        "label": "Niva",
         "count": 11,
         "image_ids": [
             "SGV_12N_34341",
@@ -49520,6 +50454,7 @@
         "location": "Niva"
     },
     {
+        "label": "Morissen",
         "count": 1,
         "image_ids": [
             "SGV_12N_34396"
@@ -49531,6 +50466,7 @@
         "location": "Morissen"
     },
     {
+        "label": "Kl\u00f6ntal",
         "count": 8,
         "image_ids": [
             "SGV_12N_34439",
@@ -49549,6 +50485,7 @@
         "location": "Kl\u00f6ntal"
     },
     {
+        "label": "Obersaxen",
         "count": 36,
         "image_ids": [
             "SGV_12N_34447",
@@ -49595,6 +50532,7 @@
         "location": "Obersaxen"
     },
     {
+        "label": "Le Ch\u00e2ble",
         "count": 53,
         "image_ids": [
             "SGV_12N_34482",
@@ -49658,6 +50596,7 @@
         "location": "Le Ch\u00e2ble"
     },
     {
+        "label": "Veytaux",
         "count": 4,
         "image_ids": [
             "SGV_12N_34483",
@@ -49672,6 +50611,7 @@
         "location": "Veytaux"
     },
     {
+        "label": "Elm",
         "count": 7,
         "image_ids": [
             "SGV_12N_34555",
@@ -49689,6 +50629,7 @@
         "location": "Elm"
     },
     {
+        "label": "Glarus",
         "count": 8,
         "image_ids": [
             "SGV_12N_34562",
@@ -49707,6 +50648,7 @@
         "location": "Glarus"
     },
     {
+        "label": "Panix",
         "count": 17,
         "image_ids": [
             "SGV_12N_34570",
@@ -49734,6 +50676,7 @@
         "location": "Panix"
     },
     {
+        "label": "Puidoux",
         "count": 9,
         "image_ids": [
             "SGV_12N_34592",
@@ -49753,6 +50696,7 @@
         "location": "Puidoux"
     },
     {
+        "label": "M\u00e9di\u00e8res",
         "count": 21,
         "image_ids": [
             "SGV_12N_34674",
@@ -49784,6 +50728,7 @@
         "location": "M\u00e9di\u00e8res"
     },
     {
+        "label": "Fionnay",
         "count": 4,
         "image_ids": [
             "SGV_12N_34726",
@@ -49798,6 +50743,7 @@
         "location": "Fionnay"
     },
     {
+        "label": "Mauvoisin",
         "count": 16,
         "image_ids": [
             "SGV_12N_34730",
@@ -49824,6 +50770,7 @@
         "location": "Mauvoisin"
     },
     {
+        "label": "Lourtier",
         "count": 9,
         "image_ids": [
             "SGV_12N_34746",
@@ -49843,6 +50790,7 @@
         "location": "Lourtier"
     },
     {
+        "label": "Entremont District",
         "count": 21,
         "image_ids": [
             "SGV_12N_34755",
@@ -49874,6 +50822,7 @@
         "location": "Entremont District"
     },
     {
+        "label": "Sembrancher",
         "count": 15,
         "image_ids": [
             "SGV_12N_34763",
@@ -49899,6 +50848,7 @@
         "location": "Sembrancher"
     },
     {
+        "label": "Klosters",
         "count": 5,
         "image_ids": [
             "SGV_12N_34786",
@@ -49914,6 +50864,7 @@
         "location": "Klosters"
     },
     {
+        "label": "Champsec",
         "count": 58,
         "image_ids": [
             "SGV_12N_34801",
@@ -49982,6 +50933,7 @@
         "location": "Champsec"
     },
     {
+        "label": "Epesses",
         "count": 1,
         "image_ids": [
             "SGV_12N_34859"
@@ -49993,6 +50945,7 @@
         "location": "Epesses"
     },
     {
+        "label": "Lavaux",
         "count": 40,
         "image_ids": [
             "SGV_12N_34860",
@@ -50043,6 +50996,7 @@
         "location": "Lavaux"
     },
     {
+        "label": "Saint Saphorin",
         "count": 1,
         "image_ids": [
             "SGV_12N_34873"
@@ -50054,6 +51008,7 @@
         "location": "Saint Saphorin"
     },
     {
+        "label": "Reussb\u00fchl",
         "count": 8,
         "image_ids": [
             "SGV_12N_34958",
@@ -50072,6 +51027,7 @@
         "location": "Reussb\u00fchl"
     },
     {
+        "label": "Boswil",
         "count": 2,
         "image_ids": [
             "SGV_12N_47577",
@@ -50084,6 +51040,7 @@
         "location": "Boswil"
     },
     {
+        "label": "Horw",
         "count": 39,
         "image_ids": [
             "SGV_12N_47607",
@@ -50133,6 +51090,7 @@
         "location": "Horw"
     },
     {
+        "label": "Chippis",
         "count": 49,
         "image_ids": [
             "SGV_12N_23631A",
@@ -50192,6 +51150,7 @@
         "location": "Chippis"
     },
     {
+        "label": "Lenz",
         "count": 39,
         "image_ids": [
             "SGV_12N_24909A",
@@ -50241,6 +51200,7 @@
         "location": "Lenz"
     },
     {
+        "label": "Frasco",
         "count": 15,
         "image_ids": [
             "SGV_12N_27551",
@@ -50266,6 +51226,7 @@
         "location": "Frasco"
     },
     {
+        "label": "Sonogno",
         "count": 8,
         "image_ids": [
             "SGV_12N_27558",
@@ -50284,6 +51245,7 @@
         "location": "Sonogno"
     },
     {
+        "label": "Madulain",
         "count": 2,
         "image_ids": [
             "SGV_12N_27600",
@@ -50296,6 +51258,7 @@
         "location": "Madulain"
     },
     {
+        "label": "Effretikon",
         "count": 1,
         "image_ids": [
             "SGV_12N_27714"
@@ -50307,6 +51270,7 @@
         "location": "Effretikon"
     },
     {
+        "label": "Ronco sopra Ascona",
         "count": 41,
         "image_ids": [
             "SGV_12N_27728",
@@ -50358,6 +51322,7 @@
         "location": "Ronco sopra Ascona"
     },
     {
+        "label": "Caslano",
         "count": 10,
         "image_ids": [
             "SGV_12N_27939",
@@ -50378,6 +51343,7 @@
         "location": "Caslano"
     },
     {
+        "label": "Hertenstein",
         "count": 6,
         "image_ids": [
             "SGV_12N_27989",
@@ -50394,6 +51360,7 @@
         "location": "Hertenstein"
     },
     {
+        "label": "Locarno",
         "count": 9,
         "image_ids": [
             "SGV_12N_28265",
@@ -50413,6 +51380,7 @@
         "location": "Locarno"
     },
     {
+        "label": "Obernau",
         "count": 7,
         "image_ids": [
             "SGV_12N_28408",
@@ -50430,6 +51398,7 @@
         "location": "Obernau"
     },
     {
+        "label": "Molinis",
         "count": 1,
         "image_ids": [
             "SGV_12N_28505"
@@ -50441,6 +51410,7 @@
         "location": "Molinis"
     },
     {
+        "label": "Stuttgart",
         "count": 10,
         "image_ids": [
             "SGV_12N_28607",
@@ -50461,6 +51431,7 @@
         "location": "Stuttgart"
     },
     {
+        "label": "Alpthal",
         "count": 19,
         "image_ids": [
             "SGV_12N_28674",
@@ -50490,6 +51461,7 @@
         "location": "Alpthal"
     },
     {
+        "label": "Rapallo",
         "count": 9,
         "image_ids": [
             "SGV_12N_28678",
@@ -50509,6 +51481,7 @@
         "location": "Rapallo"
     },
     {
+        "label": "Portofino",
         "count": 11,
         "image_ids": [
             "SGV_12N_28688",
@@ -50530,6 +51503,7 @@
         "location": "Portofino"
     },
     {
+        "label": "Buonas",
         "count": 1,
         "image_ids": [
             "SGV_12N_28818"
@@ -50541,6 +51515,7 @@
         "location": "Buonas"
     },
     {
+        "label": "Windisch",
         "count": 14,
         "image_ids": [
             "SGV_12N_29004",
@@ -50565,6 +51540,7 @@
         "location": "Windisch"
     },
     {
+        "label": "Ebertswil",
         "count": 5,
         "image_ids": [
             "SGV_12N_29023",
@@ -50580,6 +51556,7 @@
         "location": "Ebertswil"
     },
     {
+        "label": "Obfelden",
         "count": 2,
         "image_ids": [
             "SGV_12N_29033",
@@ -50592,6 +51569,7 @@
         "location": "Obfelden"
     },
     {
+        "label": "Linthal",
         "count": 2,
         "image_ids": [
             "SGV_12N_29060",
@@ -50604,6 +51582,7 @@
         "location": "Linthal"
     },
     {
+        "label": "Osogna",
         "count": 2,
         "image_ids": [
             "SGV_12N_29087",
@@ -50616,6 +51595,7 @@
         "location": "Osogna"
     },
     {
+        "label": "Bonaduz",
         "count": 3,
         "image_ids": [
             "SGV_12N_29096",
@@ -50629,6 +51609,7 @@
         "location": "Bonaduz"
     },
     {
+        "label": "Oberried",
         "count": 7,
         "image_ids": [
             "SGV_12N_29106",
@@ -50646,6 +51627,7 @@
         "location": "Oberried"
     },
     {
+        "label": "Aarau",
         "count": 9,
         "image_ids": [
             "SGV_12N_29116",
@@ -50665,6 +51647,7 @@
         "location": "Aarau"
     },
     {
+        "label": "Milan",
         "count": 95,
         "image_ids": [
             "SGV_12N_29134",
@@ -50770,6 +51753,7 @@
         "location": "Milan"
     },
     {
+        "label": "Churwalden",
         "count": 7,
         "image_ids": [
             "SGV_12N_29233",
@@ -50787,6 +51771,7 @@
         "location": "Churwalden"
     },
     {
+        "label": "Treib",
         "count": 4,
         "image_ids": [
             "SGV_12N_29293",
@@ -50801,6 +51786,7 @@
         "location": "Treib"
     },
     {
+        "label": "Udligenswil",
         "count": 3,
         "image_ids": [
             "SGV_12N_29501",
@@ -50814,6 +51800,7 @@
         "location": "Udligenswil"
     },
     {
+        "label": "Wetzikon",
         "count": 4,
         "image_ids": [
             "SGV_12N_29695",
@@ -50828,6 +51815,7 @@
         "location": "Wetzikon"
     },
     {
+        "label": "Pr\u00e4ttigau/Davos District",
         "count": 1,
         "image_ids": [
             "SGV_12N_29719"
@@ -50839,6 +51827,7 @@
         "location": "Pr\u00e4ttigau/Davos District"
     },
     {
+        "label": "Winterthur",
         "count": 26,
         "image_ids": [
             "SGV_12N_29770",
@@ -50875,6 +51864,7 @@
         "location": "Winterthur"
     },
     {
+        "label": "Lauterbrunnen",
         "count": 1,
         "image_ids": [
             "SGV_12N_29844"
@@ -50886,6 +51876,7 @@
         "location": "Lauterbrunnen"
     },
     {
+        "label": "Ausserferrera",
         "count": 7,
         "image_ids": [
             "SGV_12N_40185",
@@ -50903,6 +51894,7 @@
         "location": "Ausserferrera"
     },
     {
+        "label": "Toffen",
         "count": 3,
         "image_ids": [
             "SGV_12N_40560",
@@ -50916,6 +51908,7 @@
         "location": "Toffen"
     },
     {
+        "label": "Meride",
         "count": 10,
         "image_ids": [
             "SGV_12N_40668",
@@ -50936,6 +51929,7 @@
         "location": "Meride"
     },
     {
+        "label": "Carona",
         "count": 9,
         "image_ids": [
             "SGV_12N_40721",
@@ -50955,6 +51949,7 @@
         "location": "Carona"
     },
     {
+        "label": "Lenzburg",
         "count": 13,
         "image_ids": [
             "SGV_12N_41201",
@@ -50978,6 +51973,7 @@
         "location": "Lenzburg"
     },
     {
+        "label": "Bremgarten",
         "count": 50,
         "image_ids": [
             "SGV_12N_41330",
@@ -51038,6 +52034,7 @@
         "location": "Bremgarten"
     },
     {
+        "label": "Baden",
         "count": 23,
         "image_ids": [
             "SGV_12N_41355",
@@ -51071,6 +52068,7 @@
         "location": "Baden"
     },
     {
+        "label": "Laufenburg",
         "count": 10,
         "image_ids": [
             "SGV_12N_41488",
@@ -51091,6 +52089,7 @@
         "location": "Laufenburg"
     },
     {
+        "label": "Riviera-Pays-d'Enhaut District",
         "count": 8,
         "image_ids": [
             "SGV_12N_42023",
@@ -51109,6 +52108,7 @@
         "location": "Riviera-Pays-d'Enhaut District"
     },
     {
+        "label": "Frutigen-Niedersimmental",
         "count": 14,
         "image_ids": [
             "SGV_12N_42081",
@@ -51133,6 +52133,7 @@
         "location": "Frutigen-Niedersimmental"
     },
     {
+        "label": "Sch\u00f6ftland",
         "count": 2,
         "image_ids": [
             "SGV_12N_42338",
@@ -51145,6 +52146,7 @@
         "location": "Sch\u00f6ftland"
     },
     {
+        "label": "Muhen",
         "count": 9,
         "image_ids": [
             "SGV_12N_42340",
@@ -51164,6 +52166,7 @@
         "location": "Muhen"
     },
     {
+        "label": "Villmergen",
         "count": 7,
         "image_ids": [
             "SGV_12N_42394",
@@ -51181,6 +52184,7 @@
         "location": "Villmergen"
     },
     {
+        "label": "Frick",
         "count": 15,
         "image_ids": [
             "SGV_12N_45079",
@@ -51206,6 +52210,7 @@
         "location": "Frick"
     },
     {
+        "label": "Hornussen",
         "count": 23,
         "image_ids": [
             "SGV_12N_45082",
@@ -51239,6 +52244,7 @@
         "location": "Hornussen"
     },
     {
+        "label": "Gettnau",
         "count": 7,
         "image_ids": [
             "SGV_12N_45096",
@@ -51256,6 +52262,7 @@
         "location": "Gettnau"
     },
     {
+        "label": "Berg\u00fcn/Bravuogn",
         "count": 30,
         "image_ids": [
             "SGV_12N_45110",
@@ -51296,6 +52303,7 @@
         "location": "Berg\u00fcn/Bravuogn"
     },
     {
+        "label": "Stoos",
         "count": 12,
         "image_ids": [
             "SGV_12N_45293",
@@ -51318,6 +52326,7 @@
         "location": "Stoos"
     },
     {
+        "label": "Alvaneu",
         "count": 11,
         "image_ids": [
             "SGV_12N_45383",
@@ -51339,6 +52348,7 @@
         "location": "Alvaneu"
     },
     {
+        "label": "Stuls",
         "count": 1,
         "image_ids": [
             "SGV_12N_45399"
@@ -51350,6 +52360,7 @@
         "location": "Stuls"
     },
     {
+        "label": "Schmitten",
         "count": 4,
         "image_ids": [
             "SGV_12N_45501",
@@ -51364,6 +52375,7 @@
         "location": "Schmitten"
     },
     {
+        "label": "Bourg-Saint-Pierre",
         "count": 1,
         "image_ids": [
             "SGV_12N_45568"
@@ -51375,6 +52387,7 @@
         "location": "Bourg-Saint-Pierre"
     },
     {
+        "label": "Bulle",
         "count": 37,
         "image_ids": [
             "SGV_12N_46041",
@@ -51422,6 +52435,7 @@
         "location": "Bulle"
     },
     {
+        "label": "B\u00fchler",
         "count": 7,
         "image_ids": [
             "SGV_12N_46052",
@@ -51439,6 +52453,7 @@
         "location": "B\u00fchler"
     },
     {
+        "label": "Gais",
         "count": 6,
         "image_ids": [
             "SGV_12N_46090",
@@ -51455,6 +52470,7 @@
         "location": "Gais"
     },
     {
+        "label": "Werdenberg",
         "count": 25,
         "image_ids": [
             "SGV_12N_46101",
@@ -51490,6 +52506,7 @@
         "location": "Werdenberg"
     },
     {
+        "label": "Neerach",
         "count": 2,
         "image_ids": [
             "SGV_12N_46182",
@@ -51502,6 +52519,7 @@
         "location": "Neerach"
     },
     {
+        "label": "Rheinau",
         "count": 11,
         "image_ids": [
             "SGV_12N_46185",
@@ -51523,6 +52541,7 @@
         "location": "Rheinau"
     },
     {
+        "label": "Waltalingen",
         "count": 18,
         "image_ids": [
             "SGV_12N_46186",
@@ -51551,6 +52570,7 @@
         "location": "Waltalingen"
     },
     {
+        "label": "Weinfelden",
         "count": 6,
         "image_ids": [
             "SGV_12N_46233",
@@ -51567,6 +52587,7 @@
         "location": "Weinfelden"
     },
     {
+        "label": "Romanshorn",
         "count": 6,
         "image_ids": [
             "SGV_12N_46239",
@@ -51583,6 +52604,7 @@
         "location": "Romanshorn"
     },
     {
+        "label": "Merenschwand",
         "count": 44,
         "image_ids": [
             "SGV_12N_46334",
@@ -51637,6 +52659,7 @@
         "location": "Merenschwand"
     },
     {
+        "label": "M\u00fchlau",
         "count": 18,
         "image_ids": [
             "SGV_12N_46396",
@@ -51665,6 +52688,7 @@
         "location": "M\u00fchlau"
     },
     {
+        "label": "Gruy\u00e8res",
         "count": 10,
         "image_ids": [
             "SGV_12N_46571",
@@ -51685,6 +52709,7 @@
         "location": "Gruy\u00e8res"
     },
     {
+        "label": "Kanton Freiburg",
         "count": 3,
         "image_ids": [
             "SGV_12N_46656",
@@ -51698,6 +52723,7 @@
         "location": "Kanton Freiburg"
     },
     {
+        "label": "D\u00fcdingen",
         "count": 20,
         "image_ids": [
             "SGV_12N_46917",
@@ -51728,6 +52754,7 @@
         "location": "D\u00fcdingen"
     },
     {
+        "label": "Bubikon",
         "count": 25,
         "image_ids": [
             "SGV_12N_47259",
@@ -51763,6 +52790,7 @@
         "location": "Bubikon"
     },
     {
+        "label": "Wetzikon / Kempten",
         "count": 3,
         "image_ids": [
             "SGV_12N_22701",
@@ -51776,6 +52804,7 @@
         "location": "Wetzikon / Kempten"
     },
     {
+        "label": "Hinwil",
         "count": 3,
         "image_ids": [
             "SGV_12N_22707",
@@ -51789,6 +52818,7 @@
         "location": "Hinwil"
     },
     {
+        "label": "Marbach SG",
         "count": 14,
         "image_ids": [
             "SGV_12N_22709",
@@ -51813,6 +52843,7 @@
         "location": "Marbach SG"
     },
     {
+        "label": "Marthalen",
         "count": 21,
         "image_ids": [
             "SGV_12N_22718",
@@ -51844,6 +52875,7 @@
         "location": "Marthalen"
     },
     {
+        "label": "Teufen ZH",
         "count": 3,
         "image_ids": [
             "SGV_12N_22719",
@@ -51857,6 +52889,7 @@
         "location": "Teufen ZH"
     },
     {
+        "label": "Hombrechtikon",
         "count": 2,
         "image_ids": [
             "SGV_12N_22810",
@@ -51869,6 +52902,7 @@
         "location": "Hombrechtikon"
     },
     {
+        "label": "Uerikon",
         "count": 2,
         "image_ids": [
             "SGV_12N_22812",
@@ -51881,6 +52915,7 @@
         "location": "Uerikon"
     },
     {
+        "label": "D\u00fcrnten",
         "count": 5,
         "image_ids": [
             "SGV_12N_22813",
@@ -51896,6 +52931,7 @@
         "location": "D\u00fcrnten"
     },
     {
+        "label": "Adetswil",
         "count": 1,
         "image_ids": [
             "SGV_12N_22826"
@@ -51907,6 +52943,7 @@
         "location": "Adetswil"
     },
     {
+        "label": "Birgisch",
         "count": 35,
         "image_ids": [
             "SGV_12N_22902",
@@ -51952,6 +52989,7 @@
         "location": "Birgisch"
     },
     {
+        "label": "Mund",
         "count": 22,
         "image_ids": [
             "SGV_12N_22907",
@@ -51984,6 +53022,7 @@
         "location": "Mund"
     },
     {
+        "label": "Niedergesteln",
         "count": 2,
         "image_ids": [
             "SGV_12N_22920",
@@ -51996,6 +53035,7 @@
         "location": "Niedergesteln"
     },
     {
+        "label": "Hohtenn",
         "count": 16,
         "image_ids": [
             "SGV_12N_22923",
@@ -52022,6 +53062,7 @@
         "location": "Hohtenn"
     },
     {
+        "label": "Gamsen",
         "count": 2,
         "image_ids": [
             "SGV_12N_22970",
@@ -52034,6 +53075,7 @@
         "location": "Gamsen"
     },
     {
+        "label": "Martigny District",
         "count": 11,
         "image_ids": [
             "SGV_12N_23000",
@@ -52055,6 +53097,7 @@
         "location": "Martigny District"
     },
     {
+        "label": "Ebnat-Kappel",
         "count": 19,
         "image_ids": [
             "SGV_12N_23015",
@@ -52084,6 +53127,7 @@
         "location": "Ebnat-Kappel"
     },
     {
+        "label": "Semione",
         "count": 16,
         "image_ids": [
             "SGV_12N_23110",
@@ -52110,6 +53154,7 @@
         "location": "Semione"
     },
     {
+        "label": "Leontica",
         "count": 5,
         "image_ids": [
             "SGV_12N_23127",
@@ -52125,6 +53170,7 @@
         "location": "Leontica"
     },
     {
+        "label": "Largario",
         "count": 12,
         "image_ids": [
             "SGV_12N_23162",
@@ -52147,6 +53193,7 @@
         "location": "Largario"
     },
     {
+        "label": "Holderbank",
         "count": 4,
         "image_ids": [
             "SGV_12N_23280",
@@ -52161,6 +53208,7 @@
         "location": "Holderbank"
     },
     {
+        "label": "Veltheim",
         "count": 2,
         "image_ids": [
             "SGV_12N_23284",
@@ -52173,6 +53221,7 @@
         "location": "Veltheim"
     },
     {
+        "label": "Stein",
         "count": 1,
         "image_ids": [
             "SGV_12N_23294"
@@ -52184,6 +53233,7 @@
         "location": "Stein"
     },
     {
+        "label": "B\u00f6zen",
         "count": 8,
         "image_ids": [
             "SGV_12N_23295",
@@ -52202,6 +53252,7 @@
         "location": "B\u00f6zen"
     },
     {
+        "label": "Unterstammheim",
         "count": 8,
         "image_ids": [
             "SGV_12N_23301",
@@ -52220,6 +53271,7 @@
         "location": "Unterstammheim"
     },
     {
+        "label": "Oberstammheim",
         "count": 15,
         "image_ids": [
             "SGV_12N_23307",
@@ -52245,6 +53297,7 @@
         "location": "Oberstammheim"
     },
     {
+        "label": "Guntalingen",
         "count": 3,
         "image_ids": [
             "SGV_12N_23390",
@@ -52258,6 +53311,7 @@
         "location": "Guntalingen"
     },
     {
+        "label": "Mumpf",
         "count": 3,
         "image_ids": [
             "SGV_12N_23521",
@@ -52271,6 +53325,7 @@
         "location": "Mumpf"
     },
     {
+        "label": "Riburg",
         "count": 3,
         "image_ids": [
             "SGV_12N_23529",
@@ -52284,6 +53339,7 @@
         "location": "Riburg"
     },
     {
+        "label": "Bad S\u00e4ckingen",
         "count": 4,
         "image_ids": [
             "SGV_12N_23547",
@@ -52298,6 +53354,7 @@
         "location": "Bad S\u00e4ckingen"
     },
     {
+        "label": "Les Rangiers",
         "count": 3,
         "image_ids": [
             "SGV_12N_23553",
@@ -52311,6 +53368,7 @@
         "location": "Les Rangiers"
     },
     {
+        "label": "H\u00e4gendorf",
         "count": 2,
         "image_ids": [
             "SGV_12N_23587",
@@ -52323,6 +53381,7 @@
         "location": "H\u00e4gendorf"
     },
     {
+        "label": "Balsthal",
         "count": 5,
         "image_ids": [
             "SGV_12N_23589",
@@ -52338,6 +53397,7 @@
         "location": "Balsthal"
     },
     {
+        "label": "Champ\u00e9ry",
         "count": 33,
         "image_ids": [
             "SGV_12N_23597",
@@ -52381,6 +53441,7 @@
         "location": "Champ\u00e9ry"
     },
     {
+        "label": "Rorbas",
         "count": 15,
         "image_ids": [
             "SGV_12N_23801",
@@ -52406,6 +53467,7 @@
         "location": "Rorbas"
     },
     {
+        "label": "Berg",
         "count": 2,
         "image_ids": [
             "SGV_12N_23835",
@@ -52418,6 +53480,7 @@
         "location": "Berg"
     },
     {
+        "label": "Pfungen",
         "count": 1,
         "image_ids": [
             "SGV_12N_23849"
@@ -52429,6 +53492,7 @@
         "location": "Pfungen"
     },
     {
+        "label": "Nommay",
         "count": 10,
         "image_ids": [
             "SGV_12N_24001",
@@ -52449,6 +53513,7 @@
         "location": "Nommay"
     },
     {
+        "label": "Dambenois",
         "count": 11,
         "image_ids": [
             "SGV_12N_24020",
@@ -52470,6 +53535,7 @@
         "location": "Dambenois"
     },
     {
+        "label": "\u00c9tupes",
         "count": 6,
         "image_ids": [
             "SGV_12N_24031",
@@ -52486,6 +53552,7 @@
         "location": "\u00c9tupes"
     },
     {
+        "label": "M\u00f6mpelgard",
         "count": 1,
         "image_ids": [
             "SGV_12N_24033"
@@ -52497,6 +53564,7 @@
         "location": "M\u00f6mpelgard"
     },
     {
+        "label": "Belfort",
         "count": 4,
         "image_ids": [
             "SGV_12N_24039",
@@ -52511,6 +53579,7 @@
         "location": "Belfort"
     },
     {
+        "label": "Val d'Illiez",
         "count": 26,
         "image_ids": [
             "SGV_12N_24072",
@@ -52547,6 +53616,7 @@
         "location": "Val d'Illiez"
     },
     {
+        "label": "Monthey",
         "count": 4,
         "image_ids": [
             "SGV_12N_24115",
@@ -52561,6 +53631,7 @@
         "location": "Monthey"
     },
     {
+        "label": "Treyvaux",
         "count": 2,
         "image_ids": [
             "SGV_12N_24151",
@@ -52573,6 +53644,7 @@
         "location": "Treyvaux"
     },
     {
+        "label": "Trogen",
         "count": 36,
         "image_ids": [
             "SGV_12N_24196",
@@ -52619,6 +53691,7 @@
         "location": "Trogen"
     },
     {
+        "label": "Rebstein",
         "count": 2,
         "image_ids": [
             "SGV_12N_24197",
@@ -52631,6 +53704,7 @@
         "location": "Rebstein"
     },
     {
+        "label": "Eggerstanden",
         "count": 43,
         "image_ids": [
             "SGV_12N_24198",
@@ -52684,6 +53758,7 @@
         "location": "Eggerstanden"
     },
     {
+        "label": "Altst\u00e4tten",
         "count": 47,
         "image_ids": [
             "SGV_12N_24493",
@@ -52741,6 +53816,7 @@
         "location": "Altst\u00e4tten"
     },
     {
+        "label": "Rheintal",
         "count": 4,
         "image_ids": [
             "SGV_12N_24541",
@@ -52755,6 +53831,7 @@
         "location": "Rheintal"
     },
     {
+        "label": "Heerbrugg",
         "count": 3,
         "image_ids": [
             "SGV_12N_24545",
@@ -52768,6 +53845,7 @@
         "location": "Heerbrugg"
     },
     {
+        "label": "Balgach",
         "count": 8,
         "image_ids": [
             "SGV_12N_24548",
@@ -52786,6 +53864,7 @@
         "location": "Balgach"
     },
     {
+        "label": "L\u00fcchingen",
         "count": 1,
         "image_ids": [
             "SGV_12N_24561"
@@ -52797,6 +53876,7 @@
         "location": "L\u00fcchingen"
     },
     {
+        "label": "Unterramsern",
         "count": 1,
         "image_ids": [
             "SGV_12N_24690"
@@ -52808,6 +53888,7 @@
         "location": "Unterramsern"
     },
     {
+        "label": "Flums",
         "count": 43,
         "image_ids": [
             "SGV_12N_24696",
@@ -52861,6 +53942,7 @@
         "location": "Flums"
     },
     {
+        "label": "Chiggiogna",
         "count": 13,
         "image_ids": [
             "SGV_12N_24711",
@@ -52884,6 +53966,7 @@
         "location": "Chiggiogna"
     },
     {
+        "label": "Calpiogna",
         "count": 11,
         "image_ids": [
             "SGV_12N_24712",
@@ -52905,6 +53988,7 @@
         "location": "Calpiogna"
     },
     {
+        "label": "Cazis",
         "count": 4,
         "image_ids": [
             "SGV_12N_24845",
@@ -52919,6 +54003,7 @@
         "location": "Cazis"
     },
     {
+        "label": "Z\u00fcrich (Kreis 7) / Witikon",
         "count": 15,
         "image_ids": [
             "SGV_12N_24863",
@@ -52944,6 +54029,7 @@
         "location": "Z\u00fcrich (Kreis 7) / Witikon"
     },
     {
+        "label": "Obervaz",
         "count": 6,
         "image_ids": [
             "SGV_12N_24927",
@@ -52960,6 +54046,7 @@
         "location": "Obervaz"
     },
     {
+        "label": "Tumegl/Tomils",
         "count": 7,
         "image_ids": [
             "SGV_12N_24933",
